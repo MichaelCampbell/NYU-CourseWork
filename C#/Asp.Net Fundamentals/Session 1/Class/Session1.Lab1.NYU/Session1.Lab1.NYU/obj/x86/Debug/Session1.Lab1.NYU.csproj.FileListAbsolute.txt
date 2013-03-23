@@ -1,0 +1,6 @@
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\obj\x86\Debug\Session1.Lab1.NYU.csprojResolveAssemblyReference.cache
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\bin\Debug\lipsum.txt
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\bin\Debug\Session1.Lab1.NYU.exe
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\bin\Debug\Session1.Lab1.NYU.pdb
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\obj\x86\Debug\Session1.Lab1.NYU.exe
+C:\Users\krharris\Dropbox\NYU\NYU\Session1.Lab1.NYU\obj\x86\Debug\Session1.Lab1.NYU.pdb

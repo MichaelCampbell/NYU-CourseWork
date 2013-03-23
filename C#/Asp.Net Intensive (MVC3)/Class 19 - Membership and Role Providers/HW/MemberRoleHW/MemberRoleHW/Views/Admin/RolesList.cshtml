@@ -1,0 +1,28 @@
+﻿@model MemberRoleHW.Models.Admin.UsersViewModel
+
+@{
+    ViewBag.Title = "Roles";
+}
+
+<h2>Roles</h2>
+
+<p>
+    @Html.ActionLink("Add New Role", "AddRoles")
+</p>
+<table>
+    <tr>
+        <th>List of Roles</th>
+    </tr>
+
+@foreach (var item in Model.Roles) {
+    <tr>
+        <td>
+            @item.Text
+            @Html.ActionLink("Edit", "EditRole", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "RoleDetails", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "DeleteRole", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

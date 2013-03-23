@@ -1,0 +1,5 @@
+c:\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

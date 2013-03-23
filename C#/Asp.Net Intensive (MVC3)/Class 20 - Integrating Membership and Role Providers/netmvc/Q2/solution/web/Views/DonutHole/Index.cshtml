@@ -1,0 +1,42 @@
+﻿@model ContactWeb.Models.DonutHole.DonutHoleViewModel
+
+@{
+    ViewBag.Title = "Donut Hole";
+}
+
+<script>
+    $(function () {
+        $("ul#contactList a").live("click", function () {
+            $.get(
+                $(this).attr("href"),
+                function (data) {
+                    $("ul#contactList")
+                        .replaceWith($(data).find("ul#contactList"));
+                }
+            );
+            return false;
+        });
+    });
+
+</script>
+
+<h2>Donut Hole</h2>
+<ul id="contactList">
+    @foreach (var contact in Model.Contacts)
+    {
+        <li @Model.CssClass(contact)>
+            @Html.ActionLink(contact.FullName, "Index", new{SelectedContactId = contact.Id})
+
+            @if (Model.IsSelected(contact))
+            {
+                <ul>
+                    <li>First Name : @contact.FirstName</li>
+                    <li>Last Name : @contact.LastName</li>
+                    <li>Lucky Number : @contact.LuckyNumber</li>
+                    <li>Email : @contact.Email</li>
+                </ul>
+            }
+        </li>
+    }
+</ul>
+

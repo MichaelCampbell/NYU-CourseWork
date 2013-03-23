@@ -1,0 +1,77 @@
+TX to the N
+v7
+r0
+t299989226.948916
+cCheck dependencies
+cCompileC "build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/x_to_the_n.o" "/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N
+t1278296426
+s9120
+
+N/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/X to the N.LinkFileList
+c000000004C314039000000000000007B
+t1278296121
+s123
+
+N/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/x_to_the_n.o
+t1278296426
+s3172
+
+N/Users/Myko/Documents/Programs/X to the N/main.c
+c000000004C313CF60000000000000089
+t1278295286
+s137
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c
+c000000004C3141690000000000000142
+t1278296425
+s322
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299989226#299989226#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/X to the N/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/x_to_the_n.o" "/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299989226.912732
+e299989226.936285
+r1
+xCompileC
+xbuild/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/x_to_the_n.o
+x/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Myko/Documents/Programs/X to the N/x_to_the_n.c299989226#299989226#0(0"0(0#0#54"/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c4300911832#1391"    cd "/Users/Myko/Documents/Programs/X to the N"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/X to the N-generated-files.hmap" "-I/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/X to the N-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/X to the N-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/X to the N-project-headers.hmap" "-F/Users/Myko/Documents/Programs/X to the N/build/Debug" "-I/Users/Myko/Documents/Programs/X to the N/build/Debug/include" "-I/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/DerivedSources" -c "/Users/Myko/Documents/Programs/X to the N/x_to_the_n.c" -o "/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/x_to_the_n.o"0#
+
+CLd "/Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N" normal x86_64
+s299989226.936375
+e299989226.948868
+r1
+xLd
+x/Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N299989226#299989226#0(0"0(0#0#0"4300911832#535"    cd "/Users/Myko/Documents/Programs/X to the N"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/X to the N/build/Debug" "-F/Users/Myko/Documents/Programs/X to the N/build/Debug" -filelist "/Users/Myko/Documents/Programs/X to the N/build/X to the N.build/Debug/X to the N.build/Objects-normal/x86_64/X to the N.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/X to the N/build/Debug/X to the N"0#
+

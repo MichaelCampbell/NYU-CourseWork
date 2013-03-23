@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Working with DHTML</title>
+<script type="text/javascript">
+    function printDOMElements(element) {
+        if (element == null) { return; }
+        var tstspan = document.getElementById("tstspan");
+        tstspan.innerHTML += element;
+        tstspan.innerHTML += "<br />";
+        for (var i = 0; i < element.childNodes.length; i++) {
+            var child = element.childNodes[i];
+            printDOMElements(child);
+        }
+    }
+</script>
+</head>
+<body>
+<form id="frmTest" name="frmTest">
+ <input type="button" 
+  onclick="printDOMElements(document.getElementById('tbl'));"
+  value="click me" />
+</form>
+<table id="tbl" border="1">
+ <tr><td>row 1</td></tr>
+ <tr><td>row 2</td></tr>
+ <tr><td>row 3</td></tr>
+ <tr><td>row 4</td></tr>
+ <tr><td>row 5</td></tr>
+</table>
+<span id="tstspan"></span>
+</body>
+</html>

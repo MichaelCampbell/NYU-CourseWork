@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="model" priority="1" />
+      <Item value="UseAjax" priority="0" />
+      <Item value="useAjax" priority="0" />
+      <Item value="UserRoles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MembershipApp.Models.Admin.EditRolesViewModel">
+      <Item value="UseAjax" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:AccountController.cs" caret="441" fromTop="22" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Scripts/f:ajaxUtils.js" caret="695" fromTop="25" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/f:Web.config" caret="799" fromTop="19" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="2066" fromTop="9" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:EditUserRoles.cshtml" caret="37" fromTop="0" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="177" fromTop="7" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Models/d:UserRoles/f:EditUserRolesViewModel.cs" caret="553" fromTop="17" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Account/f:Users.cshtml" caret="400" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:EditUserRoles.cshtml" caret="143" fromTop="30" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Scripts/f:ajaxUtils.js" caret="695" fromTop="19" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:EditUserRoles.cshtml" caret="105" fromTop="5" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Shared/f:_Layout.cshtml" caret="278" fromTop="6" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="733" fromTop="20" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="962" fromTop="26" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Scripts/f:ajaxUtils.js" caret="355" fromTop="3" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Scripts/f:ajaxUtils.js" caret="456" fromTop="14" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="275" fromTop="11" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="736" fromTop="22" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/f:Web.config" caret="799" fromTop="19" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Models/d:UserRoles/f:EditUserRolesViewModel.cs" caret="598" fromTop="18" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="353" fromTop="13" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="892" fromTop="26" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="1559" fromTop="27" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="1982" fromTop="18" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="2297" fromTop="26" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Models/d:UserRoles/f:EditUserRolesViewModel.cs" caret="154" fromTop="6" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="177" fromTop="6" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:EditUserRoles.cshtml" caret="37" fromTop="0" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="37" fromTop="0" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:UserRoles/f:Form.cshtml" caret="177" fromTop="7" />
+      <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Account/f:Users.cshtml" caret="740" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

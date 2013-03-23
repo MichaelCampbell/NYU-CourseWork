@@ -1,0 +1,73 @@
+TFraction
+v7
+r0
+t321338235.669109
+cCheck dependencies
+cCompileC build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp
+c000000004D7703FB0000000000000297
+t1299645435
+s663
+i<iostream>
+i<iostream>
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction
+t1299645435
+s11168
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.LinkFileList
+c000000004D7703FB0000000000000084
+t1299645435
+s132
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.o
+t1299645435
+s71492
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/main.cpp
+c000000004D7701D7000000000000008F
+t1299644887
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321338235#321338235#0(0"0(0#1#0"8616616608#0"0#
+
+CCompileC build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s321338235.386809
+e321338235.652763
+r1
+xCompileC
+xbuild/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp321338235#321338235#0(0"0(0#0#69"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp8618353056#1537"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Fraction-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Fraction-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Fraction-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Fraction-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/Fraction.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.o"0#
+
+CCompileC build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction" normal x86_64
+s321338235.652854
+e321338235.669063
+r1
+xLd
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction321338235#321338235#0(0"0(0#0#0"8619402784#602"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug" -filelist "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Fraction.build/Debug/Fraction.build/Objects-normal/x86_64/Fraction.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Fraction/build/Debug/Fraction"0#
+

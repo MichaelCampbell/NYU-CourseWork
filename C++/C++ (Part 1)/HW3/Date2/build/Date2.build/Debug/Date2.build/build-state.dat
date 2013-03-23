@@ -1,0 +1,102 @@
+TDate2
+v7
+r0
+t309664087.228163
+cCheck dependencies
+cCompileC build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp
+c000000004CC4E95F0000000000000765
+t1287973215
+s1893
+i<iostream>
+i<cstdlib>
+i<cstddef>
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.LinkFileList
+c000000004CC351CF000000000000006E
+t1287868879
+s110
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o
+t1287971287
+s71224
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2
+t1287971287
+s10928
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Date2/main.cpp
+c000000004CC3508B000000000000008F
+t1287868555
+s143
+i<iostream>
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/Date2.cpp
+c000000004CC4E95F0000000000000765
+t1287973215
+s1893
+i<iostream>
+i<cstdlib>
+i<ctime>
+i<climits>
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.LinkFileList
+c000000004CC351CF000000000000006E
+t1287868879
+s110
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o
+t1287971287
+s71224
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/build/Debug/Date2
+t1287971287
+s10928
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309664086#309664086#0(0"0(0#1#0"8613408256#0"0#
+
+CCompileC build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309664086.950535
+e309664087.210247
+r1
+xCompileC
+xbuild/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o
+x/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp309664086#309664087#0(0"0(0#0#53"/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp8612363584#1334"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Date2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Date2-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Date2-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Date2-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Date2-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/Date2.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o"0#
+
+CCompileC build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.o "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/Date2.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2" normal x86_64
+s309664087.210331
+e309664087.228114
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2309664087#309664087#0(0"0(0#0#0"8613448960#525"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Date2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Date2.build/Debug/Date2.build/Objects-normal/x86_64/Date2.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW3/Date2/build/Debug/Date2"0#
+
+CLd "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Date2/build/Debug/Date2" normal x86_64
+r0
+

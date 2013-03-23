@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with relative positioning...</title>
+    <style type="text/css">
+    a.info            { position:relative; background-color:Orange; color:#000; text-decoration:none;}
+    a.info:hover      { background-color:#ff0}
+    a.info span       { display:none;}
+    a.info:hover span { /*the span will display just on :hover state*/ 
+                        display:block; 
+                        position:absolute; 
+                        top:2em; left:2em; width:15em; 
+                        border:1px solid #0cf; 
+                        background-color:#cff; color:#000; 
+                        text-align:center;}
+    </style>
+</head>
+<body>
+Check out this <a href="http://www.google.com" class="info">popup<span> and you thought they were hard...<br /></br /><img src="../images/flower.png" /></span></a>
+</body>
+</html>

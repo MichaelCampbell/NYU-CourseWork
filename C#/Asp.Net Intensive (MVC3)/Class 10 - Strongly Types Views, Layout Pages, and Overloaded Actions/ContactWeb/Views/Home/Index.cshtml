@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home";
+    
+}
+
+<h2>Home</h2>
+
+<div>
+    <p>
+        @Html.ActionLink("Contact", "List", "Contact")
+    </p>
+    
+    Welcome to our site. We will store contact infomration in our site. Today is 
+    <em>@DateTime.Now.ToShortDateString()</em> 
+    and the time is 
+    <em>@DateTime.Now.ToShortDateString()</em>
+</div>

@@ -1,0 +1,59 @@
+TBMI
+v7
+r0
+t311892885.126531
+cCheck dependencies
+cCompileC build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/BMI.LinkFileList
+c000000004CE6E4140000000000000067
+t1290200084
+s103
+
+N/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/main.o
+t1290200085
+s69808
+
+N/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI
+t1290200085
+s10712
+
+N/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp
+c000000004CE6E41400000000000000F4
+t1290200084
+s244
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311892884#311892884#0(0"0(0#1#0"8614888832#0"0#
+
+CCompileC build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311892884.863887
+e311892885.111051
+r1
+xCompileC
+xbuild/BMI.build/Debug/BMI.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp311892884#311892885#0(0"0(0#0#50"/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp8616044224#1274"    cd "/Users/Myko/Documents/C++ (Part1)/HW5/BMI"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/BMI-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/BMI-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/BMI-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/BMI-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI" normal x86_64
+s311892885.111138
+e311892885.126489
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI311892885#311892885#0(0"0(0#0#0"8616006784#507"    cd "/Users/Myko/Documents/C++ (Part1)/HW5/BMI"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/BMI.build/Debug/BMI.build/Objects-normal/x86_64/BMI.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW5/BMI/build/Debug/BMI"0#
+

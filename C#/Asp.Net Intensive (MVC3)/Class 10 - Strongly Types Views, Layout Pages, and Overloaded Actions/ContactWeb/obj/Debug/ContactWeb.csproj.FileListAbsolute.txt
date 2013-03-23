@@ -1,0 +1,10 @@
+C:\netmvc\ContactWeb\bin\ContactWeb.dll
+C:\netmvc\ContactWeb\bin\ContactWeb.pdb
+C:\netmvc\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\ContactWeb\obj\Debug\ContactWeb.dll
+C:\netmvc\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 10\ContactWeb\bin\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 10\ContactWeb\bin\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 10\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 10\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 10\ContactWeb\obj\Debug\ContactWeb.pdb

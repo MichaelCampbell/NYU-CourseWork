@@ -1,0 +1,4 @@
+Don't be afraid of this application, there's a lot of code but it's mostly there to handle the display.  
+You'll learn why other types of projects are better choices when the user interface is important.
+
+If you don't understand what's going on, set a few breakpoints follow the program execution in debug mode.

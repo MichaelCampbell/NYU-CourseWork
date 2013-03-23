@@ -1,0 +1,65 @@
+﻿<html>
+<head>
+	<title>Local Database Demo</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
+	<script src="db_demo.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="db_demo.css" type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+<h2>HTML5 Local Database Demo</h2>
+<h3 id="greeting"></h3>
+		<form>
+			<fieldset>
+			<legend>Customize</legend>
+			<table>
+				<tr>
+					<td><label for="fname">Your Name:</label></td>
+					<td><input type="fname" id="fname" /></td>
+				</tr>
+				<tr>
+					<td><label for="bg_color">Background:</label></td>
+					<td>	<select id="bg_color">	
+  							    <option value="#00FFFF">Cyan</option>
+  							    <option value="#E9967A">Dark Salmon</option>
+  							    <option value="#8FBC8F">Dark Sea Green</option>
+  							    <option value="#DEB887">Burly Wood</option>
+                                <option value="#FFFFFF">White</option>
+                                <option value="#000000">Black</option></select></td>
+				</tr>
+				<tr>
+					<td><label for="font_selection">Favorite Font:</label></td>
+					<td>	<select id="font_selection">
+                                <option value="Arial">Arial</option>
+                                <option value="Impact">Impact</option>
+                                <option value="Courier New">Courier New</option>
+                                <option value="Comic Sans MS">Comic Sans MS</option>
+							    <option value="Georgia">Georgia</option>
+							    <option value="Times">Times</option></select></td>
+				</tr>
+                <tr>
+                    <td><label for="fontSize_selection">Font Size: </label></td>
+                    <td> <select id="fontSize_selection">
+                            <option value"5pt">xx-small</option>
+                            <option value"8pt">x-small</option>
+                            <option value"12pt">small</option>
+                            <option value"18pt">medium</option>
+                            <option value"24pt">large</option>
+                            <option value"36pt">x-large</option>
+                            <option value"72pt">xx-large</option></select></td>
+                </tr>
+				<tr>
+					<td colspan="2"><input type="button" id="update" value="Update Your Preferences" /></td>
+				</tr>
+			</table>		
+		</fieldset>
+		</form>		
+		<a href="javascript:void(0)" id="clear">Clear Preferences</a>
+		
+		<p id="instructions">Every time you update your prefereces they are stored in a local database. The data is stored until you either click "Clear Preferences" or manually remove it. You can manually view the data / databse by clicking <em>Develop > Show Web Inspector > Databases tab</em>.</p>
+</div>
+
+<div id="footer"></div>
+</body>
+</html>

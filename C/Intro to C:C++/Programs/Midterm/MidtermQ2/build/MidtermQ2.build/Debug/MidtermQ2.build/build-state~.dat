@@ -1,0 +1,79 @@
+TMidtermQ2
+v7
+r0
+t300060229.152148
+cCheck dependencies
+cCompileC build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/Matrix.o /Users/Myko/Documents/Programs/MidtermQ2/Matrix.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c
+c000000004C3256C300000000000000E3
+t1278367427
+s227
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ2
+t1278367429
+s8984
+
+N/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/Matrix.o
+t1278367429
+s2776
+
+N/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/MidtermQ2.LinkFileList
+c000000004C3256C50000000000000074
+t1278367429
+s116
+
+N/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MidtermQ2/main.c
+c000000004C32554E0000000000000089
+t1278367054
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300060229#300060229#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/Matrix.o /Users/Myko/Documents/Programs/MidtermQ2/Matrix.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300060229.022738
+e300060229.098615
+r1
+xCompileC
+xbuild/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/Matrix.o
+x/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c: In function 'main':
+o/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c:15: warning: format '%i' expects type 'int', but argument 2 has type 'int (*)[8]'
+lSLF07#2@57"Compile /Users/Myko/Documents/Programs/MidtermQ2/Matrix.c300060229#300060229#0(203"/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c: In function 'main':/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c:15: warning: format '%i' expects type 'int', but argument 2 has type 'int (*)[8]'1(22@68"Format '%i' expects type 'int', but argument 2 has type 'int (*)[8]'300060229#71#132#0(6@49"/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c300060227#15#0#15#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#49"/Users/Myko/Documents/Programs/MidtermQ2/Matrix.c4300911832#1332"    cd /Users/Myko/Documents/Programs/MidtermQ2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/MidtermQ2-generated-files.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/MidtermQ2-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/MidtermQ2-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/MidtermQ2-project-headers.hmap -F/Users/Myko/Documents/Programs/MidtermQ2/build/Debug -I/Users/Myko/Documents/Programs/MidtermQ2/build/Debug/include -I/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/DerivedSources -c /Users/Myko/Documents/Programs/MidtermQ2/Matrix.c -o /Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/Matrix.o0#
+
+CCompileC build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MidtermQ2/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ2 normal x86_64
+s300060229.098752
+e300060229.152092
+r1
+xLd
+x/Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ2
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ2300060229#300060229#0(0"0(0#0#0"4300911832#516"    cd /Users/Myko/Documents/Programs/MidtermQ2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/MidtermQ2/build/Debug -F/Users/Myko/Documents/Programs/MidtermQ2/build/Debug -filelist /Users/Myko/Documents/Programs/MidtermQ2/build/MidtermQ2.build/Debug/MidtermQ2.build/Objects-normal/x86_64/MidtermQ2.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/MidtermQ2/build/Debug/MidtermQ20#
+

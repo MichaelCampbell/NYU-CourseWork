@@ -1,0 +1,8 @@
+﻿    /*Class sample - external css file */
+    h3          {   text-align:center; color:Yellow; background-color:Red;}
+    a:link      {   text-decoration:none; color:Teal; padding-left:10px;}
+    a:visited   {   text-decoration:none; color:Teal; padding-left: 10px;}
+    a:active    {   text-decoration:none; color:blue; font-size:14pt; padding-left:25px;}
+    a:focus     {   text-decoration:none; color:blue; font-size:14pt; padding-left:25px;}
+    a:hover     {   text-decoration:none; color:blue; font-size:14pt; padding-left:25px;}
+    li          {list-style-image:url("../images/heart-blood-icon.png")}

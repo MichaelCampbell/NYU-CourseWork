@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 20CD789812AB2E4F00D56166 /* The Rabbit Game */;
+		activeTarget = 8DD76F620486A84900D96B5E /* The Rabbit Game */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* The Rabbit Game */,
+		);
+		codeSenseManager = 20CD78B212AB2E5D00D56166 /* Code sense */;
+		executables = (
+			20CD789812AB2E4F00D56166 /* The Rabbit Game */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					427,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313640172;
+			PBXWorkspaceStateSaveDate = 313640172;
+		};
+		perUserProjectItems = {
+			202288EF12AC348300BF5C6C /* PBXTextBookmark */ = 202288EF12AC348300BF5C6C /* PBXTextBookmark */;
+			2022891612AC3B2B00BF5C6C /* PBXTextBookmark */ = 2022891612AC3B2B00BF5C6C /* PBXTextBookmark */;
+			2022891712AC3B2B00BF5C6C /* PBXTextBookmark */ = 2022891712AC3B2B00BF5C6C /* PBXTextBookmark */;
+			2022891812AC3B2B00BF5C6C /* PBXTextBookmark */ = 2022891812AC3B2B00BF5C6C /* PBXTextBookmark */;
+			2022891E12AC3BCA00BF5C6C /* PBXTextBookmark */ = 2022891E12AC3BCA00BF5C6C /* PBXTextBookmark */;
+			207AEA4C12B1C5480067BC13 /* PBXTextBookmark */ = 207AEA4C12B1C5480067BC13 /* PBXTextBookmark */;
+			207AEA4D12B1C5480067BC13 /* PBXTextBookmark */ = 207AEA4D12B1C5480067BC13 /* PBXTextBookmark */;
+			207AEA4E12B1C5480067BC13 /* PBXTextBookmark */ = 207AEA4E12B1C5480067BC13 /* PBXTextBookmark */;
+			207AEA4F12B1C5480067BC13 /* PBXTextBookmark */ = 207AEA4F12B1C5480067BC13 /* PBXTextBookmark */;
+			20CD790612AB377B00D56166 /* PBXTextBookmark */ = 20CD790612AB377B00D56166 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 20CD78B112AB2E5D00D56166 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 512}}";
+			sepNavSelRange = "{0, 758}";
+			sepNavVisRange = "{0, 758}";
+		};
+	};
+	202288EF12AC348300BF5C6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78B912AB2FFC00D56166 /* wolf.h */;
+		name = "wolf.h: 11";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	2022891612AC3B2B00BF5C6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 758;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 0;
+	};
+	2022891712AC3B2B00BF5C6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78B312AB2F8800D56166 /* rabbit.h */;
+		name = "rabbit.h: 11";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	2022891812AC3B2B00BF5C6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78BE12AB30C500D56166 /* term.h */;
+		name = "term.h: 25";
+		rLen = 27;
+		rLoc = 793;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 0;
+	};
+	2022891E12AC3BCA00BF5C6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78B412AB2F8800D56166 /* rabbit.cpp */;
+		name = "rabbit.cpp: 13";
+		rLen = 598;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 0;
+	};
+	207AEA4C12B1C5480067BC13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78BA12AB2FFC00D56166 /* wolf.cpp */;
+		name = "wolf.cpp: 35";
+		rLen = 0;
+		rLoc = 840;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 20;
+	};
+	207AEA4D12B1C5480067BC13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78C612AB31C700D56166 /* terminal.cpp */;
+		name = "terminal.cpp: 81";
+		rLen = 0;
+		rLoc = 1523;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	207AEA4E12B1C5480067BC13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78BF12AB30C500D56166 /* term.c */;
+		name = "term.c: 226";
+		rLen = 0;
+		rLoc = 5017;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 4666;
+	};
+	207AEA4F12B1C5480067BC13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78BF12AB30C500D56166 /* term.c */;
+		name = "term.c: 226";
+		rLen = 0;
+		rLoc = 5017;
+		rType = 0;
+		vrLen = 809;
+		vrLoc = 0;
+	};
+	20CD789812AB2E4F00D56166 /* The Rabbit Game */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "The Rabbit Game";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	20CD78B112AB2E5D00D56166 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	20CD78B212AB2E5D00D56166 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	20CD78B312AB2F8800D56166 /* rabbit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 512}}";
+			sepNavSelRange = "{0, 266}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	20CD78B412AB2F8800D56166 /* rabbit.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 1118}}";
+			sepNavSelRange = "{258, 598}";
+			sepNavVisRange = "{0, 936}";
+		};
+	};
+	20CD78B912AB2FFC00D56166 /* wolf.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 512}}";
+			sepNavSelRange = "{0, 253}";
+			sepNavVisRange = "{0, 253}";
+		};
+	};
+	20CD78BA12AB2FFC00D56166 /* wolf.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 1248}}";
+			sepNavSelRange = "{840, 0}";
+			sepNavVisRange = "{20, 905}";
+		};
+	};
+	20CD78BE12AB30C500D56166 /* term.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 512}}";
+			sepNavSelRange = "{793, 27}";
+			sepNavVisRange = "{0, 889}";
+		};
+	};
+	20CD78BF12AB30C500D56166 /* term.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 7761}}";
+			sepNavSelRange = "{5017, 0}";
+			sepNavVisRange = "{0, 809}";
+		};
+	};
+	20CD78C512AB31C700D56166 /* terminal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 442}}";
+			sepNavSelRange = "{691, 0}";
+			sepNavVisRange = "{0, 457}";
+		};
+	};
+	20CD78C612AB31C700D56166 /* terminal.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 1066}}";
+			sepNavSelRange = "{1523, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	20CD790612AB377B00D56166 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CD78C512AB31C700D56166 /* terminal.h */;
+		name = "terminal.h: 25";
+		rLen = 0;
+		rLoc = 691;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* The Rabbit Game */ = {
+		activeExec = 0;
+		executables = (
+			20CD789812AB2E4F00D56166 /* The Rabbit Game */,
+		);
+	};
+}

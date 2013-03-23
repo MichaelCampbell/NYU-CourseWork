@@ -1,0 +1,18 @@
+﻿<html>
+ <head>
+  <title>Using geoplugin geolocator methods...</title>
+  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="http://www.geoplugin.net/javascript.gp"></script>
+ </head>
+ <body>
+    <script>
+        document.write("<div id='main' style='width: 500px; height: 300px'>");
+        document.write("<p>I love " + geoplugin_city() + ". It is located in the state of " + geoplugin_region() + ".");
+        document.write(" Our current area code is " + geoplugin_areaCode() + ".");
+        document.write(" The DMA code for this location is " + geoplugin_dmaCode() + ". A Designated Market Area (DMA) is a group of counties in the United States that are covered by a specific group of television stations. The term was coined by Nielsen Media Research, and they control the trademark on it.");
+        document.write("There are 210 DMAs in the " + geoplugin_countryName() + " (" + geoplugin_continentCode() + ").</p>");
+        document.write("<p>In case you were curious, our coordinates are: latitude(" + geoplugin_latitude() + ") and longitude(" + geoplugin_longitude() + "). In this location, the best way to get around is via subway. It costs " + geoplugin_currencySymbol() + "2.25 " + geoplugin_currencyCode() + ".</p>");
+        document.write("<p>Thanks for visiting!</p></div>");
+    </script>
+ </body>
+</html>

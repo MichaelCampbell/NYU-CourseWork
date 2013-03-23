@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5233e903-ce00-4be3-a17d-6c500e115613" name="computerlab@LAB227-PC07 2012-05-02 21:11:07" runUser="LAB227-PC07\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="20723483-a981-4561-bfbd-53d0e2f55521">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-PC07 2012-05-02 21_11_07">
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\packages\Ninject.3.0.0.15\lib\net40\Ninject.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-02T21:11:07.5815101-04:00" queuing="2012-05-02T21:11:08.4925622-04:00" start="2012-05-02T21:11:08.5415650-04:00" finish="2012-05-02T21:11:09.1265984-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Can_Create_Page_Links" storage="c:\netmvc\q2\sportsstoresolution\sportsstoresolution\sportsstore.unittests\bin\debug\sportsstore.unittests.dll" id="a421d1a1-b1b4-c4c5-ded8-857e306ec449">
+      <Execution id="98e957c4-721e-408d-82da-4863dd96e046" />
+      <TestMethod codeBase="C:/netmvc/Q2/SportsStoreSolution/SportsStoreSolution/SportsStore.UnitTests/bin/Debug/SportsStore.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SportsStore.UnitTests.ProductControllerUnitTest, SportsStore.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_Create_Page_Links" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a421d1a1-b1b4-c4c5-ded8-857e306ec449" executionId="98e957c4-721e-408d-82da-4863dd96e046" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="98e957c4-721e-408d-82da-4863dd96e046" testId="a421d1a1-b1b4-c4c5-ded8-857e306ec449" testName="Can_Create_Page_Links" computerName="LAB227-PC07" duration="00:00:00.0796728" startTime="2012-05-02T21:11:08.5755669-04:00" endTime="2012-05-02T21:11:09.0645949-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98e957c4-721e-408d-82da-4863dd96e046">
+    </UnitTestResult>
+  </Results>
+</TestRun>

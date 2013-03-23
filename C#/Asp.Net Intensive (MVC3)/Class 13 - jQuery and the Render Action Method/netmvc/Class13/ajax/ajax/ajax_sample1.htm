@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with AJAX</title>
+    <script type="text/javascript">
+        var req = null;
+        function makeRequest() {
+            if (window.XMLHttpRequest) {
+                req = new XMLHttpRequest();
+                document.getElementById("whichRequest").innerHTML = " XMLHttpRequest Used ";
+            }
+            else if (window.ActiveXObject) {
+                req = new ActiveXObject("Microsoft.XMLHTTP");
+                document.getElementById("whichRequest").innerHTML = " ActiveXObject Used ";
+            }
+            if (req) {
+                req.onreadystatechange = getResponse;
+                req.open("POST", "db_call.aspx", true);
+                req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                req.send("msg=hello_from_the_client");
+//                req.send(null);
+            }
+            else {
+                alert("could not create request object...");
+            }
+        }
+        function getResponse() {
+            var console = document.getElementById("console");
+            console.innerHTML += "The readystate for this request is [" + req.readyState + "]<br />";
+            if (req.readyState == 4) {
+                if (req.status == 404)
+                    console.innerHTML += "Page could not be found.<br />";
+                else if (req.status == 200)
+                    console.innerHTML += req.responseText + "<br />";
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="button" onclick="makeRequest();" value="Say Hello" />
+    <div id="whichRequest"></div>
+    <div id="console"></div>
+</body>
+</html>

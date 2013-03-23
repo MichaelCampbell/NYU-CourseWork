@@ -1,0 +1,142 @@
+TArray
+v7
+r0
+t309649312.585427
+cCheck dependencies
+cCompileC build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array.LinkFileList
+c000000004CC49271000000000000006D
+t1287950961
+s109
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o
+t1287953769
+s71276
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/Array
+t1287953769
+s11160
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp
+c000000004CC49D680000000000000221
+t1287953768
+s545
+i<iostream>
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp
+c000000004CC4A81F000000000000040E
+t1287956511
+s1038
+i<iostream>
+i<string>
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array.LinkFileList
+c000000004CC4A4A40000000000000082
+t1287955620
+s130
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o
+t1287956512
+s72376
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o
+t1287953769
+s71276
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array
+t1287956512
+s15296
+
+N/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/main.cpp
+c000000004CC49D680000000000000221
+t1287953768
+s545
+i<iostream>
+i<string>
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp
+c000000004CC4A81F000000000000040E
+t1287956511
+s1038
+i<iostream>
+i<string>
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array.LinkFileList
+c000000004CC4A4A40000000000000082
+t1287955620
+s130
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o
+t1287956512
+s72376
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array
+t1287956512
+s15296
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309649312#309649312#0(0"0(0#1#0"8611807872#0"0#
+
+CCompileC build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309649312.297765
+e309649312.569052
+r1
+xCompileC
+xbuild/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o
+x/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp309649312#309649312#0(0"0(0#0#73"/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp8612351776#1464"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Array-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Array-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Array-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Array-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o"0#
+
+CCompileC build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array_Backwards.o "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/Array_Backwards.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309646569.028027
+e309646569.290772
+r1
+xCompileC
+xbuild/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp309646569#309646569#0(0"0(0#0#52"/Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp8615787040#1332"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Array"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Array-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Array-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Array-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Array-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW3/Array/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/Array.build/Debug/Array.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/Array" normal x86_64
+s309646569.290882
+e309646569.306802
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/Array
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/Array309646569#309646569#0(0"0(0#0#0"8617453952#525"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Array"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW3/Array/build/Debug/Array"0#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array" normal x86_64
+s309649312.569142
+e309649312.585375
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array309649312#309649312#0(0"0(0#0#0"8612923104#575"    cd "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Array.build/Debug/Array.build/Objects-normal/x86_64/Array.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array"0#
+
+CLd "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW3/Array_Backwards/build/Debug/Array" normal x86_64
+r0
+

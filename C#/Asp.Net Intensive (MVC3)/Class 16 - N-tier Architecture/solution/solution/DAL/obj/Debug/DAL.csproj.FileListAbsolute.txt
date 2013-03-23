@@ -1,0 +1,8 @@
+C:\netmvc\solution\solution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\solution\solution\DAL\bin\Debug\DAL.dll
+C:\netmvc\solution\solution\DAL\bin\Debug\DAL.pdb
+C:\netmvc\solution\solution\DAL\bin\Debug\BUS.dll
+C:\netmvc\solution\solution\DAL\bin\Debug\BUS.pdb
+C:\netmvc\solution\solution\DAL\obj\Debug\DAL.dll
+C:\netmvc\solution\solution\DAL\obj\Debug\DAL.pdb
+C:\netmvc\solution\solution\DAL\bin\Debug\DAL.dll.config

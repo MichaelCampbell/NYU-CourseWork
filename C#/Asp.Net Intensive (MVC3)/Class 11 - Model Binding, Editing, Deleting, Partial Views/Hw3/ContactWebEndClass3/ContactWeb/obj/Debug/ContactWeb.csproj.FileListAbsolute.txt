@@ -1,0 +1,20 @@
+C:\eric\ContactWeb\bin\ContactWeb.dll
+C:\eric\ContactWeb\bin\ContactWeb.pdb
+C:\eric\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\ContactWeb\obj\Debug\ContactWeb.dll
+C:\eric\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\ekatz\Desktop\ContactWeb\bin\ContactWeb.dll
+C:\Users\ekatz\Desktop\ContactWeb\bin\ContactWeb.pdb
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 11\ContactWebEndClass3\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 11\ContactWebEndClass3\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 11\ContactWebEndClass3\ContactWeb\bin\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 11\ContactWebEndClass3\ContactWeb\bin\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 11\ContactWebEndClass3\ContactWeb\obj\Debug\ContactWeb.pdb
+H:\ASP.Net Intensive (MVC3)\Class 11\Hw3\Hw3\ContactWebEndClass3\ContactWeb\bin\ContactWeb.dll
+H:\ASP.Net Intensive (MVC3)\Class 11\Hw3\Hw3\ContactWebEndClass3\ContactWeb\bin\ContactWeb.pdb
+H:\ASP.Net Intensive (MVC3)\Class 11\Hw3\Hw3\ContactWebEndClass3\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+H:\ASP.Net Intensive (MVC3)\Class 11\Hw3\Hw3\ContactWebEndClass3\ContactWeb\obj\Debug\ContactWeb.dll
+H:\ASP.Net Intensive (MVC3)\Class 11\Hw3\Hw3\ContactWebEndClass3\ContactWeb\obj\Debug\ContactWeb.pdb

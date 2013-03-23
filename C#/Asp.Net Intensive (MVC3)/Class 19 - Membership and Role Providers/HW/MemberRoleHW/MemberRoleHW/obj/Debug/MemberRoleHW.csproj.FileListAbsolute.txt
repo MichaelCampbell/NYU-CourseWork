@@ -1,0 +1,7 @@
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\bin\MemberRoleHW.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\bin\MemberRoleHW.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\bin\EntityFramework.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\bin\EntityFramework.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\obj\Debug\MemberRoleHW.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 19\HW\MemberRoleHW\MemberRoleHW\obj\Debug\MemberRoleHW.pdb

@@ -1,0 +1,52 @@
+Ttest
+v7
+r0
+t310269851.378646
+cCheck dependencies
+cCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList
+c000000004CCE201B000000000000006A
+t1288577051
+s106
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp
+c000000004CCE201A00000000000006B5
+t1288577050
+s1717
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310269851#310269851#0(0"0(0#1#0"8606835008#0"0#
+
+CCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310269851.119695
+e310269851.378574
+r0
+xCompileC
+xbuild/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp:4:20: error: stdafx.h: No such file or directory
+lSLF07#2@59"Compile /Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp310269851#310269851#0(101"/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp:4:20: error: stdafx.h: No such file or directory1(4@35"Stdafx.h: No such file or directory310269851#0#101#0(6@51"/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp310269850#4#0#4#0#28"*: No such file or directory0(0#0#51"/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp8605313184#1303"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test" normal x86_64
+r0
+

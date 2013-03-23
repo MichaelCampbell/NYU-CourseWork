@@ -1,0 +1,27 @@
+﻿<html>
+ <head>
+  <!--
+    Need to generate a key for this example to work: http://code.google.com/apis/maps/signup.html
+    ABQIAAAA4sXo87iZLgFsNRaRlk_fIhQADGbiGe0fSezfED3OAb08VwhQrhSJ1emfXtIFxW0Areq-Br3NUJciRQ
+    <script src="http://maps.google.com/maps?file=api&v=2&key=Your_Google_Maps_API_Key" type="text7/javascript"></script>
+  -->
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA4sXo87iZLgFsNRaRlk_fIhQADGbiGe0fSezfED3OAb08VwhQrhSJ1emfXtIFxW0Areq-Br3NUJciRQ" type="text/javascript"></script>
+  
+  <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
+ 
+  <script type="text/javascript">
+      function load() {
+          if (GBrowserIsCompatible()) {
+              var map = new GMap2(document.getElementById("map"));
+              map.addControl(new GLargeMapControl());
+              map.addControl(new GMapTypeControl());
+              map.setCenter(new GLatLng(geoplugin_latitude(), geoplugin_longitude()), 12);
+          }
+      }
+  </script>
+ </head>
+ <body>
+   <div id="map" style="width: 500px; height: 300px"></div>
+   <script>       load();</script>
+ </body>
+</html>

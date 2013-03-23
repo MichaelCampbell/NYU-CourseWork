@@ -1,0 +1,10 @@
+C:\netmvc\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\solution\BUS\bin\Debug\BUS.dll
+C:\netmvc\solution\BUS\bin\Debug\BUS.pdb
+C:\netmvc\solution\BUS\obj\Debug\BUS.dll
+C:\netmvc\solution\BUS\obj\Debug\BUS.pdb
+C:\netmvc\solution\solution\BUS\bin\Debug\BUS.dll
+C:\netmvc\solution\solution\BUS\bin\Debug\BUS.pdb
+C:\netmvc\solution\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\solution\solution\BUS\obj\Debug\BUS.dll
+C:\netmvc\solution\solution\BUS\obj\Debug\BUS.pdb

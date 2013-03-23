@@ -1,0 +1,89 @@
+TFinalQ3
+v7
+r0
+t301290033.352732
+cCheck dependencies
+cCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3
+t1279597233
+s9136
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/FinalQ3.LinkFileList
+c000000004C4375BF0000000000000076
+t1279489471
+s118
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o
+t1279597233
+s4520
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c
+c000000004C451AB000000000000003FC
+t1279597232
+s1020
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/main.c
+c000000004C436D290000000000000089
+t1279487273
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301290033#301290033#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c normal x86_64 c com.apple.compilers.gcc.4_2
+s301290033.184915
+e301290033.340375
+r1
+xCompileC
+xbuild/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o
+x/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301290033#301290033#0(0"0(0#0#55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c4300911832#1344"    cd /Users/Myko/Documents/Programs/Final/FinalQ3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-generated-files.hmap -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-own-target-headers.hmap -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-project-headers.hmap -F/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/include -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/DerivedSources -c /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c -o /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o0#
+
+CCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/Final/FinalQ3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3 normal x86_64
+s301290033.340474
+e301290033.352675
+r1
+xLd
+x/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3301290033#301290033#0(0"0(0#0#0"4300911832#528"    cd /Users/Myko/Documents/Programs/Final/FinalQ3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -F/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -filelist /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/FinalQ3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ30#
+

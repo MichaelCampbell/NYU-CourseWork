@@ -1,0 +1,81 @@
+TMidtermQ4
+v7
+r0
+t300085680.535279
+cCheck dependencies
+cCompileC build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/Cap.o /Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A11EB240000000000000644
+t1242688292
+s1604
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c
+c000000004C32BB7500000000000003A3
+t1278393205
+s931
+i<stdio.h>
+i<ctype.h>
+i<stdbool.h>
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/Debug/MidtermQ4
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/Cap.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/MidtermQ4.LinkFileList
+c000000004C32B8750000000000000079
+t1278392437
+s121
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ4/main.c
+c000000004C32B3200000000000000089
+t1278391072
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300085680#300085680#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/Cap.o /Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300085680.534001
+e300085680.535224
+r0
+xCompileC
+xbuild/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/Cap.o
+x/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c300085680#300085680#0(497"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c: In function 'Cap':/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c:28: error: assignment of read-only location/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c:32: warning: comparison between pointer and integer/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c:33: error: assignment of read-only location/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c:37: warning: return makes integer from pointer without a cast4(4@32"Assignment of read-only location300085680#75#99#0(6@54"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c300085680#28#0#28#0#0"0(22@38"Comparison between pointer and integer300085680#174#107#0(6@54"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c300085680#32#0#32#0#0"0(4@32"Assignment of read-only location300085680#281#99#0(6@54"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c300085680#33#0#33#0#0"0(22@48"Return makes integer from pointer without a cast300085680#380#117#0(6@54"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c300085680#37#0#37#0#0"0(0#0#54"/Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c4300911832#1414"    cd /Users/Myko/Documents/Programs/Midterm/MidtermQ4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/MidtermQ4-generated-files.hmap -I/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/MidtermQ4-own-target-headers.hmap -I/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/MidtermQ4-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/MidtermQ4-project-headers.hmap -F/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/Debug -I/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/Debug/include -I/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/DerivedSources -c /Users/Myko/Documents/Programs/Midterm/MidtermQ4/Cap.c -o /Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/Cap.o1#
+
+CCompileC build/MidtermQ4.build/Debug/MidtermQ4.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/Midterm/MidtermQ4/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/Midterm/MidtermQ4/build/Debug/MidtermQ4 normal x86_64
+r0
+

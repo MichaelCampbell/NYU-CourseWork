@@ -1,0 +1,12 @@
+c:\PhoneEntrySolution\PhoneEntryTest\bin\Debug\PhoneEntryTest.dll
+c:\PhoneEntrySolution\PhoneEntryTest\bin\Debug\PhoneEntryTest.pdb
+c:\PhoneEntrySolution\PhoneEntryTest\obj\Debug\ResolveAssemblyReference.cache
+c:\PhoneEntrySolution\PhoneEntryTest\obj\Debug\PhoneEntryTest.dll
+c:\PhoneEntrySolution\PhoneEntryTest\obj\Debug\PhoneEntryTest.pdb
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\bin\Debug\PhoneEntryTest.dll
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\bin\Debug\PhoneEntryTest.pdb
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\bin\Debug\web.dll
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\bin\Debug\web.pdb
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\obj\Debug\PhoneEntryTest.dll
+C:\netmvc\Q1\PhoneEntrySolution\PhoneEntrySolution\PhoneEntryTest\obj\Debug\PhoneEntryTest.pdb

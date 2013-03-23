@@ -1,0 +1,21 @@
+﻿@model ContactWeb.Models.Contact
+@{
+    ViewBag.Title = "Edit";
+}
+@using (Html.BeginForm())
+{
+    <h2>
+        Edit Friends for @Model.FullName</h2>
+    <ul>
+        @{ int counter = 0; }
+        @foreach (var friend in Model.Friends)
+        {
+    
+            <li>ContactId1 : (@friend.FullName)@Html.TextBoxFor(m => Model.Friends[counter].Id)</li>
+            counter++;
+        }
+        <li>Add your Friend :<input name="Friends[@counter].Id" /></li>
+    </ul>
+    
+    <input type="submit" value="submit"/>
+}

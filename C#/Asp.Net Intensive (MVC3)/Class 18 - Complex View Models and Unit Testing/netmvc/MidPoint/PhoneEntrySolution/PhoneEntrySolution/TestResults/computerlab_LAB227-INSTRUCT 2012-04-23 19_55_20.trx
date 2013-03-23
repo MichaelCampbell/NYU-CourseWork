@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="981fdcdd-5b7b-4558-bd3c-77a2c48307e6" name="computerlab@LAB227-INSTRUCT 2012-04-23 19:55:20" runUser="LAB227-INSTRUCT\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="80f8ab4c-729f-41ac-999b-41137eb9942e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-INSTRUCT 2012-04-23 19_55_20">
+      <DeploymentItem filename="C:\PhoneEntrySolution\web\bin\web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-23T19:55:20.8858794-04:00" queuing="2012-04-23T19:55:20.9628838-04:00" start="2012-04-23T19:55:20.9668840-04:00" finish="2012-04-23T19:55:21.1608951-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AvailableTypesForAPhoneEntryWorks" storage="c:\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="142ef973-fd85-a7fd-f630-9b8e94c7f051">
+      <Execution id="d20fcb1f-3151-49aa-ab90-bc1c7a55c762" />
+      <TestMethod codeBase="C:/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AvailableTypesForAPhoneEntryWorks" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="142ef973-fd85-a7fd-f630-9b8e94c7f051" executionId="d20fcb1f-3151-49aa-ab90-bc1c7a55c762" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d20fcb1f-3151-49aa-ab90-bc1c7a55c762" testId="142ef973-fd85-a7fd-f630-9b8e94c7f051" testName="AvailableTypesForAPhoneEntryWorks" computerName="LAB227-INSTRUCT" duration="00:00:00.0364795" startTime="2012-04-23T19:55:20.9698842-04:00" endTime="2012-04-23T19:55:21.1488944-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d20fcb1f-3151-49aa-ab90-bc1c7a55c762">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;4&gt;. Actual:&lt;6&gt;. </Message>
+          <StackTrace>   at PhoneEntryTest.PhoneEntriesViewModelUnitTest.AvailableTypesForAPhoneEntryWorks() in C:\PhoneEntrySolution\PhoneEntryTest\PhoneEntriesViewModelUnitTest.cs:line 62
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

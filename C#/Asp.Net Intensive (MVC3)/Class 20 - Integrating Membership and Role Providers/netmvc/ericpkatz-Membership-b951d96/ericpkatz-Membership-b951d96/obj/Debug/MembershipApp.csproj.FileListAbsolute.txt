@@ -1,0 +1,13 @@
+C:\Users\ekatz\Documents\dotnet\MembershipApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Documents\dotnet\MembershipApp\bin\MembershipApp.dll
+C:\Users\ekatz\Documents\dotnet\MembershipApp\bin\MembershipApp.pdb
+C:\Users\ekatz\Documents\dotnet\MembershipApp\bin\EntityFramework.dll
+C:\Users\ekatz\Documents\dotnet\MembershipApp\bin\EntityFramework.xml
+C:\Users\ekatz\Documents\dotnet\MembershipApp\obj\Debug\MembershipApp.dll
+C:\Users\ekatz\Documents\dotnet\MembershipApp\obj\Debug\MembershipApp.pdb
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\bin\MembershipApp.dll
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\bin\MembershipApp.pdb
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\bin\EntityFramework.xml
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\obj\Debug\MembershipApp.dll
+C:\netmvc\ericpkatz-Membership-b951d96\ericpkatz-Membership-b951d96\obj\Debug\MembershipApp.pdb

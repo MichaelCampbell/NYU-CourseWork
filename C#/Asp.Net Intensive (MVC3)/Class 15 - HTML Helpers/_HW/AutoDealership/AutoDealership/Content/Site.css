@@ -1,0 +1,125 @@
+body
+{
+    font-size: .85em;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+ul.menu
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+
+ul.menu  li
+{
+    font-size:1.5em;
+    text-shadow: -.07em -.07em .05em #999;
+    float:left;
+    padding:3px;
+    margin-right:10px;
+    border-radius:5px 5px 0px 0px;
+    font-family: Tahoma;
+    font-weight:bold;
+}
+
+ul.menu  li:hover, ul.menu  li.selected
+{
+    text-shadow: .07em .07em .05em  #999;
+
+}
+
+ul.menu  li.selected
+{
+    background-color:#fff;
+}
+
+ul.menu li a
+{
+    color: #0066FF;
+    text-decoration: none;
+}
+
+div#content
+{
+    background-color:#fff;
+}
+
+th.sortColumn, td.sortColumn
+{
+    background-color:#ffcc00;
+}
+ul#carList li.selected 
+{
+    background-color: #ffcc00;
+}

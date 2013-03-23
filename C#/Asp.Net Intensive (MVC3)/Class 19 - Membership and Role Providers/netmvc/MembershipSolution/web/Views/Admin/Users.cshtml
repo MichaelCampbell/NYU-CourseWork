@@ -1,0 +1,20 @@
+﻿@model web.Models.Admin.UsersViewModel
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Users</h2>
+
+@using (Html.BeginForm())
+{
+
+    @Html.DropDownList("role", Model.Roles) <input type="submit" value="go"/>
+    <ul>
+        @foreach(var user in Model.Users)
+        {
+            <li>@user.UserName | @Html.ActionLink("Edit Roles", "EditUserRoles", new {username = user.UserName})</li>
+        }
+    </ul>
+
+}

@@ -1,0 +1,50 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:ContactBUS.cs" caret="2341" fromTop="10" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/f:Web.config" caret="668" fromTop="15" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:UserRolesController.cs" caret="216" fromTop="10" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Shared/f:_Layout.cshtml" caret="1005" fromTop="24" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Views/d:Contact/f:Index.cshtml" caret="499" fromTop="29" />
+    <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:Contact.cs" caret="1358" fromTop="26" />
+    <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:IFriendDAL.cs" caret="157" fromTop="8" />
+    <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:IContactDAL.cs" caret="411" fromTop="17" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="594" fromTop="19" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="4174" fromTop="32" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="2620" fromTop="25" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactGenerator.cs" caret="602" fromTop="19" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Models/d:Contact/f:ContactListViewModel.cs" caret="530" fromTop="20" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:ContactController.cs" caret="530" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="3002" fromTop="19" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="3361" fromTop="30" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="3693" fromTop="32" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="1865" fromTop="17" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="2078" fromTop="25" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="2352" fromTop="26" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="2655" fromTop="33" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="4008" fromTop="32" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="158" fromTop="8" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="626" fromTop="26" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="909" fromTop="30" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="748" fromTop="24" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="278" fromTop="13" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="503" fromTop="20" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="1407" fromTop="20" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="2336" fromTop="20" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="3220" fromTop="15" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="3362" fromTop="21" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="3642" fromTop="20" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="5003" fromTop="40" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="3965" fromTop="22" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="1537" fromTop="26" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="1137" fromTop="22" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="1039" fromTop="17" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="1904" fromTop="30" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="4666" fromTop="32" />
+    <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="4205" fromTop="33" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:ContactController.cs" caret="379" fromTop="13" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Controllers/f:ContactController.cs" caret="530" fromTop="17" />
+    <File id="6B389166-676B-4617-BB97-1A6AFA122992/d:Models/d:Contact/f:ContactListViewModel.cs" caret="530" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

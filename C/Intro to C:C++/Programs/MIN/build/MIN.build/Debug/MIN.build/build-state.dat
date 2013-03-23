@@ -1,0 +1,89 @@
+TMIN
+v7
+r0
+t300044698.553301
+cCheck dependencies
+cCompileC build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MIN/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/MIN/build/Debug/MIN normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/build/Debug/MIN
+t1278351898
+s8960
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/MIN.LinkFileList
+c000000004C3219620000000000000060
+t1278351714
+s96
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o
+t1278351898
+s2640
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/main.c
+c000000004C321A1900000000000000AA
+t1278351897
+s170
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/MIN/build/Debug/MIN
+t1278351898
+s8960
+
+N/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/MIN.LinkFileList
+c000000004C3219620000000000000060
+t1278351714
+s96
+
+N/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o
+t1278351898
+s2640
+
+N/Users/Myko/Documents/Programs/MIN/main.c
+c000000004C321A1900000000000000AA
+t1278351897
+s170
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300044698#300044698#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MIN/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300044698.518904
+e300044698.540847
+r1
+xCompileC
+xbuild/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/Programs/MIN/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Myko/Documents/Programs/MIN/main.c300044698#300044698#0(0"0(0#0#41"/Users/Myko/Documents/Programs/MIN/main.c4300911832#1154"    cd /Users/Myko/Documents/Programs/MIN    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-generated-files.hmap -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-project-headers.hmap -F/Users/Myko/Documents/Programs/MIN/build/Debug -I/Users/Myko/Documents/Programs/MIN/build/Debug/include -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/DerivedSources -c /Users/Myko/Documents/Programs/MIN/main.c -o /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o0#
+
+CLd "/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/MIN/build/Debug/MIN" normal x86_64
+r0
+
+CLd /Users/Myko/Documents/Programs/MIN/build/Debug/MIN normal x86_64
+s300044698.540942
+e300044698.553247
+r1
+xLd
+x/Users/Myko/Documents/Programs/MIN/build/Debug/MIN
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/Myko/Documents/Programs/MIN/build/Debug/MIN300044698#300044698#0(0"0(0#0#0"4300911832#462"    cd /Users/Myko/Documents/Programs/MIN    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/MIN/build/Debug -F/Users/Myko/Documents/Programs/MIN/build/Debug -filelist /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/MIN.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/MIN/build/Debug/MIN0#
+

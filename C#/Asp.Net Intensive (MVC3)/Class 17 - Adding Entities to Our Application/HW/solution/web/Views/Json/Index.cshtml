@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ContactWeb.Models.Contact>
+
+@{
+    ViewBag.Title = "Json";
+}
+
+<script>
+    $(function () {
+        $("ul#contactList a").click(function () {
+            var li = $(this).parent();
+            li.addClass("selected");
+            li.siblings().removeClass("selected");
+            li.siblings().each(function () {
+                $(this).find("ul").remove();
+            });
+            //li.find("ul").remove();
+            if (li.find("ul").length > 0) {
+                li.find("ul").toggle();
+                return false;
+            }
+            $.get(
+                $(this).attr("href"),
+                function (contact) {
+                    var ul = $("<ul />");
+                    ul.append($("<li />").html("First Name : " + contact.FirstName));
+                    ul.append($("<li />").html(contact.LastName));
+                    if (contact.LuckyNumber)
+                        ul.append($("<li />").html(contact.LuckyNumber));
+
+                    ul.append($("<li />").html(contact.Email));
+                    li.append(ul);
+                }
+            );
+            return false;
+        });
+    });
+</script>
+
+<ul id="contactList">
+@foreach (var contact in Model)
+{
+    <li>
+        @Html.ActionLink(contact.FullName, "Item", new {id = contact.Id})
+    </li>  
+}
+</ul>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ContactWeb.Models.Contact>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            LuckyNumber
+        </th>
+        <th>
+            FullName
+        </th>
+        <th>
+            Prefix
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @if (Membership.GetUser(item.Email) == null)
+                {
+                    @Html.ActionLink("Create Account", "Create", new { email = item.Email })
+                }
+                else
+                {
+                    @Html.ActionLink("Remove Account", "Remove", new{email = item.Email})
+                }
+                |
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.LuckyNumber
+            </td>
+            <td>
+                @item.FullName
+            </td>
+            <td>
+                @item.Prefix
+            </td>
+        </tr>
+    }
+</table>

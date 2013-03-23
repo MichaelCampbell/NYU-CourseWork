@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script>
+        jQuery(window).ready(function () {
+            jQuery("#btnInit").click(initiate_geolocation);
+        });
+
+        function initiate_geolocation() {
+            navigator.geolocation.getCurrentPosition(handle_geolocation_query);
+        }
+
+        //continue here
+        function handle_geolocation_query(position) {
+            alert('Lat: ' + position.coords.latitude + '' +
+              '\nLon: ' + position.coords.longitude);
+        }
+    </script>
+  </head>
+  <body>
+    <!--http://mobile.tutsplus.com/tutorials/html5/html5-geolocation/-->
+    <div>
+      <button id="btnInit" >Find my location</button>
+    </div>
+
+  </body>
+</html>

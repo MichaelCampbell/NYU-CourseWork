@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html >
+
+<html>
+<head>
+    <title></title>
+    <style>
+        body
+        {
+            font-family:Verdana;
+            font-size:smaller;
+        }
+        
+        input[type=button]
+        {
+            width:120px;
+            margin:5px 0px;
+        }
+        
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+
+    <script>
+        $(function () {
+            $("input[type=button]").click(function () {
+                var textBox = $("input#inputTask");
+                var li = $("<li />");
+                li.html(textBox.val());
+                var ul = $("ul#ulTasks");
+                li.appendTo(ul);
+                textBox.val("");
+                //$("<li />").html(textBox.val()).appendTo($("ul#ulTasks"));
+            });
+        });
+    </script>
+</head>
+<body>
+    <fieldset>
+        <label>Add Task</label>
+        <input id="inputTask" placeholder="input task" />
+        <br />
+        <input type="button" value="go" />
+    </fieldset>
+    <h3>Tasks</h3>
+    <ul id="ulTasks">
+    
+    </ul>
+
+    <ul></ul>
+</body>
+</html>

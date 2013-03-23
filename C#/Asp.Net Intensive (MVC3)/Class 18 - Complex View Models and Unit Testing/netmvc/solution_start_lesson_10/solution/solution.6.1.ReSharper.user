@@ -1,0 +1,145 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IQueryable`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Configuration" priority="2" />
+      <Item value="ConfigurationException`0" priority="1" />
+      <Item value="Web" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="Contact`0" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="c" priority="8" />
+      <Item value="Email" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="entity" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="LuckyNumber" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="List" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="Contact" priority="0" />
+      <Item value="model" priority="4" />
+      <Item value="contactLogic" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="friendIds" priority="2" />
+      <Item value="SelectList`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="item" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DAL.Contact">
+      <Item value="Id" priority="0" />
+      <Item value="Email" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="LuckyNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContactWeb.Models.Friend.FriendEditViewModel">
+      <Item value="ContactsSelectListItems" priority="1" />
+      <Item value="Contact" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContactWeb.Models.ContactBUS">
+      <Item value="Contacts" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="ToList`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BUS.FriendBUS">
+      <Item value="Friends" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContactWeb.Models.Contact">
+      <Item value="Friends" priority="0" />
+      <Item value="Id" priority="3" />
+      <Item value="FullName" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Contains`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.SelectListItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedQueryable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:IContactDAL.cs" caret="433" fromTop="13" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:app.config" caret="287" fromTop="6" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactWebDB.designer.cs" caret="0" fromTop="0" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/f:Web.config" caret="633" fromTop="15" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="5140" fromTop="34" />
+      <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:ContactBUS.cs" caret="3900" fromTop="17" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="4094" fromTop="45" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1394" fromTop="24" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:LuckyNumber/f:List.cshtml" caret="148" fromTop="8" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:LuckyNumberController.cs" caret="0" fromTop="0" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:LuckyNumber/f:FilterViewModel.cs" caret="397" fromTop="18" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:Friend/f:FriendEditViewModel.cs" caret="170" fromTop="8" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Content/f:Site.css" caret="291" fromTop="0" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="559" fromTop="21" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlFriendDAL.cs" caret="1402" fromTop="25" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:FriendController.cs" caret="1041" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254/f:IContactDAL.cs" caret="433" fromTop="13" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:ContactDAL.cs" caret="4094" fromTop="31" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:app.config" caret="287" fromTop="6" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/f:Web.config" caret="633" fromTop="15" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="837" fromTop="23" />
+      <File id="C6C4428A-69AF-4208-8C93-A4D5A267B054/f:SqlContactDAL.cs" caret="5140" fromTop="34" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Content/f:Site.css" caret="1306" fromTop="17" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1394" fromTop="24" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:LuckyNumber/f:List.cshtml" caret="534" fromTop="20" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:LuckyNumber/f:List.cshtml" caret="174" fromTop="10" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:LuckyNumber/f:List.cshtml" caret="148" fromTop="8" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:LuckyNumber/f:FilterViewModel.cs" caret="397" fromTop="18" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:Friend/f:FriendEditViewModel.cs" caret="317" fromTop="12" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:FriendController.cs" caret="344" fromTop="16" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="51" fromTop="0" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="279" fromTop="11" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:FriendController.cs" caret="1486" fromTop="33" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="212" fromTop="9" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="333" fromTop="16" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Friend/f:Edit.cshtml" caret="559" fromTop="21" />
+      <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:FriendController.cs" caret="704" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

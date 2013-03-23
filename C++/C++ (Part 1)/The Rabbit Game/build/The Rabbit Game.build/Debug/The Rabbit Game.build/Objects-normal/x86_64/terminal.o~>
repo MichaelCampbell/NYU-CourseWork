@@ -1,0 +1,12 @@
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:7: error: 'terminal' has not been declared
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:7: error: ISO C++ forbids declaration of 'terminal' with no type
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp: In function 'int terminal(char)':
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:9: error: '_background' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:11: error: 'term_construct' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:13: error: '_xmax' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:13: error: 'term_xmax' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:14: error: '_ymax' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:14: error: 'term_ymax' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:19: error: 'put' was not declared in this scope
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp: At global scope:
+/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp:25: error: expected constructor, destructor, or type conversion before '::' token

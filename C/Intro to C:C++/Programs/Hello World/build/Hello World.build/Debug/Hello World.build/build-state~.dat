@@ -1,0 +1,64 @@
+THello World
+v7
+r0
+t297056577.466825
+cCheck dependencies
+cCompileC "build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Hello World/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World
+t1275363777
+s8984
+
+N/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/Hello World.LinkFileList
+c000000004C0481C00000000000000078
+t1275363776
+s120
+
+N/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/main.o
+t1275363777
+s2580
+
+N/Users/Myko/Documents/Programs/Hello World/main.c
+c000000004C0481C00000000000000056
+t1275363776
+s86
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297056576#297056576#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Hello World/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s297056576.924901
+e297056577.219459
+r1
+xCompileC
+xbuild/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/Programs/Hello World/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Myko/Documents/Programs/Hello World/main.c297056576#297056577#0(0"0(0#0#49"/Users/Myko/Documents/Programs/Hello World/main.c7162247752870487040#1408"    cd "/Users/Myko/Documents/Programs/Hello World"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Hello World-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Hello World-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Hello World/build/Debug" "-I/Users/Myko/Documents/Programs/Hello World/build/Debug/include" "-I/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Hello World/main.c" -o "/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World" normal x86_64
+s297056577.219563
+e297056577.466765
+r1
+xLd
+x/Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World297056577#297056577#0(0"0(0#0#0"32088589733920880#544"    cd "/Users/Myko/Documents/Programs/Hello World"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/Hello World/build/Debug" "-F/Users/Myko/Documents/Programs/Hello World/build/Debug" -filelist "/Users/Myko/Documents/Programs/Hello World/build/Hello World.build/Debug/Hello World.build/Objects-normal/x86_64/Hello World.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/Hello World/build/Debug/Hello World"0#
+

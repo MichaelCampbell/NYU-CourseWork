@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with JavaScript</title>
+    <script type="text/javascript">
+        function Table(r, c) {
+            //Constructor
+            this.no_rows = r;
+            this.no_columns = c;
+        }
+
+        Table.prototype.createTable = function (r, c) {
+            this.no_rows = r;
+            this.no_columns = c;
+            var myString = '<table cellspacing="1" cellpadding="1" border="1">';
+            var color;
+            for (var i = 1; i <= this.no_rows; i++) {
+                if (i % 2 == 0)
+                { color = "white" }
+                else
+                { color = "pink" }
+                myString += "<tr bgcolor='" + color + "'>";
+                for (var j = 1; j <= this.no_columns; j++) {
+                    myString += "<td>row " + i + " column " + j + "</td>";
+                }
+                myString += "</tr>";
+            }
+            myString += "</table>";
+            //document.write(myString);
+            //            document.getElementById("rt").innerHTML = myString;
+            return myString;
+        }
+
+        function displayTable(frm_row, frm_col) {
+            //put JS validation here -- there should be separate validation methods
+            var tbl = new Table;
+            var d = document.getElementById("show");
+            d.innerHTML = tbl.createTable(frm_row, frm_col);
+        }
+
+
+    </script>
+</head>
+<body>
+    <form >
+        <table>
+            <tr>
+                <td>Number of Rows:</td>
+                <td><input type="text" id ="rows" /></td>
+            </tr>
+            <tr>
+                <td>Number of Columns:</td>
+                <td><input type="text" id="cols"></td>
+            </tr>
+            <tr><td colspan="2"><input type="button" id="btn" value="Create Html Table" onclick="displayTable(document.getElementById('rows').value, document.getElementById('cols').value);"></td>
+            </tr>
+        </table>
+
+        <span id="show"></span>
+</body>
+</html>

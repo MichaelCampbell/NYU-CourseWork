@@ -1,0 +1,80 @@
+﻿@model IEnumerable<AutoDealership.Models.Car>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<script>
+    $(function () {
+        $("a.postLink").live("click", function () {
+            var link = $(this);
+            var form = link.parents("form");
+            form.attr(
+                "action",
+                link.attr("href")
+            );
+            form.submit();
+            return false;
+        });
+</script>
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Year
+        </th>
+        <th>
+            Make
+        </th>
+        <th>
+            Model
+        </th>
+        <th>
+            Color
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Vehicle Identification Number
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr class="data">
+        <td>
+            @Html.DisplayFor(modelItem => item.Year)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Make)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Color)
+        </td>
+        <td class="sortColumn">
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vehicle_Identification_Number)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { vin=item.Vehicle_Identification_Number }) |
+            @Html.ActionLink("Details", "Details", new { vin=item.Vehicle_Identification_Number }) |
+            @using (Html.BeginForm("Delete", "Car", FormMethod.Post, new { style = "display:inline" }))
+            {
+            @Html.ActionLink("Delete", "Delete", new { vin = item.Vehicle_Identification_Number }, new { @class = "postLink" })
+            }
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with JavaScipt arrays</title>
+
+</head>
+<body>
+<script type="text/javascript">
+    var day = new Array();
+    day[0] = "Sunday"; day[1] = "Monday"; day[2] = "Tuesday";
+    day[3] = "Wednesday"; day[4] = "Thursday"; day[5] = "Friday";
+    day[6] = "Saturday";
+
+    var day2 = new Array("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat");
+    
+    var month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug",
+                 "Sep", "Oct", "Nov", "Dec"];
+    
+    document.write("<h2>Days of the Week</h2>");
+    document.write("<b>0 = </b>" + day[0] + "<br>");
+    document.write("<b>1 = </b>" + day[1] + "<br>");
+    document.write("<b>2 = </b>" + day[2] + "<br>");
+    document.write("<b>3 = </b>" + day[3] + "<br>");
+    document.write("<b>4 = </b>" + day[4] + "<br>");
+    document.write("<b>5 = </b>" + day[5] + "<br>");
+    document.write("<b>6 = </b>" + day[6] + "<br>");
+
+    function printArray(myArray) {
+        for (var i = 0; i < myArray.length; i++) {
+            document.write("<b>" + i + " = </b>" + myArray[i] + "<br>");
+        }
+    }
+    document.write("<h2>Days of the Week (abbr)</h2>");
+    printArray(day2);
+    document.write("<h2>Months of the year</h2>");
+    printArray(month);
+</script>
+</body>
+</html>

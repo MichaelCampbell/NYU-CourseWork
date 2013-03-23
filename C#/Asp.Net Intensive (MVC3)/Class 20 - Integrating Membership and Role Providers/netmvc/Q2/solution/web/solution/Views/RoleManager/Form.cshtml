@@ -1,0 +1,33 @@
+﻿@model MembershipApp.Models.RolesManager.RoleManagerViewModel
+
+@{
+    ViewBag.Title = "Manage Roles";
+    Layout = null;
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+
+    <ul>
+    @{int counter = 0;
+}
+    @foreach (var role in Model.Roles)
+     {
+        <li>
+            @if (Model.EditMode && Model.Index == counter)
+            {
+                @Html.TextBoxFor(m => m.Roles[counter], new { @class = "postLink", href = Url.Action("Change", new { index = counter }) })
+            }
+            else{
+               @Html.ActionLink(role, "ChangeMode", new { index = counter, EditMode = true }, new {@class="postLink ajax" }) 
+               @Html.HiddenFor(m=> m.Roles[counter])
+            }
+            @Html.ActionLink("Delete", "Delete", new{index = counter}, new{@class="postLink ajax"})
+        </li>
+         counter++;
+     }
+        <li>@Html.TextBox(String.Format("Roles[{0}]", counter), String.Empty, new { @class="postLink ajax", href = Url.Action("Insert") })</li>
+    </ul>
+}

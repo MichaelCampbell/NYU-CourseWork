@@ -1,0 +1,71 @@
+TFinal Q2
+v7
+r0
+t301281931.074701
+cCheck dependencies
+cCompileC "build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/LinesOfText.o" "/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c
+c000000004C44FB0A00000000000004B3
+t1279589130
+s1203
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/build/Debug/Final Q2
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/Final Q2.LinkFileList
+c000000004C44FB0A000000000000007C
+t1279589130
+s124
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/LinesOfText.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Final/Final Q2/main.c
+c000000004C44FAB70000000000000089
+t1279589047
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301281930#301281930#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC "build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/LinesOfText.o" "/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s301281930.911219
+e301281931.074529
+r0
+xCompileC
+xbuild/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/LinesOfText.o
+x/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c: In function 'main':
+o/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c:26: error: expected expression before ';' token
+lSLF07#2@67"Compile /Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c301281930#301281931#0(189"/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c: In function 'main':/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c:26: error: expected expression before ';' token1(4@36"Expected expression before ';' token301281931#81#108#0(6@59"/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c301281930#26#0#26#0#19"expected * before *0(0#0#59"/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c8245930584228258816#1401"    cd "/Users/Myko/Documents/Programs/Final/Final Q2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Final Q2-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Final Q2-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Final Q2-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Final Q2-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Final/Final Q2/build/Debug" "-I/Users/Myko/Documents/Programs/Final/Final Q2/build/Debug/include" "-I/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Final/Final Q2/LinesOfText.c" -o "/Users/Myko/Documents/Programs/Final/Final Q2/build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/LinesOfText.o"1#
+
+CCompileC "build/Final Q2.build/Debug/Final Q2.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Final/Final Q2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Programs/Final/Final Q2/build/Debug/Final Q2" normal x86_64
+r0
+

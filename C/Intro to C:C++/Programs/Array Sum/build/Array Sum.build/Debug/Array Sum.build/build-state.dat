@@ -1,0 +1,127 @@
+TArray Sum
+v7
+r0
+t299989839.937007
+cCheck dependencies
+cCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/ArraySum.c
+c000000004C3143CC0000000000000160
+t1278297036
+s352
+i<stdio.h>
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/Array Sum.LinkFileList
+c000000004C31428F0000000000000076
+t1278296719
+s118
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+t1278297039
+s3280
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/build/Debug/Array Sum
+t1278297039
+s9096
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/ArraySum.c
+c000000004C3143CC0000000000000160
+t1278297036
+s352
+i<stdio.h>
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/Array Sum.LinkFileList
+c000000004C31428F0000000000000076
+t1278296719
+s118
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+t1278297039
+s3280
+
+N/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/build/Debug/Array Sum
+t1278297039
+s9096
+
+N/Users/Myko/Documents/Programs/Array Sum/ArraySum.c
+c000000004C3143CC0000000000000160
+t1278297036
+s352
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/Array Sum.LinkFileList
+c000000004C31428F0000000000000076
+t1278296719
+s118
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+t1278297039
+s3280
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum
+t1278297039
+s9096
+
+N/Users/Myko/Documents/Programs/Array Sum/main.c
+c000000004C3141C20000000000000089
+t1278296514
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299989839#299989839#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299989839.900908
+e299989839.924022
+r1
+xCompileC
+xbuild/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+x/Users/Myko/Documents/Programs/Array Sum/ArraySum.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989839#299989839#0(0"0(0#0#51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c4300911832#1358"    cd "/Users/Myko/Documents/Programs/Array Sum"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Array Sum/build/Debug" "-I/Users/Myko/Documents/Programs/Array Sum/build/Debug/include" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" -o "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o"0#
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Array Sum/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Intro to C:C++/Programs/Array Sum/build/Debug/Array Sum" normal x86_64
+r0
+
+CLd "/Users/Myko/Documents/NYU/2010/Intro to C:C++/Programs/Array Sum/build/Debug/Array Sum" normal x86_64
+r0
+
+CLd "/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum" normal x86_64
+s299989839.924139
+e299989839.936957
+r1
+xLd
+x/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum299989839#299989839#0(0"0(0#0#0"4300911832#526"    cd "/Users/Myko/Documents/Programs/Array Sum"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/Array Sum/build/Debug" "-F/Users/Myko/Documents/Programs/Array Sum/build/Debug" -filelist "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/Array Sum.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum"0#
+

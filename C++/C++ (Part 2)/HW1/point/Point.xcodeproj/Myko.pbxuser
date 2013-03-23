@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 208DF7DB13271C100031C736 /* Point */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Point */;
+		codeSenseManager = 208DF7E013271C300031C736 /* Code sense */;
+		executables = (
+			208DF7DB13271C100031C736 /* Point */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					507,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321336169;
+			PBXWorkspaceStateSaveDate = 321336169;
+		};
+		perUserProjectItems = {
+			2076784F1327335D005765C3 = 2076784F1327335D005765C3 /* PBXTextBookmark */;
+			207678501327335D005765C3 = 207678501327335D005765C3 /* PBXTextBookmark */;
+			207678521327335D005765C3 = 207678521327335D005765C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 208DF7DF13271C300031C736 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* Point.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 702}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	2076784F1327335D005765C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Point.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	207678501327335D005765C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 207678511327335D005765C3 /* gauss.c */;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+		rType = 0;
+	};
+	207678511327335D005765C3 /* gauss.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = gauss.c;
+		path = /Users/Myko/Downloads/gauss.c;
+		sourceTree = "<absolute>";
+	};
+	207678521327335D005765C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 207678531327335D005765C3 /* gauss.c */;
+		name = "gauss.c: 1";
+		rLen = 107;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	207678531327335D005765C3 /* gauss.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = gauss.c;
+		path = /Users/Myko/Downloads/gauss.c;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 830}}";
+			sepNavSelRange = "{0, 107}";
+			sepNavVisRange = "{0, 426}";
+		};
+	};
+	208DF7DB13271C100031C736 /* Point */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Point;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	208DF7DF13271C300031C736 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	208DF7E013271C300031C736 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* Point */ = {
+		activeExec = 0;
+		executables = (
+			208DF7DB13271C100031C736 /* Point */,
+		);
+	};
+}

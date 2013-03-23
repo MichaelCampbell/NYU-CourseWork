@@ -1,0 +1,35 @@
+﻿@model MembershipApp.Models.UserManagerModel
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Users</h2>
+<script>
+    $(function () {
+        $("select.postLink").change(function () {
+            $(this).parents("form").submit();
+            return false;
+        });
+    });
+</script>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("role", Model.Roles,null,  new { @class="postLink"})
+}
+<ul>
+@foreach (var member in Model.Users)
+{
+    <li>
+        <em>Email:</em>
+        <br />
+        @member.Email 
+        <br />
+        <em>UserName:</em>
+        <br />
+        @member.UserName
+        <br />
+        @Html.ActionLink("Edit Roles", "EditUserRoles", "UserRoles", new{username = @member.UserName, useAjax=true}, null)
+    </li>
+}
+</ul>

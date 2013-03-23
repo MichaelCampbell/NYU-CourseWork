@@ -1,0 +1,68 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, cite, code, em, img, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+body { line-height: 1em;  font-family: Helvetica, Arial,  sans-serif; font-size: 62.5%; }	
+ol, ul { list-style: none }
+a { color: #000; text-decoration: none; border-bottom: 1px dotted rgba(0,0,0,0.3); }
+body { font-size: 1em;}
+strong { font-weight: bold }
+em { font-style: italic }
+
+h2 { 
+	font-size: 1.5em; 
+	margin: 10px 0; 
+	line-height:1em;
+	color: #5e5e5e;
+	font-weight: bold;
+	line-height: 30px;
+	text-shadow:1px 1px 1px rgba(155, 155, 155, 0.2), -1px -1px 1px rgba(0, 0, 0, 0.9)
+}
+
+h3#greeting {
+	color: #000;
+	margin: 40px 0 20px 0;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px rgba(207,207,207,0.);
+}
+
+#wrapper {
+	width: 550px;
+	margin: 50px auto;
+	text-align: center;
+}
+
+#wrapper table { margin: 0 auto; }
+#wrapper form { margin-bottom: 30px}
+#wrapper table tr td { height: 30px; vertical-align: top }
+	
+#wrapper fieldset { 
+	border: 1px dotted #000; 
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	width: 90%;
+	margin: 0 auto;
+}
+	
+#wrapper form legend {
+	font-size: 1.3em;
+    padding: 20px 0;
+}
+#wrapper form input#fname { 
+	width: 200px;
+	font-size: 1.2em;
+	border: 1px solid #000;
+}
+	
+#wrapper #update { margin-top:  20px}
+#wrapper label { font-size: 1.1em; text-align: right; margin-right: 10px;}	
+#wrapper select { width: 200px; }
+#wrapper table tr td { vertical-align: top; }
+		
+#wrapper table tr td:nth-child(odd) { text-align: right }
+#wrapper table tr td:last-child { text-align: center }
+		
+p#instructions {
+	margin: 30px auto;
+	width: 90%;
+	line-height: 1.5em;
+	text-align: justify;
+}	

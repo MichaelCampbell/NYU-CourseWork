@@ -1,0 +1,26 @@
+﻿@model ContactWeb.Models.Friend.FriendEditViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@using (Html.BeginForm())
+{
+<h2>Edit Friends for @Model.Contact.FullName</h2>
+    @Html.HiddenFor(m => m.Contact.Id)
+<ul>
+@{int counter = 0;}
+@foreach (var friend in Model.Contact.Friends)
+{
+    
+    <li>
+        @friend.FullName @Html.HiddenFor(m => Model.Contact.Friends[counter].Id)
+    </li>
+    counter++;
+}
+
+    <li>@Html.DropDownList(String.Format("Contact.Friends[{0}].Id", counter), Model.ContactsSelectListItems, new { title = "Add a Friend"})</li>
+</ul>
+
+    <input type="submit" value="submit" />
+}

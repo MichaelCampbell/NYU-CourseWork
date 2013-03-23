@@ -1,0 +1,5 @@
+C:\netmvc\PhoneEntrySolution\web\bin\web.dll
+C:\netmvc\PhoneEntrySolution\web\bin\web.pdb
+C:\netmvc\PhoneEntrySolution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\PhoneEntrySolution\web\obj\Debug\web.dll
+C:\netmvc\PhoneEntrySolution\web\obj\Debug\web.pdb

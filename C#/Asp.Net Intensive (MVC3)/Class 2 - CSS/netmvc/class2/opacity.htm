@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with opacity...</title>
+    <style type="text/css">
+    div.background  { width:700px;
+                      height:312px;
+                      background:url(../images/flower.png) repeat;
+                      border:3px solid purple;}
+    div.transbox    { width:400px;
+                      height:180px;
+                      margin:60px 150px;
+                      background-color:#ffffff;
+                      border:2px solid purple;
+                      /* for IE */ filter:alpha(opacity=60);
+                      /* CSS3 standard */ opacity:0.6;}
+    div.transbox p  { margin:30px 40px;
+                      font-weight:bold;
+                      color:#000000;}
+    </style>
+</head>
+<body>
+
+<div class="background">
+    <div class="transbox">
+        <p>This background is so pretty. This background is so pretty. This background is so pretty. This background is so pretty. This background is so pretty.
+        </p>
+    </div>
+</div>
+
+</body>
+</html>

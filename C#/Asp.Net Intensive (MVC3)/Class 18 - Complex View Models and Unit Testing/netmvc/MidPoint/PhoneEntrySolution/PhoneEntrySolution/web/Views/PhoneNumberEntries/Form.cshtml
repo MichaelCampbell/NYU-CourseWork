@@ -1,0 +1,32 @@
+﻿@model web.Models.PhoneNumberEntriesViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+@Html.ValidationSummary()
+
+@using(Html.BeginForm("Index", "PhoneNumberEntries"))
+{
+    <ul>
+        @{int counter = 0;}
+        @foreach(var entry in Model.Entries)
+        {
+            <li style="padding-bottom: 5px; list-style: lower-greek">
+                @Html.TextBoxFor(m => m.Entries[counter].PhoneNumber)
+                @Html.ValidationMessageFor(m=>entry.PhoneNumber[counter])
+                @Html.DropDownListFor(m=>m.Entries[counter].PhoneNumberType, Model.SelectListItems(entry), new {@class="postSelect", href = Url.Action("Change")}) |
+                @Html.ActionLink("Remove", "Remove", new { index = counter }, new {@class="postLink"}) 
+            </li>
+            counter++;
+        }
+    </ul>
+    if(Model.AvailableTypes().Count > 0)
+     {
+         @Html.ActionLink("Add", "Add", null, new{@class="postLink"})
+         <br/><br/>
+     }
+     <input type="submit" value="save"/>
+    
+}

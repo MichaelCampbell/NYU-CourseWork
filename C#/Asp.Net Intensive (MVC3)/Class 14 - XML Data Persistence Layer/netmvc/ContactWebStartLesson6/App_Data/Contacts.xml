@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Contacts>
+  <Contact>
+    <Id>1</Id>
+    <FirstName>Omar</FirstName>
+    <LastName>Stewart</LastName>
+    <Email>OmarStewey@gmail.com</Email>
+  </Contact>
+  <!--<Contact>
+    <Id>2</Id>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Email></Email>
+  </Contact>-->
+</Contacts>

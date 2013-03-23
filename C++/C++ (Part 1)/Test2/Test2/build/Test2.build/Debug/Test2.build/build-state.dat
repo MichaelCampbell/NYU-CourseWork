@@ -1,0 +1,97 @@
+TTest2
+v7
+r0
+t313207513.843184
+cCheck dependencies
+cCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o /Users/Myko/Desktop/Test2/Test2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o /Users/Myko/Desktop/Test2/Test2/other.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Desktop/Test2/Test2/build/Debug/Test2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Desktop/Test2/Test2/build/Debug/Test2
+t1291514713
+s17008
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/Test2.LinkFileList
+c000000004CFAF31F00000000000000C3
+t1291514655
+s195
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o
+t1291514713
+s71040
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o
+t1291514713
+s69888
+
+N/Users/Myko/Desktop/Test2/Test2/global.h
+c000000004CFAF31F0000000000000065
+t1291514655
+s101
+i"obj.h"
+
+N/Users/Myko/Desktop/Test2/Test2/main.cpp
+c000000004CFAF31F00000000000000C2
+t1291514655
+s194
+i<iostream>
+i<cstdlib>
+i"obj.h"
+i"global.h"
+
+N/Users/Myko/Desktop/Test2/Test2/obj.h
+c000000004CFAF3570000000000000338
+t1291514711
+s824
+
+N/Users/Myko/Desktop/Test2/Test2/other.cpp
+c000000004CFAF31A0000000000000050
+t1291514650
+s80
+i"global.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313207512#313207512#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o /Users/Myko/Desktop/Test2/Test2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313207512.632031
+e313207513.093639
+r1
+xCompileC
+xbuild/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Desktop/Test2/Test2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Myko/Desktop/Test2/Test2/main.cpp313207512#313207513#0(0"0(0#0#40"/Users/Myko/Desktop/Test2/Test2/main.cpp8610973632#1178"    cd /Users/Myko/Desktop/Test2/Test2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-generated-files.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-own-target-headers.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-all-target-headers.hmap -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-project-headers.hmap -F/Users/Myko/Desktop/Test2/Test2/build/Debug -I/Users/Myko/Desktop/Test2/Test2/build/Debug/include -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources/x86_64 -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources -c /Users/Myko/Desktop/Test2/Test2/main.cpp -o /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o /Users/Myko/Desktop/Test2/Test2/other.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313207512.660375
+e313207513.093420
+r1
+xCompileC
+xbuild/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o
+x/Users/Myko/Desktop/Test2/Test2/other.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Myko/Desktop/Test2/Test2/other.cpp313207512#313207513#0(0"0(0#0#41"/Users/Myko/Desktop/Test2/Test2/other.cpp8609659104#1180"    cd /Users/Myko/Desktop/Test2/Test2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-generated-files.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-own-target-headers.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-all-target-headers.hmap -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-project-headers.hmap -F/Users/Myko/Desktop/Test2/Test2/build/Debug -I/Users/Myko/Desktop/Test2/Test2/build/Debug/include -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources/x86_64 -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources -c /Users/Myko/Desktop/Test2/Test2/other.cpp -o /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o0#
+
+CLd /Users/Myko/Desktop/Test2/Test2/build/Debug/Test2 normal x86_64
+s313207513.093709
+e313207513.843127
+r1
+xLd
+x/Users/Myko/Desktop/Test2/Test2/build/Debug/Test2
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/Myko/Desktop/Test2/Test2/build/Debug/Test2313207513#313207513#0(0"0(0#0#0"8611510112#455"    cd /Users/Myko/Desktop/Test2/Test2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Desktop/Test2/Test2/build/Debug -F/Users/Myko/Desktop/Test2/Test2/build/Debug -filelist /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/Test2.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Desktop/Test2/Test2/build/Debug/Test20#
+

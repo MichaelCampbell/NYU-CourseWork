@@ -1,0 +1,5 @@
+C:\Users\master\Dropbox\Classes\2011\Fall 2011\.Net Fundamentals\Session 2\Class\NYU.Lab2.1\NYU.Lab2.1\bin\Debug\NYU.Lab2.1.exe
+C:\Users\master\Dropbox\Classes\2011\Fall 2011\.Net Fundamentals\Session 2\Class\NYU.Lab2.1\NYU.Lab2.1\bin\Debug\NYU.Lab2.1.pdb
+C:\Users\master\Dropbox\Classes\2011\Fall 2011\.Net Fundamentals\Session 2\Class\NYU.Lab2.1\NYU.Lab2.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\master\Dropbox\Classes\2011\Fall 2011\.Net Fundamentals\Session 2\Class\NYU.Lab2.1\NYU.Lab2.1\obj\x86\Debug\NYU.Lab2.1.exe
+C:\Users\master\Dropbox\Classes\2011\Fall 2011\.Net Fundamentals\Session 2\Class\NYU.Lab2.1\NYU.Lab2.1\obj\x86\Debug\NYU.Lab2.1.pdb

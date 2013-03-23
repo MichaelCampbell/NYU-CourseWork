@@ -1,0 +1,73 @@
+TGraph Paper
+v7
+r0
+t307859309.701596
+cCheck dependencies
+cCompileC "build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph_Paper.o" "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp
+c000000004CA957ED000000000000046E
+t1286166509
+s1134
+i<iostream>
+i<cstdlib>
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper
+t1286166509
+s10720
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph Paper.LinkFileList
+c000000004CA9270C0000000000000086
+t1286153996
+s134
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph_Paper.o
+t1286166509
+s70944
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/main.cpp
+c000000004CA90F6E000000000000008F
+t1286147950
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307859309#307859309#0(0"0(0#1#0"8617400928#0"0#
+
+CCompileC "build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph_Paper.o" "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307859309.425194
+e307859309.686334
+r1
+xCompileC
+xbuild/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph_Paper.o
+x/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp307859309#307859309#0(0"0(0#0#65"/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp8616790144#1520"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Graph Paper-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Graph Paper-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Graph Paper-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Graph Paper-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/Graph_Paper.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph_Paper.o"0#
+
+CCompileC "build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper" normal x86_64
+s307859309.686414
+e307859309.701535
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper
+xnormal
+xx86_64
+lSLF07#2@78"Link /Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper307859309#307859309#0(0"0(0#0#0"8617124704#579"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Graph Paper.build/Debug/Graph Paper.build/Objects-normal/x86_64/Graph Paper.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW1/Graph Paper/build/Debug/Graph Paper"0#
+

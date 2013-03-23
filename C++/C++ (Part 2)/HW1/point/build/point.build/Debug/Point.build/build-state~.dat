@@ -1,0 +1,52 @@
+TPoint
+v7
+r0
+t321330829.629897
+cCheck dependencies
+cCompileC build/Point.build/Debug/Point.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Debug/Point
+t2
+s0
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Objects-normal/x86_64/Point.LinkFileList
+c000000004D76E70D0000000000000077
+t1299638029
+s119
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+c000000004D76E7050000000000000071
+t1299638021
+s113
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321330829#321330829#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Point.build/Debug/Point.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s321330829.151802
+e321330829.629814
+r0
+xCompileC
+xbuild/Point.build/Debug/Point.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp:4: error: expected `;' before 'int'
+lSLF07#2@70"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp321330829#321330829#0(99"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp:4: error: expected `;' before 'int'1(4@25"Expected `;' before 'int'321330829#0#99#0(6@62"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp321330821#4#0#4#0#19"expected * before *0(0#0#62"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp7955997338297972736#1442"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Debug" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Debug/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Debug/Point.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Debug/Point" normal x86_64
+r0
+

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="202c377f-9727-450c-9dc9-9515b47d8a71" name="computerlab@LAB227-INSTRUCT 2012-04-23 19:43:07" runUser="LAB227-INSTRUCT\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="80f8ab4c-729f-41ac-999b-41137eb9942e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-INSTRUCT 2012-04-23 19_43_07">
+      <DeploymentItem filename="C:\PhoneEntrySolution\web\bin\web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-23T19:43:07.1739134-04:00" queuing="2012-04-23T19:43:07.2379171-04:00" start="2012-04-23T19:43:07.2429174-04:00" finish="2012-04-23T19:43:07.4349284-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ModelIsNotNull" storage="c:\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="76e9c657-06ae-9052-fc41-56a70fef3b9b">
+      <Execution id="dc6b5207-a973-4b0b-afa5-0e2ea4565253" />
+      <TestMethod codeBase="C:/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModelIsNotNull" />
+    </UnitTest>
+    <UnitTest name="AllTypesMethodIsWorking" storage="c:\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="4d58af65-cf26-d4fe-b67e-7bb96bd83311">
+      <Execution id="a0ffe38f-fedb-4e48-80aa-706e04fc5128" />
+      <TestMethod codeBase="C:/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllTypesMethodIsWorking" />
+    </UnitTest>
+    <UnitTest name="UsedTypesMethodIsReturningCorrectValues" storage="c:\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="bf71863f-9046-a0be-0eaa-3a873160c0c2">
+      <Execution id="04b994ef-275b-4fa5-beb9-5c68ec948a3f" />
+      <TestMethod codeBase="C:/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UsedTypesMethodIsReturningCorrectValues" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4d58af65-cf26-d4fe-b67e-7bb96bd83311" executionId="a0ffe38f-fedb-4e48-80aa-706e04fc5128" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76e9c657-06ae-9052-fc41-56a70fef3b9b" executionId="dc6b5207-a973-4b0b-afa5-0e2ea4565253" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bf71863f-9046-a0be-0eaa-3a873160c0c2" executionId="04b994ef-275b-4fa5-beb9-5c68ec948a3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a0ffe38f-fedb-4e48-80aa-706e04fc5128" testId="4d58af65-cf26-d4fe-b67e-7bb96bd83311" testName="AllTypesMethodIsWorking" computerName="LAB227-INSTRUCT" duration="00:00:00.0186318" startTime="2012-04-23T19:43:07.2469176-04:00" endTime="2012-04-23T19:43:07.4099269-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0ffe38f-fedb-4e48-80aa-706e04fc5128">
+    </UnitTestResult>
+    <UnitTestResult executionId="dc6b5207-a973-4b0b-afa5-0e2ea4565253" testId="76e9c657-06ae-9052-fc41-56a70fef3b9b" testName="ModelIsNotNull" computerName="LAB227-INSTRUCT" duration="00:00:00.0001531" startTime="2012-04-23T19:43:07.4109270-04:00" endTime="2012-04-23T19:43:07.4139272-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc6b5207-a973-4b0b-afa5-0e2ea4565253">
+    </UnitTestResult>
+    <UnitTestResult executionId="04b994ef-275b-4fa5-beb9-5c68ec948a3f" testId="bf71863f-9046-a0be-0eaa-3a873160c0c2" testName="UsedTypesMethodIsReturningCorrectValues" computerName="LAB227-INSTRUCT" duration="00:00:00.0051997" startTime="2012-04-23T19:43:07.4149272-04:00" endTime="2012-04-23T19:43:07.4219276-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04b994ef-275b-4fa5-beb9-5c68ec948a3f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

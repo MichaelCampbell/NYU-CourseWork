@@ -1,0 +1,315 @@
+TThe Rabbit Game
+v7
+r0
+t313640180.421456
+cCheck dependencies
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/wolf.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/term.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/terminal.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h
+c000000004A11A1CA000000000001388E
+t1242669514
+s80014
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004A5C14A600000000000003EA
+t1247548582
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004A73D6550000000000002905
+t1249105493
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/The Rabbit Game
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/The Rabbit Game.LinkFileList
+c000000004CFAFA6A00000000000002A9
+t1291516522
+s681
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o
+t1291947379
+s10440
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o
+t1291585038
+s77792
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/term.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/terminal.o
+t1291584393
+s76292
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/wolf.o
+t1291947380
+s78624
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/StaticAnalyzer/normal/x86_64/term.plist
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp
+c000000004CFAF82700000000000002F6
+t1291515943
+s758
+i<cstdlib>
+i<ctime>
+i"terminal.h"
+i"wolf.h"
+i"rabbit.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp
+c000000004CFC039E0000000000000712
+t1291584414
+s1810
+i<iostream>
+i<cstdlib>
+i"rabbit.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h
+c000000004CFC060A000000000000010A
+t1291585034
+s266
+i"terminal.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c
+c000000004CFAFE2B0000000000002F40
+t1291517483
+s12096
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i<curses.h>
+i<fcntl.h>
+i<sys/types.h>
+i<unistd.h>
+i<string.h>
+i<windows.h>
+i<conio.h>
+i<dos.h>
+i"term.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.h
+c000000004CFAF95E0000000000000379
+t1291516254
+s889
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp
+c000000004CFAFA6900000000000005F4
+t1291516521
+s1524
+i<iostream>
+i<cstdlib>
+i<cctype>
+i"terminal.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.h
+c000000004CFAFA6700000000000003FB
+t1291516519
+s1019
+i"term.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp
+c000000004CFC044800000000000007B5
+t1291584584
+s1973
+i<iostream>
+i<cstdlib>
+i"wolf.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.h
+c000000004CFC62ED00000000000000FD
+t1291608813
+s253
+i"terminal.h"
+
+N/usr/lib/libcurses.dylib
+c000000004BC7AAF100000000000DD9E0
+t1271376625
+s907744
+
+CAnalyze "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c"
+s313211428.814307
+e313211429.027404
+r1
+xAnalyze
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231:15:{231:9-231:15}: error: incomplete definition of type 'struct _win_st'
+o         return stdscr->_maxx - stdscr->_begx;
+o                ~~~~~~^
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st'
+o typedef struct _win_st WINDOW;
+o                ^
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248:15:{248:9-248:15}: error: incomplete definition of type 'struct _win_st'
+o         return stdscr->_maxy - stdscr->_begy;
+o                ~~~~~~^
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st'
+o typedef struct _win_st WINDOW;
+o                ^
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289:21:{289:15-289:21}: error: incomplete definition of type 'struct _win_st'
+o         mvprintw(y + stdscr->_begy, x + stdscr->_begx, "%c", c);
+o                      ~~~~~~^
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st'
+o typedef struct _win_st WINDOW;
+o                ^
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348:21:{348:15-348:21}: error: incomplete definition of type 'struct _win_st'
+o         mvprintw(y + stdscr->_begy, x + stdscr->_begx, "%s", s);
+o                      ~~~~~~^
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st'
+o typedef struct _win_st WINDOW;
+o                ^
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:22:{407:22-407:66}: error: incomplete definition of type 'struct _win_st'
+o         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);
+o                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:1093:23: note: instantiated from:
+o #define mvinch(y,x)                     mvwinch(stdscr,y,x)
+o                                         ^
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:22: note: instantiated from:
+o         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);
+o                             ^          ~~~~~~
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:39: note: instantiated from:
+o         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);
+o                                        ~~~~~~^
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st'
+o typedef struct _win_st WINDOW;
+o                ^
+o5 errors generated.
+lSLF07#2@64"Analyze /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313211428#313211429#0(3069"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231:15:{231:9-231:15}: error: incomplete definition of type 'struct _win_st'         return stdscr->_maxx - stdscr->_begx;                ~~~~~~^In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st' typedef struct _win_st WINDOW;                ^/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248:15:{248:9-248:15}: error: incomplete definition of type 'struct _win_st'         return stdscr->_maxy - stdscr->_begy;                ~~~~~~^In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st' typedef struct _win_st WINDOW;                ^/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289:21:{289:15-289:21}: error: incomplete definition of type 'struct _win_st'         mvprintw(y + stdscr->_begy, x + stdscr->_begx, "%c", c);                      ~~~~~~^In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st' typedef struct _win_st WINDOW;                ^/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348:21:{348:15-348:21}: error: incomplete definition of type 'struct _win_st'         mvprintw(y + stdscr->_begy, x + stdscr->_begx, "%s", s);                      ~~~~~~^In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st' typedef struct _win_st WINDOW;                ^/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:22:{407:22-407:66}: error: incomplete definition of type 'struct _win_st'         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:1093:23: note: instantiated from: #define mvinch(y,x)                     mvwinch(stdscr,y,x)                                         ^/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:22: note: instantiated from:         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);                             ^          ~~~~~~/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407:39: note: instantiated from:         return A_CHARTEXT & mvinch(y + stdscr->_begy, x + stdscr->_begx);                                        ~~~~~~^In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:18:/Developer/SDKs/MacOSX10.6.sdk/usr/include/curses.h:322:16: note: forward declaration of 'struct _win_st' typedef struct _win_st WINDOW;                ^5 errors generated.0(0#0#56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c8613830528#1611"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" --analyze "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/StaticAnalyzer/normal/x86_64/term.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313640179#313640179#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313640179.176103
+e313640179.882581
+r1
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313640179#313640179#0(0"0(0#0#58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp2334386692639240704#1578"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313277835.789782
+e313277838.151200
+r1
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313277835#313277838#0(0"0(0#0#60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp8611646688#1582"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o"0#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/term.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s313640179.220364
+e313640180.026335
+r0
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/term.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_xmax':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:241: warning: control reaches end of non-void function
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_ymax':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:258: warning: control reaches end of non-void function
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_put':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_puts':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:326: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:339: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'long int'
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_get':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407: error: dereferencing pointer to incomplete type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407: error: dereferencing pointer to incomplete type
+lSLF07#2@64"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313640179#313640180#0(2029"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_xmax':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:231: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:241: warning: control reaches end of non-void function/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_ymax':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:248: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:258: warning: control reaches end of non-void function/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_put':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:289: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_puts':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:326: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:339: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'long int'/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:348: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c: In function 'term_get':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407: error: dereferencing pointer to incomplete type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c:407: error: dereferencing pointer to incomplete type14(4@40"Dereferencing pointer to incomplete type313640180#83#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#231#0#231#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#193#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#231#0#231#0#0"0(22@40"Control reaches end of non-void function313640180#303#112#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#241#0#241#0#40"control reaches end of non-void function0(4@40"Dereferencing pointer to incomplete type313640180#498#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#248#0#248#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#608#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#248#0#248#0#0"0(22@40"Control reaches end of non-void function313640180#718#112#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#258#0#258#0#40"control reaches end of non-void function0(4@40"Dereferencing pointer to incomplete type313640180#912#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#289#0#289#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#1022#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#289#0#289#0#0"0(22@73"Format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'313640180#1215#145#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#326#0#326#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%u' expects type 'unsigned int', but argument 4 has type 'long int'313640180#1360#147#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#339#0#339#0#56"format '*' expects type '*', but argument * has type '*'0(4@40"Dereferencing pointer to incomplete type313640180#1507#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#348#0#348#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#1617#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#348#0#348#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#1809#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#407#0#407#0#0"0(4@40"Dereferencing pointer to incomplete type313640180#1919#110#0(6@56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c313210283#407#0#407#0#0"0(0#0#56"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c8595900896#1557"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/term.c" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/term.o"1#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/terminal.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313277192.479687
+e313277193.180974
+r1
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/terminal.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp313277192#313277193#0(0"0(0#0#62"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp8608928000#1586"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/terminal.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/terminal.o"0#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/wolf.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313640179.219247
+e313640180.421362
+r1
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/wolf.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp313640179#313640180#0(0"0(0#0#58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp8597216256#1578"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/wolf.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/wolf.o"0#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/The Rabbit Game" normal x86_64
+r0
+

@@ -1,0 +1,30 @@
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.xml
+C:\SportsStoreSolution\SportsStore.WebUI\bin\Moq.dll
+C:\SportsStoreSolution\SportsStore.WebUI\bin\Moq.pdb
+C:\SportsStoreSolution\SportsStore.WebUI\bin\Moq.xml
+C:\SportsStoreSolution\SportsStore.WebUI\bin\EntityFramework.dll
+C:\SportsStoreSolution\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Moq.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 21\HW\ericpkatz-SportsStore_9799-ea6f819\ericpkatz-SportsStore_9799-ea6f819\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

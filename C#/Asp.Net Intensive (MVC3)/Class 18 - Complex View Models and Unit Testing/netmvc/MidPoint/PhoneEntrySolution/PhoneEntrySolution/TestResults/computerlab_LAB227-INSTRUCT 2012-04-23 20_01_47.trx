@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="99c10cfb-2ecb-4996-bf6c-ebbd27fd28b2" name="computerlab@LAB227-INSTRUCT 2012-04-23 20:01:47" runUser="LAB227-INSTRUCT\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="80f8ab4c-729f-41ac-999b-41137eb9942e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-INSTRUCT 2012-04-23 20_01_47">
+      <DeploymentItem filename="C:\PhoneEntrySolution\web\bin\web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-23T20:01:47.8370117-04:00" queuing="2012-04-23T20:01:47.9220166-04:00" start="2012-04-23T20:01:47.9270168-04:00" finish="2012-04-23T20:01:48.1540298-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SelectListItemsArePopulatedCorrectly" storage="c:\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="8a38d358-8450-8bcc-9ff8-7bc628c22776">
+      <Execution id="51dbeea4-ee45-4dbe-8d1f-6be83b57ae7a" />
+      <TestMethod codeBase="C:/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SelectListItemsArePopulatedCorrectly" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8a38d358-8450-8bcc-9ff8-7bc628c22776" executionId="51dbeea4-ee45-4dbe-8d1f-6be83b57ae7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="51dbeea4-ee45-4dbe-8d1f-6be83b57ae7a" testId="8a38d358-8450-8bcc-9ff8-7bc628c22776" testName="SelectListItemsArePopulatedCorrectly" computerName="LAB227-INSTRUCT" duration="00:00:00.0649097" startTime="2012-04-23T20:01:47.9300170-04:00" endTime="2012-04-23T20:01:48.1320286-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51dbeea4-ee45-4dbe-8d1f-6be83b57ae7a">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method PhoneEntryTest.PhoneEntriesViewModelUnitTest.SelectListItemsArePopulatedCorrectly threw exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source</Message>
+          <StackTrace>    at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at PhoneEntryTest.PhoneEntriesViewModelUnitTest.SelectListItemsArePopulatedCorrectly() in C:\PhoneEntrySolution\PhoneEntryTest\PhoneEntriesViewModelUnitTest.cs:line 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

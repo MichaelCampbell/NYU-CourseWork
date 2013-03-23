@@ -1,0 +1,5 @@
+C:\netmvc\MembershipSolution\web\bin\web.dll
+C:\netmvc\MembershipSolution\web\bin\web.pdb
+C:\netmvc\MembershipSolution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\MembershipSolution\web\obj\Debug\web.dll
+C:\netmvc\MembershipSolution\web\obj\Debug\web.pdb

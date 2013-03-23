@@ -1,0 +1,73 @@
+TMAX3
+v7
+r0
+t299998748.156246
+cCheck dependencies
+cCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o /Users/Myko/Documents/Programs/MAX3/MAX3.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/MAX3/MAX3.c
+c000000004C31669900000000000000A4
+t1278305945
+s164
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.LinkFileList
+c000000004C31669C0000000000000063
+t1278305948
+s99
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MAX3/main.c
+c000000004C3165220000000000000089
+t1278305570
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299998748#299998748#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o /Users/Myko/Documents/Programs/MAX3/MAX3.c normal x86_64 c com.apple.compilers.gcc.4_2
+s299998748.134760
+e299998748.156169
+r0
+xCompileC
+xbuild/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o
+x/Users/Myko/Documents/Programs/MAX3/MAX3.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/MAX3/MAX3.c: In function 'main':
+o/Users/Myko/Documents/Programs/MAX3/MAX3.c:7: error: expected ')' before ':' token
+o/Users/Myko/Documents/Programs/MAX3/MAX3.c:7: error: expected ')' before ';' token
+o/Users/Myko/Documents/Programs/MAX3/MAX3.c:9: error: expected ';' before '}' token
+lSLF07#2@50"Compile /Users/Myko/Documents/Programs/MAX3/MAX3.c299998748#299998748#0(313"/Users/Myko/Documents/Programs/MAX3/MAX3.c: In function 'main':/Users/Myko/Documents/Programs/MAX3/MAX3.c:7: error: expected ')' before ':' token/Users/Myko/Documents/Programs/MAX3/MAX3.c:7: error: expected ')' before ';' token/Users/Myko/Documents/Programs/MAX3/MAX3.c:9: error: expected ';' before '}' token3(4@29"Expected ')' before ':' token299998748#64#83#0(6@42"/Users/Myko/Documents/Programs/MAX3/MAX3.c299998745#7#0#7#0#19"expected * before *0(4@29"Expected ')' before ';' token299998748#147#83#0(6@42"/Users/Myko/Documents/Programs/MAX3/MAX3.c299998745#7#0#7#0#19"expected * before *0(4@29"Expected ';' before '}' token299998748#230#83#0(6@42"/Users/Myko/Documents/Programs/MAX3/MAX3.c299998745#9#0#9#0#19"expected * before *0(0#0#42"/Users/Myko/Documents/Programs/MAX3/MAX3.c4300911832#1183"    cd /Users/Myko/Documents/Programs/MAX3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-generated-files.hmap -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-project-headers.hmap -F/Users/Myko/Documents/Programs/MAX3/build/Debug -I/Users/Myko/Documents/Programs/MAX3/build/Debug/include -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/DerivedSources -c /Users/Myko/Documents/Programs/MAX3/MAX3.c -o /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o1#
+
+CCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MAX3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3 normal x86_64
+r0
+

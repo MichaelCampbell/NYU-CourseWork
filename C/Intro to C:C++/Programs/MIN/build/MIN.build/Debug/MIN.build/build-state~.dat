@@ -1,0 +1,60 @@
+TMIN
+v7
+r0
+t300044514.731755
+cCheck dependencies
+cCompileC build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MIN/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/MIN/build/Debug/MIN
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/MIN.LinkFileList
+c000000004C3219620000000000000060
+t1278351714
+s96
+
+N/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MIN/main.c
+c000000004C32196000000000000000E0
+t1278351712
+s224
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300044514#300044514#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MIN/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300044514.710980
+e300044514.731665
+r0
+xCompileC
+xbuild/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/Programs/MIN/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/MIN/main.c: In function 'main':
+o/Users/Myko/Documents/Programs/MIN/main.c:12: warning: implicit declaration of function 'MAX3'
+o/Users/Myko/Documents/Programs/MIN/main.c: At top level:
+o/Users/Myko/Documents/Programs/MIN/main.c:19: error: expected '=', ',', ';', 'asm' or '__attribute__' before ':' token
+lSLF07#2@49"Compile /Users/Myko/Documents/Programs/MIN/main.c300044514#300044514#0(334"/Users/Myko/Documents/Programs/MIN/main.c: In function 'main':/Users/Myko/Documents/Programs/MIN/main.c:12: warning: implicit declaration of function 'MAX3'/Users/Myko/Documents/Programs/MIN/main.c: At top level:/Users/Myko/Documents/Programs/MIN/main.c:19: error: expected '=', ',', ';', 'asm' or '__attribute__' before ':' token3(22@39"Implicit declaration of function 'MAX3'300044514#63#95#0(6@41"/Users/Myko/Documents/Programs/MIN/main.c300044512#12#0#12#0#36"implicit declaration of function '*'0(23@13"At top level:300044514#158#57#0(6@41"/Users/Myko/Documents/Programs/MIN/main.c300044512#0#0#0#0#0"0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before ':' token300044514#215#119#0(6@41"/Users/Myko/Documents/Programs/MIN/main.c300044512#19#0#19#0#19"expected * before *0(0#0#41"/Users/Myko/Documents/Programs/MIN/main.c4300911832#1154"    cd /Users/Myko/Documents/Programs/MIN    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-generated-files.hmap -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/MIN-project-headers.hmap -F/Users/Myko/Documents/Programs/MIN/build/Debug -I/Users/Myko/Documents/Programs/MIN/build/Debug/include -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/DerivedSources -c /Users/Myko/Documents/Programs/MIN/main.c -o /Users/Myko/Documents/Programs/MIN/build/MIN.build/Debug/MIN.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Myko/Documents/Programs/MIN/build/Debug/MIN normal x86_64
+r0
+

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with JavaScript if/switch</title>
+    <script type="text/javascript">
+        //if else
+        var favTV = confirm("Tell me, do you really like Desperate Housewives?");
+        if (favTV == true)
+        { document.write("You have no life. Go do something productive."); }
+        else
+        { document.write("Smart person."); }
+
+        //switch
+        var favTV = prompt("What is your favorite Seinfeld character?", "Kramer");
+        switch (favTV) {
+            case null:
+                document.write("I know you just hit cancel. Jerk!");
+                break;
+            case "Kramer":
+                document.write("Love the hair!");
+                break;
+            case "Elaine":
+                document.write("She may push you down!");
+                break;
+            case "George":
+                document.write("Love the hair! (lack-of)");
+                break;
+            default:
+                document.write("Reload!");
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

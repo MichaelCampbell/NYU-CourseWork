@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with JavaScript Design Patterns</title>
+    <script type="text/javascript">
+        /* A design pattern is a programming solution to a specific problem that has been documented so that the developer doesn't need to solve the same problem again.*/
+
+        /*Creational Patterns - object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or added complexity to the design.            Creational design patterns solve this problem by somehow controlling this object creation.*/
+
+        var oMyObject = new MyClass();
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        /*Factory Pattern (or Abstract Factory) - Provide an interface for creating families of related or dependent objects without specifying their concrete classes.*/
+
+        /*Suppose that you don't know the exact class that should be created until runtime. In the case of JavaScript, this may be due to browser differences. If it's Internet Explorer, you need to create an instance of one        class; if it's not (IE), you need to create another. The key is that the returned object has the same interface (properties and methods) regardless of which class is instantiated. Since JavaScript is loosely typed and            has no concept of interfaces, you need to trust that the returned object will have the properties or methods you need to get the job done. The best example of this today is in creating XMLHttp objects. A lot of            times, you'll see code that looks like this: */
+
+        if (typeof XMLHttpRequest != "undefined") {
+            return new XMLHttpRequest();
+        } else if (typeof window.ActiveXObject != "undefined") {
+            return new ActiveXObject("MSXML2.XMLHttp");
+        }
+
+        /*Clearly, you don't want to repeat this code every time you need to create a new XMLHttp object. Aside from creating a lot of extra code, it's impossible to keep the code in sync should another condition be                     introduced that would return a third type of object. This is when you would use the factory pattern.
+
+        The factory pattern involves having a function (or an object with a method) that returns the appropriate object. Developers need not know which object is being returned since the interface will be the same no              matter what. You need only call the function and know that the correct object will be returned. For example: */
+
+        function XMLHttpFactory() {
+        }
+
+        XMLHttpFactory.createXMLHttp = function () {
+            if (typeof XMLHttpRequest != "undefined") {
+            return new XMLHttpRequest();
+            } else if (typeof window.ActiveXObject != "undefined") {
+            return new ActiveXObject("MSXML2.XMLHttp");
+            }
+        }
+    
+        /*With this defined, developers can now use a single method call to create the object that will work for their environment:*/
+
+        var oXMLHttp = XMLHttpFactory.createXMLHttp();
+
+        /*If any other conditions become necessary, these can be addressed in a single location without impacting code that has been written using XMLHttp objects.
+
+        In many object-oriented programming languages, classes returned from factories typically have private or protected constructors so that they can't be instantiated directly from outside the class or package. Since              JavaScript has no concept of non-public constructors, you'll need to use a different approach if this is a concern.
+
+        Suppose that you have a class called MyClass, which should only be instantiated from a factory method, MyFactory.createObject(), such as: */
+
+        function MyClass() {
+            this.myproperty = "hello world";
+        }
+
+        function MyFactory {}
+
+        MyFactory.createObject = function () {
+        return new MyClass();
+        }
+
+        /*You want to prevent a developer from writing this:*/
+
+        var oMyObject = new MyClass();
+
+        /*The truth is, you can't stop a developer from writing this code. Unlike traditional languages with protected or private constructors, there is no compilation step to catch the offense. Instead, you need to provide             the error telling the developer that this is an illegal action. But how do you do that?
+
+        Looking at the code again, what you really want to do is make sure that a MyClass instance can only be created inside of the MyFactory.createObject() method. Is there a way to tell at runtime what function or                method is trying to create the object? The answer is yes.
+
+        Each function has a caller property that points to the function that is calling it. So all you really need to do is ensure that the caller is the factory method and throw an error if it isn't, like this:*/
+
+        function MyClass() {
+            if (MyClass.caller != MyFactory.createObject) {
+                throw new Error("There is no public constructor for MyClass.");
+            }
+
+            this.myproperty = "hello world";
+        }
+
+        /*In this code, you are ensuring that constructor is being called from within the MyFactory.createObject() method by checking the caller property. If caller is set to something other than that function, an error is              thrown stating that there is no public constructor for the class. While not as strict as a private or protected constructor in a compiled language, it has the same effect of enforcing usage of the factory.
+
+        Key points to remember about the factory pattern:
+
+        All objects returned from the function or method must have the same interface (properties and methods).
+        If possible, none of the objects should be able to be instantiated directly outside of the factory method. This isn't possible for built-in objects like XMLHttpRequest or ActiveXObject.
+        The factory method should be used wherever you would instantiate the object normally.*/
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        /*Singleton Pattern*/
+
+        /*Imagine you have an object that is used purely as a utility: it doesn't have any business logic, nor does it contain data that may need to be changed. It's only purpose in life is to provide functionality that might be         needed by other parts of a program. Do you really need to create a new instance of this object every time this functionality is needed? The answer is no. If you had just one instance of the object, it would work             just fine.
+
+        The singleton pattern solves this problem by defining a means of controlling the number of instances that can be created for a given class. Basically, a getInstance() method is defined. Whenever the developer                 needs an instance of the object, this method is called. There is a static property that holds an instance of this class. When getInstance() is called, it first checks the property to see if an instance already exists. If it            does, then that instance is returned, otherwise a new instance is created, stored in the property, and then returned. In JavaScript, it looks something like this:*/
+
+        function MyClass() {
+            this.myproperty = "hello world";
+        }
+
+        MyClass.__instance__ = null;  //define the static property
+
+        MyClass.getInstance = function () {
+        if (this.__instance__ == null) {
+            this.__instance__ = new MyClass();
+        }
+
+        return this.__instance__;
+        }
+
+        /*After defining the simple class definition, a static property called __instance__ is defined and set to null. Inside the getInstance() method (which is also static), the property is checked to see if it's null, and if it is, a        new instance is created and assigned to it. Then, the stored instance is returned as the function value. Developers can then use the following code:*/
+
+        var oMyObject = MyClass.getInstance();
+
+        /*You may have guessed at this point that you'll also want to suppress the ability of the developer to do this:*/
+
+        var oMyObject = new MyClass();
+
+        /*Your guess is completely correct, so you can add the same type of logic as with the factory pattern:*/
+
+        function MyClass() {
+            if (MyClass.caller != MyClass.getInstance) {
+                throw new Error("There is no public constructor for MyClass.");
+        }
+
+            this.myproperty = "hello world";
+        }
+
+        /*As you can see, this is almost exactly the same as the code used in the factory pattern; the only part that has changed is the function being tested.
+
+        Key points to remember about the singleton pattern:
+
+        Only one instance of a class is ever created.
+        Unlike the factory pattern, the singleton pattern always creates an object of a specific class.
+        The singleton pattern should be used wherever the object would normally be created.*/
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        /*Decorator Pattern - Attach additional responsibilities to an object dynamically keeping the same interface. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+        Decorator patterns are an alternative to creating subclasses. This pattern can be used to wrap objects within another object of the same interface and allows you to both add behaviour to methods and also pass the        method call to the original object (ie the constructor of the decorator).
+
+        The decorator pattern is used when you need to keeping adding new functionality to overridden methods. This can be achieved by stacking multiple decorators on top of one another.
+
+        What is the main benefit of using a decorator pattern? Well, if we examine our first definition, I mentioned that decorators are an alternative to subclassing. When a script is being run, subclassing adds behaviour that         affects all the instances of the original class, whilst decorating does not. It instead can add new behaviour for individual objects, which can be of benefit depending on the application in question. Let’s take a look at          some code that implements the decorator pattern:*/
+
+        function Macbook() {
+            this.cost = function () {
+                return 1000;
+            };
+        }
+
+        function Memory(macbook) {
+            this.cost = function () {
+                return macbook.cost() + 75;
+            };
+        }
+
+        function BlurayDrive(macbook) {
+            this.cost = function () {
+                return macbook.cost() + 300;
+            };
+        }
+
+        function Insurance(macbook) {
+            this.cost = function () {
+                return macbook.cost() + 250;
+            };
+        }
+
+        // Sample usage
+        var myMacbook = new Insurance(new BlurayDrive(new Memory(new Macbook())));
+        console.log(myMacbook.cost());
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        /*Using Design Patterns in jQuery */
+
+        /*The Composite Pattern
+
+        The Composite Pattern describes a group of objects that can be treated in the same way a single instance of an object can. Implementing this pattern allows you to treat both individual objects and compositions in a          uniform manner. In jQuery, when we're accessing or performing actions on a single DOM element or a group of DOM elements, we can treat both in a uniform manner. This is demonstrated by the code sample                below:*/
+
+        $('#someDiv').addClass('active');  // a single element
+        $('div').addClass('active');      // a collection of elements
+
+        /*
+        The Facade Pattern
+
+        The Facade Pattern is quite commonly used with OOP (Object-oriented programming) where a facade is an object which provides a simpler interface to a larger piece of code (eg. a class library). Facades can be                 frequently found across the jQuery library and make methods both easier to use and understand, but also more readable. The following are facades for jQuery's $.ajax():*/
+
+        $.get();
+        $.post();
+        $.getJSON();
+        $.getScript();
+
+        /*The Iterator Pattern
+
+        The Iterator Pattern is a design pattern where iterators (objects that allow us to traverse through all the elements of a collection) access the elements of an aggregate object sequentially without needing to expose         its underlying form. Iterators encapsulate the internal structure of how that particular iteration occurs - in the case of jQuery's .each() iterator, you are actually able to use the underlying code behind .each() to                iterate through a collection, without needing to see or understand the code working behind the scenes that's providing this capability. */
+
+        $.each(function () { });
+        $('.items').each(function () { });
+
+        /*The Proxy Pattern
+
+        The Proxy Pattern - a proxy is basically a class that functions as an interface to something else. The proxy can be an interface to almost anything: a file, a resource, an object in memory, something else that is difficult         to duplicate etc. jQuery's .proxy() function takes as input a function and returns a new one that will always have a particular context. This is parallel to the idea of providing an interface as per the proxy pattern.*/
+
+        $.proxy(function () { }, obj);
+
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@model ContactWeb.Models.ContactViewModel
+
+@{
+    ViewBag.Title = "Contacts";
+}
+
+<h2>Contacts</h2>
+
+<ul class="letterMenu">
+    @foreach (var letter in Model.SelectedLetters)
+    {
+        <li @(letter == Model.SelectedLetter ? "class=Selected" : String.Empty)>@Html.ActionLink(letter, "List", new {prefix = letter})</li>
+    }
+</ul>
+<br clear="all" /><br />
+
+@Html.ActionLink("Insert", "Insert")
+
+<ul class="contactList">
+@foreach (var contact in Model.Contacts)
+{
+    <li>
+    @Html.ActionLink(contact.Email, "Detail", new { id = contact.Id}) 
+    
+    @Html.ActionLink("Edit", "Edit", new{id = contact.Id})
+    @using (Html.BeginForm("Delete", "Contact", new { id = contact.Id }))
+    {
+        <input type="submit" value="Delete"/>
+    }
+        
+    @Html.ActionLink("Delete", "Delete", new{id = contact.Id})
+    </li>
+}
+</ul>
+
+

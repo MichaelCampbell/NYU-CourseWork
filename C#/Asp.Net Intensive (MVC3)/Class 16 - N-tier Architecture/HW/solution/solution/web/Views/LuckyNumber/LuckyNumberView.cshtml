@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ContactWeb.Models.Contact>
+
+@{
+    ViewBag.Title = "LuckyNumberView";
+}
+
+<h2>LuckyNumberView</h2>
+
+<ul class="letterMenu">
+    @foreach (var luckyNumber in Model)
+    {
+        <li @*@(luckyNumber == luckyNumber.LuckyNumbers ? "class=Selected" : String.Empty)*@>
+            @Html.ActionLink(luckyNumber.LuckyNumber.ToString(), "LuckyNumberView", new { luckyNumber = luckyNumber.LuckyNumber })
+        </li>
+    }
+</ul>
+<br clear="all" /><br />
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            LuckyNumber
+        </th>
+        <th>
+            FullName
+        </th>
+        <th>
+            Prefix
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LuckyNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prefix)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

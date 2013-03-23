@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes' ?>
+<?xml-stylesheet href="Vehicles.xslt" type="text/xsl"?>
+<Vehicles>
+	<Vehicle id='1234'>
+		<Make>Jeep</Make>
+		<Model>Wrangler</Model>
+		<Color id='1'>Red</Color>
+		<Year>1992</Year>
+		<Price>12000</Price>
+	</Vehicle>
+	<Vehicle id='1235'>
+		<Make>Volkswagon</Make>
+		<Model>Jetta</Model>
+		<Color id='1'>Red</Color>
+		<Year>2009</Year>
+		<Price>25000</Price>
+	</Vehicle>
+</Vehicles>

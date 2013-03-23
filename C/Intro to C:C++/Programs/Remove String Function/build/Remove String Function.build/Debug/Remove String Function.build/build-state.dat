@@ -1,0 +1,79 @@
+TRemove String Function
+v7
+r0
+t299916107.724891
+cCheck dependencies
+cCompileC "build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/removeString.o" "/Users/Myko/Documents/Programs/Remove String Function/removeString.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function
+t1278223305
+s9312
+
+N/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/Remove String Function.LinkFileList
+c000000004C3004A700000000000000A1
+t1278215335
+s161
+
+N/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/removeString.o
+t1278223305
+s3796
+
+N/Users/Myko/Documents/Programs/Remove String Function/main.c
+c000000004C3004870000000000000089
+t1278215303
+s137
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Remove String Function/removeString.c
+c000000004C3023C900000000000001EE
+t1278223305
+s494
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299916107#299916107#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Remove String Function/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/removeString.o" "/Users/Myko/Documents/Programs/Remove String Function/removeString.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299916105.684894
+e299916105.713223
+r1
+xCompileC
+xbuild/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/removeString.o
+x/Users/Myko/Documents/Programs/Remove String Function/removeString.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/Remove String Function/removeString.c: In function 'removeString':
+o/Users/Myko/Documents/Programs/Remove String Function/removeString.c:27: warning: control reaches end of non-void function
+lSLF07#2@76"Compile /Users/Myko/Documents/Programs/Remove String Function/removeString.c299916105#299916105#0(221"/Users/Myko/Documents/Programs/Remove String Function/removeString.c: In function 'removeString':/Users/Myko/Documents/Programs/Remove String Function/removeString.c:27: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function299916105#98#123#0(6@68"/Users/Myko/Documents/Programs/Remove String Function/removeString.c299916105#27#0#27#0#40"control reaches end of non-void function0(0#0#68"/Users/Myko/Documents/Programs/Remove String Function/removeString.c4300911832#1743"    cd "/Users/Myko/Documents/Programs/Remove String Function"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Remove String Function-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Remove String Function-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Remove String Function-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Remove String Function-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Remove String Function/build/Debug" "-I/Users/Myko/Documents/Programs/Remove String Function/build/Debug/include" "-I/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Remove String Function/removeString.c" -o "/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/removeString.o"0#
+
+CLd "/Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function" normal x86_64
+s299916105.713312
+e299916105.728075
+r1
+xLd
+x/Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function
+xnormal
+xx86_64
+lSLF07#2@93"Link /Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function299916105#299916105#0(0"0(0#0#0"4300911832#643"    cd "/Users/Myko/Documents/Programs/Remove String Function"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/Remove String Function/build/Debug" "-F/Users/Myko/Documents/Programs/Remove String Function/build/Debug" -filelist "/Users/Myko/Documents/Programs/Remove String Function/build/Remove String Function.build/Debug/Remove String Function.build/Objects-normal/x86_64/Remove String Function.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/Remove String Function/build/Debug/Remove String Function"0#
+

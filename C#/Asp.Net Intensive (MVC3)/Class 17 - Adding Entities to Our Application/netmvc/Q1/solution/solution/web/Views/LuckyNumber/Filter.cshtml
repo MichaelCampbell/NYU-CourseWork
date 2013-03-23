@@ -1,0 +1,23 @@
+﻿@model ContactWeb.Models.LuckyNumber.FilterViewModel
+
+@{
+    ViewBag.Title = "Filter";
+}
+
+<h2>Filter</h2>
+
+<ul class="menu">
+@foreach (var key in Model.LuckyNumberMap.Keys)
+{
+    <li>@Html.ActionLink(key.ToString(), "Filter", new{SelectedLuckyNumber=key})</li>
+}
+</ul>
+
+
+<br clear="all" />
+<ul>
+@foreach (var contact in Model.Contacts)
+{
+    <li>@contact.FullName - @contact.LuckyNumber</li>
+}
+</ul>

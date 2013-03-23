@@ -1,0 +1,5 @@
+C:\Users\NYUSCPS\Desktop\Mike\Session 3\nyu.lab3.1\nyu.lab3.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NYUSCPS\Desktop\Mike\Session 3\nyu.lab3.1\nyu.lab3.1\bin\Debug\nyu.lab3.1.exe
+C:\Users\NYUSCPS\Desktop\Mike\Session 3\nyu.lab3.1\nyu.lab3.1\bin\Debug\nyu.lab3.1.pdb
+C:\Users\NYUSCPS\Desktop\Mike\Session 3\nyu.lab3.1\nyu.lab3.1\obj\x86\Debug\nyu.lab3.1.exe
+C:\Users\NYUSCPS\Desktop\Mike\Session 3\nyu.lab3.1\nyu.lab3.1\obj\x86\Debug\nyu.lab3.1.pdb

@@ -1,0 +1,10 @@
+c:\PhoneEntrySolution\web\bin\web.dll
+c:\PhoneEntrySolution\web\bin\web.pdb
+c:\PhoneEntrySolution\web\obj\Debug\ResolveAssemblyReference.cache
+c:\PhoneEntrySolution\web\obj\Debug\web.dll
+c:\PhoneEntrySolution\web\obj\Debug\web.pdb
+C:\netmvc\MidPoint\PhoneEntrySolution\PhoneEntrySolution\web\bin\web.dll
+C:\netmvc\MidPoint\PhoneEntrySolution\PhoneEntrySolution\web\bin\web.pdb
+C:\netmvc\MidPoint\PhoneEntrySolution\PhoneEntrySolution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\MidPoint\PhoneEntrySolution\PhoneEntrySolution\web\obj\Debug\web.dll
+C:\netmvc\MidPoint\PhoneEntrySolution\PhoneEntrySolution\web\obj\Debug\web.pdb

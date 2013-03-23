@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ef1f63dd-bac0-4045-84e1-1deed625dde8" name="computerlab@LAB227-PC07 2012-04-23 19:09:00" runUser="LAB227-PC07\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ca495fc3-76e2-4f20-a487-099b87efe37e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-PC07 2012-04-23 19_09_00" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-23T19:09:00.9027067-04:00" queuing="2012-04-23T19:09:00.9457092-04:00" start="2012-04-23T19:09:00.9517095-04:00" finish="2012-04-23T19:09:01.1357201-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod2" storage="c:\netmvc\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="85a0992e-c884-d03c-5735-fbc0d87de888">
+      <Execution id="a8d840e2-d6d3-4093-9857-4acb50e92fd4" />
+      <TestMethod codeBase="C:/netmvc/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\netmvc\phoneentrysolution\phoneentrytest\bin\debug\phoneentrytest.dll" id="a59297ee-c1ed-32db-a339-cc74913a79c8">
+      <Execution id="a8cb75ab-1b37-4fe2-99af-9b3c3374ed18" />
+      <TestMethod codeBase="C:/netmvc/PhoneEntrySolution/PhoneEntryTest/bin/Debug/PhoneEntryTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PhoneEntryTest.PhoneEntriesViewModelUnitTest, PhoneEntryTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="85a0992e-c884-d03c-5735-fbc0d87de888" executionId="a8d840e2-d6d3-4093-9857-4acb50e92fd4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a59297ee-c1ed-32db-a339-cc74913a79c8" executionId="a8cb75ab-1b37-4fe2-99af-9b3c3374ed18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a8d840e2-d6d3-4093-9857-4acb50e92fd4" testId="85a0992e-c884-d03c-5735-fbc0d87de888" testName="TestMethod2" computerName="LAB227-PC07" duration="00:00:00.0094657" startTime="2012-04-23T19:09:00.9577099-04:00" endTime="2012-04-23T19:09:01.1167190-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8d840e2-d6d3-4093-9857-4acb50e92fd4">
+    </UnitTestResult>
+    <UnitTestResult executionId="a8cb75ab-1b37-4fe2-99af-9b3c3374ed18" testId="a59297ee-c1ed-32db-a339-cc74913a79c8" testName="TestMethod1" computerName="LAB227-PC07" duration="00:00:00.0001191" startTime="2012-04-23T19:09:01.1187191-04:00" endTime="2012-04-23T19:09:01.1207192-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8cb75ab-1b37-4fe2-99af-9b3c3374ed18">
+    </UnitTestResult>
+  </Results>
+</TestRun>

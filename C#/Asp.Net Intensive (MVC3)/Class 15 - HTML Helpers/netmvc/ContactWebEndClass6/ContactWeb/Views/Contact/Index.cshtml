@@ -1,0 +1,45 @@
+﻿@model ContactWeb.Models.ListViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script>
+
+
+    $(function () {
+        $("a.postLink").live("click", function () {
+            var link = $(this);
+            var form = link.parents("form");
+            form.attr(
+                "action",
+                link.attr("href")
+            );
+            form.submit();
+            return false;
+        });
+
+        $("ul.letterMenu a").live("click", function () {
+            var link = $(this);
+            $.get(
+                link.attr("href"),
+                function (html) {
+                    //                    $("div.results").replaceWith($(html).find("div.results"));
+                    //$("div.results").html(html);
+                    $("div.results").empty();
+                    $("div.results").hide().html(html).fadeIn();
+                }
+            );
+            return false;
+        });
+    });
+</script>
+
+<h2>Index</h2>
+Welcome to our Listing Page.....
+
+<div class="results">
+@{Html.RenderAction("Results");}
+</div>
+
+

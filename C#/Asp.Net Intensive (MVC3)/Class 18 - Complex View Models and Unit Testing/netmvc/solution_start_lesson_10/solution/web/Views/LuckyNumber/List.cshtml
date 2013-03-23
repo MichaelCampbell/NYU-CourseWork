@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ContactWeb.Models.Contact>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<h6>Users with lucky numbers between 1 and 5</h6>
+
+<table>
+    <tr>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            LuckyNumber
+        </th>
+        <th>
+            FullName
+        </th>
+        <th>
+            Prefix
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @item.FirstName
+        </td>
+        <td>
+            @item.LastName
+        </td>
+        <td>
+            @item.Email
+        </td>
+        <td>
+            @item.LuckyNumber
+        </td>
+        <td>
+            @item.FullName
+        </td>
+        <td>
+            @item.Prefix
+        </td>
+    </tr>
+}
+
+</table>
+

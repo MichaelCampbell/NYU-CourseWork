@@ -1,0 +1,77 @@
+TMAX3
+v7
+r0
+t300042189.395575
+cCheck dependencies
+cCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o /Users/Myko/Documents/Programs/MAX3/MAX3.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/MAX3/MAX3.c
+c000000004C32104000000000000000F4
+t1278349376
+s244
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3
+t1278349389
+s8960
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.LinkFileList
+c000000004C31669C0000000000000063
+t1278305948
+s99
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o
+t1278349389
+s2728
+
+N/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MAX3/main.c
+c000000004C3165220000000000000089
+t1278305570
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300042189#300042189#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o /Users/Myko/Documents/Programs/MAX3/MAX3.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300042189.359247
+e300042189.383001
+r1
+xCompileC
+xbuild/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o
+x/Users/Myko/Documents/Programs/MAX3/MAX3.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Myko/Documents/Programs/MAX3/MAX3.c300042189#300042189#0(0"0(0#0#42"/Users/Myko/Documents/Programs/MAX3/MAX3.c4300911832#1183"    cd /Users/Myko/Documents/Programs/MAX3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-generated-files.hmap -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/MAX3-project-headers.hmap -F/Users/Myko/Documents/Programs/MAX3/build/Debug -I/Users/Myko/Documents/Programs/MAX3/build/Debug/include -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/DerivedSources -c /Users/Myko/Documents/Programs/MAX3/MAX3.c -o /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.o0#
+
+CCompileC build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MAX3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3 normal x86_64
+s300042189.383099
+e300042189.395524
+r1
+xLd
+x/Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3
+xnormal
+xx86_64
+lSLF07#2@57"Link /Users/Myko/Documents/Programs/MAX3/build/Debug/MAX3300042189#300042189#0(0"0(0#0#0"4300911832#471"    cd /Users/Myko/Documents/Programs/MAX3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/MAX3/build/Debug -F/Users/Myko/Documents/Programs/MAX3/build/Debug -filelist /Users/Myko/Documents/Programs/MAX3/build/MAX3.build/Debug/MAX3.build/Objects-normal/x86_64/MAX3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/MAX3/build/Debug/MAX30#
+

@@ -1,0 +1,15 @@
+C:\eric\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\BUS\bin\Debug\BUS.dll
+C:\eric\solution\BUS\bin\Debug\BUS.pdb
+C:\eric\solution\BUS\obj\Debug\BUS.dll
+C:\eric\solution\BUS\obj\Debug\BUS.pdb
+C:\eric\solution\solution\BUS\bin\Debug\BUS.dll
+C:\eric\solution\solution\BUS\bin\Debug\BUS.pdb
+C:\eric\solution\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\solution\BUS\obj\Debug\BUS.dll
+C:\eric\solution\solution\BUS\obj\Debug\BUS.pdb
+C:\Users\ekatz\Desktop\solution\BUS\bin\Debug\BUS.dll
+C:\Users\ekatz\Desktop\solution\BUS\bin\Debug\BUS.pdb
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\BUS.dll
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\BUS.pdb

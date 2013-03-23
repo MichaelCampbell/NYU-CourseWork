@@ -1,0 +1,74 @@
+TTest2
+v7
+r0
+t313207455.386405
+cCheck dependencies
+cCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o /Users/Myko/Desktop/Test2/Test2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o /Users/Myko/Desktop/Test2/Test2/other.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Desktop/Test2/Test2/build/Debug/Test2
+t2
+s0
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/Test2.LinkFileList
+c000000004CFAF31F00000000000000C3
+t1291514655
+s195
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o
+t2
+s0
+
+N/Users/Myko/Desktop/Test2/Test2/main.cpp
+c000000004CFAF31F00000000000000C2
+t1291514655
+s194
+i<iostream>
+
+N/Users/Myko/Desktop/Test2/Test2/other.cpp
+c000000004CFAF31A0000000000000050
+t1291514650
+s80
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313207455#313207455#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o /Users/Myko/Desktop/Test2/Test2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313207455.317830
+e313207455.385402
+r0
+xCompileC
+xbuild/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Desktop/Test2/Test2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Myko/Desktop/Test2/Test2/main.cpp313207455#313207455#0(567"/Users/Myko/Desktop/Test2/Test2/main.cpp:3:17: error: obj.h: No such file or directory/Users/Myko/Desktop/Test2/Test2/main.cpp:4:20: error: global.h: No such file or directory/Users/Myko/Desktop/Test2/Test2/main.cpp:7: error: 'obj' does not name a type/Users/Myko/Desktop/Test2/Test2/main.cpp:8: error: 'obj' does not name a type/Users/Myko/Desktop/Test2/Test2/main.cpp: In function 'int main()':/Users/Myko/Desktop/Test2/Test2/main.cpp:12: error: 'obj' does not name a type/Users/Myko/Desktop/Test2/Test2/main.cpp:13: error: 'f' was not declared in this scope6(4@32"Obj.h: No such file or directory313207455#0#87#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#3#0#3#0#28"*: No such file or directory0(4@35"Global.h: No such file or directory313207455#87#90#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#4#0#4#0#28"*: No such file or directory0(4@26"'obj' does not name a type313207455#177#78#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#7#0#7#0#24"'*' does not name a type0(4@26"'obj' does not name a type313207455#255#78#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#8#0#8#0#24"'*' does not name a type0(4@26"'obj' does not name a type313207455#401#79#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#12#0#12#0#24"'*' does not name a type0(4@34"'f' was not declared in this scope313207455#480#87#0(6@40"/Users/Myko/Desktop/Test2/Test2/main.cpp313207455#13#0#13#0#34"'*' was not declared in this scope0(0#0#40"/Users/Myko/Desktop/Test2/Test2/main.cpp7955997338297972736#1178"    cd /Users/Myko/Desktop/Test2/Test2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-generated-files.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-own-target-headers.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-all-target-headers.hmap -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-project-headers.hmap -F/Users/Myko/Desktop/Test2/Test2/build/Debug -I/Users/Myko/Desktop/Test2/Test2/build/Debug/include -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources/x86_64 -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources -c /Users/Myko/Desktop/Test2/Test2/main.cpp -o /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/main.o1#
+
+CCompileC build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o /Users/Myko/Desktop/Test2/Test2/other.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313207455.385465
+e313207455.386356
+r0
+xCompileC
+xbuild/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o
+x/Users/Myko/Desktop/Test2/Test2/other.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Myko/Desktop/Test2/Test2/other.cpp313207455#313207455#0(393"/Users/Myko/Desktop/Test2/Test2/other.cpp:3: error: 'obj' does not name a type/Users/Myko/Desktop/Test2/Test2/other.cpp:4: error: 'obj' does not name a type/Users/Myko/Desktop/Test2/Test2/other.cpp: In function 'void f()':/Users/Myko/Desktop/Test2/Test2/other.cpp:8: error: 'obj' was not declared in this scope/Users/Myko/Desktop/Test2/Test2/other.cpp:8: error: expected `;' before 'obj6'4(4@26"'obj' does not name a type313207455#0#79#0(6@41"/Users/Myko/Desktop/Test2/Test2/other.cpp313207450#3#0#3#0#24"'*' does not name a type0(4@26"'obj' does not name a type313207455#79#79#0(6@41"/Users/Myko/Desktop/Test2/Test2/other.cpp313207450#4#0#4#0#24"'*' does not name a type0(4@36"'obj' was not declared in this scope313207455#225#89#0(6@41"/Users/Myko/Desktop/Test2/Test2/other.cpp313207450#8#0#8#0#34"'*' was not declared in this scope0(4@26"Expected `;' before 'obj6'313207455#314#79#0(6@41"/Users/Myko/Desktop/Test2/Test2/other.cpp313207450#8#0#8#0#19"expected * before *0(0#0#41"/Users/Myko/Desktop/Test2/Test2/other.cpp8611343840#1180"    cd /Users/Myko/Desktop/Test2/Test2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-generated-files.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-own-target-headers.hmap -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-all-target-headers.hmap -iquote /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Test2-project-headers.hmap -F/Users/Myko/Desktop/Test2/Test2/build/Debug -I/Users/Myko/Desktop/Test2/Test2/build/Debug/include -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources/x86_64 -I/Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/DerivedSources -c /Users/Myko/Desktop/Test2/Test2/other.cpp -o /Users/Myko/Desktop/Test2/Test2/build/Test2.build/Debug/Test2.build/Objects-normal/x86_64/other.o1#
+
+CLd /Users/Myko/Desktop/Test2/Test2/build/Debug/Test2 normal x86_64
+r0
+

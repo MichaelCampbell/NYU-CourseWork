@@ -1,0 +1,35 @@
+﻿@model web.Models.PhoneNumberEntriesViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+<script>
+    $(function() {
+        var post = function(elem) {
+            $.post(
+                $(elem).attr("href"),
+                $(elem).parents("form").serialize(),
+                function(html) {
+                    $("#container").html(html);
+                }
+            );
+        }
+        $("a.postLink").live("click", function() {
+                post(this);
+                return false;
+        });
+
+        $("select.postSelect").live("change", function() {
+                post(this);
+                return false;
+
+        });
+    });
+
+</script>
+<h2>@Html.ActionLink("Phone Number Entries", "Index")</h2>
+
+<div id="container">
+    @{ Html.RenderPartial("Form");}
+</div>
+

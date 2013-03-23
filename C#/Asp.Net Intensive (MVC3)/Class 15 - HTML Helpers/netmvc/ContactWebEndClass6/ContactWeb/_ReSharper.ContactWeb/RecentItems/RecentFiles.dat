@@ -1,0 +1,54 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/f:Web.config" caret="0" fromTop="0" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Contact/f:Results.cshtml" caret="2051" fromTop="43" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Contact/f:Form.cshtml" caret="1216" fromTop="38" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/f:Contact.cs" caret="870" fromTop="32" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/f:ContactDAL.cs" caret="3492" fromTop="25" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:DonutHole/f:DonutHoleViewModel.cs" caret="507" fromTop="19" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:HTMLFragment/f:HtmlFragmentListViewModel.cs" caret="290" fromTop="10" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:DonutHoleController.cs" caret="0" fromTop="0" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:HTMLFragmentController.cs" caret="572" fromTop="21" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="510" fromTop="12" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:HTMLFragment/f:HtmlFragmentItemModel.cs" caret="564" fromTop="22" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Content/f:Site.css" caret="1850" fromTop="17" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Item.cshtml" caret="553" fromTop="18" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="367" fromTop="13" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:JsonController.cs" caret="278" fromTop="8" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Json/f:Index.cshtml" caret="530" fromTop="12" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/f:MyMvcHelpers.cs" caret="384" fromTop="13" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1345" fromTop="16" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:DonutHoleController.cs" caret="597" fromTop="18" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="1233" fromTop="26" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="931" fromTop="18" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="763" fromTop="12" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:DonutHoleController.cs" caret="359" fromTop="15" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="386" fromTop="10" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:DonutHole/f:Index.cshtml" caret="175" fromTop="5" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:HTMLFragmentController.cs" caret="277" fromTop="10" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:HTMLFragment/f:HtmlFragmentListViewModel.cs" caret="299" fromTop="10" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Item.cshtml" caret="50" fromTop="0" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:HTMLFragmentController.cs" caret="654" fromTop="22" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="797" fromTop="12" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/d:HTMLFragment/f:HtmlFragmentItemModel.cs" caret="542" fromTop="19" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="664" fromTop="13" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="579" fromTop="14" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="1042" fromTop="30" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="427" fromTop="14" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Item.cshtml" caret="280" fromTop="10" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Item.cshtml" caret="228" fromTop="8" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Index.cshtml" caret="367" fromTop="13" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:HTMLFragment/f:Item.cshtml" caret="553" fromTop="18" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Json/f:Index.cshtml" caret="1403" fromTop="9" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Controllers/f:JsonController.cs" caret="596" fromTop="17" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Json/f:Index.cshtml" caret="944" fromTop="19" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Json/f:Index.cshtml" caret="539" fromTop="12" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="25" fromTop="0" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Models/f:MyMvcHelpers.cs" caret="378" fromTop="13" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1393" fromTop="16" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1509" fromTop="21" />
+    <File id="24BE1F9C-15CC-4982-8C35-C5807E59C48D/d:Views/d:Shared/f:_Layout.cshtml" caret="1345" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>

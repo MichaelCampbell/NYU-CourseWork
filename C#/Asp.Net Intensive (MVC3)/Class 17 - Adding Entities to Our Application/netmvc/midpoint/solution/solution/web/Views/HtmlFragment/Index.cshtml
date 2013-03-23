@@ -1,0 +1,42 @@
+﻿@using ContactWeb.Models.HtmlFragment
+@model HtmlFragmentListViewModel
+@{
+    ViewBag.Title = "Html Fragment";
+}
+
+<script>
+    $(function () {
+        $("ul#contactList a").live("click", function () {
+            var li = $(this).parent();
+            li.siblings().removeClass("selected");
+
+            li.siblings().each(function () {
+                $(this).find("ul").remove();
+            });
+
+            $.get(
+                $(this).attr("href"),
+                function (fragment) {
+                    li.replaceWith(fragment);
+                }
+            );
+            return false;
+        });
+    });
+</script>
+
+<h2>
+    Html Fragment</h2>
+<ul id="contactList">
+    @foreach (var contact in Model.Contacts)
+    {
+        Html.RenderPartial(
+              "Item",
+              new HtmlFragmentItemModel
+              {
+                  Contact = contact,
+                  SelectedContactId = Model.SelectedContactId
+              }
+          );
+    }
+</ul>

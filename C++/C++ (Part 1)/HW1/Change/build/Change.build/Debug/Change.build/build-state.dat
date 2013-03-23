@@ -1,0 +1,110 @@
+TChange
+v7
+r0
+t307839984.429764
+cCheck dependencies
+cCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp
+c000000004CA90C6F0000000000000678
+t1286147183
+s1656
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.LinkFileList
+c000000004CA90C6F0000000000000072
+t1286147183
+s114
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.o
+t1286147184
+s71584
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/change.o
+t1286143784
+s71584
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o
+t1286147006
+s71584
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change
+t1286147184
+s10992
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp
+c000000004CA8FF1E0000000000000665
+t1286143774
+s1637
+i<iostream>
+i<cstdlib>
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp
+c000000004CA90BBE0000000000000678
+t1286147006
+s1656
+i<iostream>
+i<cstdlib>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307839983#307839983#0(0"0(0#1#0"8616424608#0"0#
+
+CCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307839983.972793
+e307839984.363026
+r1
+xCompileC
+xbuild/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.o
+x/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp307839983#307839984#0(0"0(0#0#55"/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp8615459936#1365"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Change"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW1/Change/Change.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.o"0#
+
+CCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/change.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307836584.583823
+e307836584.840848
+r1
+xCompileC
+xbuild/Change.build/Debug/Change.build/Objects-normal/x86_64/change.o
+x/Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp307836584#307836584#0(0"0(0#0#55"/Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp8612328000#1365"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Change"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW1/Change/change.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/change.o"0#
+
+CCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307839807.333281
+e307839807.334184
+r1
+xCompileC
+xbuild/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp307839807#307839807#0(0"0(0#0#53"/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp8612849984#1361"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Change"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change" normal x86_64
+s307839984.363160
+e307839984.429714
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change307839984#307839984#0(0"0(0#0#0"8617185760#534"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Change"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change"0#
+

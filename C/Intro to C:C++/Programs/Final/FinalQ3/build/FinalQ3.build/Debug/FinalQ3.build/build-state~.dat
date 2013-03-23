@@ -1,0 +1,92 @@
+TFinalQ3
+v7
+r0
+t301182271.796568
+cCheck dependencies
+cCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3
+t1279489471
+s9152
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/FinalQ3.LinkFileList
+c000000004C4375BF0000000000000076
+t1279489471
+s118
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o
+t1279489471
+s4248
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c
+c000000004C4375BE00000000000002CE
+t1279489470
+s718
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Final/FinalQ3/main.c
+c000000004C436D290000000000000089
+t1279487273
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301182271#301182271#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c normal x86_64 c com.apple.compilers.gcc.4_2
+s301182271.291029
+e301182271.646360
+r1
+xCompileC
+xbuild/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o
+x/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:19:8: warning: multi-character character constant
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c: In function 'Currency':
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:19: warning: case label value exceeds maximum value for type
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:22:8: warning: multi-character character constant
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:22: warning: case label value exceeds maximum value for type
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:25:8: warning: multi-character character constant
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:25: warning: case label value exceeds maximum value for type
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:28:8: warning: multi-character character constant
+o/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:28: warning: case label value exceeds maximum value for type
+lSLF07#2@63"Compile /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182271#301182271#0(973"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:19:8: warning: multi-character character constant/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c: In function 'Currency':/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:19: warning: case label value exceeds maximum value for type/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:22:8: warning: multi-character character constant/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:22: warning: case label value exceeds maximum value for type/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:25:8: warning: multi-character character constant/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:25: warning: case label value exceeds maximum value for type/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:28:8: warning: multi-character character constant/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c:28: warning: case label value exceeds maximum value for type8(22@34"Multi-character character constant301182271#0#106#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#19#0#19#0#0"0(22@47"Case label value exceeds maximum value for type301182271#187#117#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#19#0#19#0#0"0(22@34"Multi-character character constant301182271#304#106#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#22#0#22#0#0"0(22@47"Case label value exceeds maximum value for type301182271#410#117#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#22#0#22#0#0"0(22@34"Multi-character character constant301182271#527#106#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#25#0#25#0#0"0(22@47"Case label value exceeds maximum value for type301182271#633#117#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#25#0#25#0#0"0(22@34"Multi-character character constant301182271#750#106#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#28#0#28#0#0"0(22@47"Case label value exceeds maximum value for type301182271#856#117#0(6@55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c301182270#28#0#28#0#0"0(0#0#55"/Users/Myko/Documents/Programs/Final/FinalQ3/currency.c4300911832#1344"    cd /Users/Myko/Documents/Programs/Final/FinalQ3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-generated-files.hmap -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-own-target-headers.hmap -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/FinalQ3-project-headers.hmap -F/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/include -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/DerivedSources -c /Users/Myko/Documents/Programs/Final/FinalQ3/currency.c -o /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/currency.o0#
+
+CCompileC build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/Final/FinalQ3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3 normal x86_64
+s301182271.646442
+e301182271.796500
+r1
+xLd
+x/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ3301182271#301182271#0(0"0(0#0#0"4300911832#528"    cd /Users/Myko/Documents/Programs/Final/FinalQ3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -F/Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug -filelist /Users/Myko/Documents/Programs/Final/FinalQ3/build/FinalQ3.build/Debug/FinalQ3.build/Objects-normal/x86_64/FinalQ3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/Final/FinalQ3/build/Debug/FinalQ30#
+

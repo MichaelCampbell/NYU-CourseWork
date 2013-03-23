@@ -1,0 +1,158 @@
+TMidtermQ1
+v7
+r0
+t300067988.228122
+cCheck dependencies
+cCompileC build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o /Users/Myko/Documents/Programs/Midterm/MidtermQ1/Histogram.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/Histogram.c
+c000000004C32712700000000000004DE
+t1278374183
+s1246
+i<stdio.h>
+i<ctype.h>
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1
+t1278375188
+s9816
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o
+t1278374187
+s6520
+
+N/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/MidtermQ1.LinkFileList
+c000000004C327513000000000000007F
+t1278375187
+s127
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ1/Histogram.c
+c000000004C32712700000000000004DE
+t1278374183
+s1246
+i<stdio.h>
+i<ctype.h>
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1
+t1278375188
+s9816
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o
+t1278374187
+s6520
+
+N/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/MidtermQ1.LinkFileList
+c000000004C327513000000000000007F
+t1278375187
+s127
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c
+c000000004C32712700000000000004DE
+t1278374183
+s1246
+i<stdio.h>
+i<ctype.h>
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/MidtermQ1
+t1278374187
+s9816
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o
+t1278374187
+s6520
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/MidtermQ1.LinkFileList
+c000000004C32642B0000000000000081
+t1278370859
+s129
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/StaticAnalyzer/normal/x86_64/Histogram.plist
+t1278373033
+s275
+
+N/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/main.c
+c000000004C32628D0000000000000089
+t1278370445
+s137
+i<stdio.h>
+
+CAnalyze /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c
+s300065833.733356
+e300065833.785299
+r1
+xAnalyze
+x/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c
+o/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c:59:15:{59:3-59:13}{59:14-59:15}: warning: expression result unused [-Wunused-value]
+o                 hist_grade[i];
+o                 ~~~~~~~~~~ ~^
+o1 diagnostic generated.
+lSLF07#2@70"Analyze /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c300065833#300065833#0(234"/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c:59:15:{59:3-59:13}{59:14-59:15}: warning: expression result unused [-Wunused-value]                 hist_grade[i];                 ~~~~~~~~~~ ~^1 diagnostic generated.0(0#0#62"/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c4300911832#1502"    cd /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-generated-files.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-project-headers.hmap -F/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/include -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/DerivedSources --analyze /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c -o /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/StaticAnalyzer/normal/x86_64/Histogram.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300067987#300067987#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o "/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/Histogram.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o /Users/Myko/Documents/Programs/Midterm/MidtermQ1/Histogram.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300066987.719541
+e300066987.812517
+r1
+xCompileC
+xbuild/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o
+x/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c300066987#300066987#0(0"0(0#0#62"/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c4300911832#1448"    cd /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-generated-files.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-own-target-headers.hmap -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/MidtermQ1-project-headers.hmap -F/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/include -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/DerivedSources -c /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/Histogram.c -o /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/Histogram.o0#
+
+CCompileC build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Intro to C:C++/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1" normal x86_64
+r0
+
+CLd /Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1 normal x86_64
+s300067987.997911
+e300067988.228052
+r1
+xLd
+x/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ1300067988#300067988#0(0"0(0#0#0"13229766294700130#556"    cd /Users/Myko/Documents/Programs/Midterm/MidtermQ1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug -F/Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug -filelist /Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/MidtermQ1.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/Midterm/MidtermQ1/build/Debug/MidtermQ10#
+
+CLd /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/MidtermQ1 normal x86_64
+s300066987.812614
+e300066987.825381
+r1
+xLd
+x/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/MidtermQ1
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/MidtermQ1300066987#300066987#0(0"0(0#0#0"4300911832#566"    cd /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug -F/Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug -filelist /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/MidtermQ1.build/Debug/MidtermQ1.build/Objects-normal/x86_64/MidtermQ1.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/MidtermQ2/MidtermQ1/build/Debug/MidtermQ10#
+

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JavaScript Auto-table (functional)</title>
+    <script type="text/javascript">
+        function table_me() {
+            var col_no = document.frm_tbl.txt_col.value;
+            var row_no = document.frm_tbl.txt_row.value;
+            var myString = '<table cellspacing="1" cellpadding="1" border="1">';
+            var color;
+            for (var i = 1; i <= row_no; i++) {
+                if (i % 2 == 0)
+                { color = "white" }
+                else
+                { color = "pink" }
+                myString += "<tr bgcolor='" + color + "'>";
+                for (var j = 1; j <= col_no; j++) {
+                    myString += "<td>row " + i + " column " + j + "</td>";
+                }
+                myString += "</tr>";
+            }
+            myString += "</table>";
+            //document.write(myString);
+            document.getElementById("rt").innerHTML = myString;
+        }
+</script>
+</head>
+<body>
+<form name="frm_tbl">
+ Number of columns:<input type="text" name="txt_col">
+ Number of rows:<input type="text" name="txt_row">
+ <input type="button" value="go!" onclick="table_me();">
+</form>
+<span id="rt"></span>
+</body>
+</html>

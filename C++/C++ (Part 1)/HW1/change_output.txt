@@ -1,0 +1,15 @@
+
+Let's figure out how much change you have in your pocket...
+
+How many quarters do you have?
+
+Sorry, please try again
+
+Sorry, please try again
+How many dimes do you have?
+How many nickels do you have?
+How many pennies do you have?
+
+Sorry, please try again
+
+You have $1.46!

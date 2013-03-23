@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Using JavaScript try/catch</title>
+</head>
+<body>
+<script type="text/javascript">
+    function undefinedfunction() { }
+    try {
+        undefinedfunctio1n()
+        alert('I guess you do exist')
+    }
+    catch (e) {
+        alert('An error has occurred: ' + '\nMessage: ' + e.message + '\nNumber: ' + e.Number)
+    }
+    finally {
+        alert('I am alerted regardless of the outcome above')
+    }
+</script>
+</body>
+</html>

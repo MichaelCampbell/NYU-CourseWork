@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="be2d386a-9913-4202-9d33-4ed30b6cdbd1" name="computerlab@LAB227-PC07 2012-05-02 21:04:02" runUser="LAB227-PC07\computerlab" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="20723483-a981-4561-bfbd-53d0e2f55521">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="computerlab_LAB227-PC07 2012-05-02 21_04_02">
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll" />
+      <DeploymentItem filename="C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\packages\Ninject.3.0.0.15\lib\net40\Ninject.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-02T21:04:02.4181921-04:00" queuing="2012-05-02T21:04:02.6502054-04:00" start="2012-05-02T21:04:02.6552057-04:00" finish="2012-05-02T21:04:02.8562172-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Can_Create_Page_Links" storage="c:\netmvc\q2\sportsstoresolution\sportsstoresolution\sportsstore.unittests\bin\debug\sportsstore.unittests.dll" id="a421d1a1-b1b4-c4c5-ded8-857e306ec449">
+      <Execution id="3ab491bc-f46c-44f5-9350-b39da9fb0e28" />
+      <TestMethod codeBase="C:/netmvc/Q2/SportsStoreSolution/SportsStoreSolution/SportsStore.UnitTests/bin/Debug/SportsStore.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SportsStore.UnitTests.ProductControllerUnitTest, SportsStore.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_Create_Page_Links" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a421d1a1-b1b4-c4c5-ded8-857e306ec449" executionId="3ab491bc-f46c-44f5-9350-b39da9fb0e28" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3ab491bc-f46c-44f5-9350-b39da9fb0e28" testId="a421d1a1-b1b4-c4c5-ded8-857e306ec449" testName="Can_Create_Page_Links" computerName="LAB227-PC07" duration="00:00:00.0326790" startTime="2012-05-02T21:04:02.6582058-04:00" endTime="2012-05-02T21:04:02.8442165-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ab491bc-f46c-44f5-9350-b39da9fb0e28">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;&lt;a href="Page1"&gt;&lt;/a&gt;&lt;a class="selected" href="Page2"&gt;2&lt;/a&gt;&lt;a href="Page3"&gt;3&lt;/a&gt;&gt;. Actual:&lt;&lt;a href="Page0"&gt;0&lt;/a&gt;&lt;a href="Page1"&gt;1&lt;/a&gt;&lt;a class="selected" href="Page2"&gt;2&lt;/a&gt;&gt;. </Message>
+          <StackTrace>   at SportsStore.UnitTests.ProductControllerUnitTest.Can_Create_Page_Links() in C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.UnitTests\ProductControllerUnitTest.cs:line 52
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

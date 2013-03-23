@@ -1,0 +1,121 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2083BBAA11E02CC900C2577A /* Counting Words */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* Counting Words */;
+		codeSenseManager = 2083BBAF11E02CD700C2577A /* Code sense */;
+		executables = (
+			2083BBAA11E02CC900C2577A /* Counting Words */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					815,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299904202;
+			PBXWorkspaceStateSaveDate = 299904202;
+		};
+		perUserProjectItems = {
+			2083BBF911E030BF00C2577A /* XCBuildMessageTextBookmark */ = 2083BBF911E030BF00C2577A /* XCBuildMessageTextBookmark */;
+			2083BC5611E03CE800C2577A /* PBXTextBookmark */ = 2083BC5611E03CE800C2577A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2083BBAE11E02CD700C2577A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* CountingWords.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 380}}";
+			sepNavSelRange = "{73, 0}";
+			sepNavVisRange = "{0, 657}";
+		};
+	};
+	2083BBAA11E02CC900C2577A /* Counting Words */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Counting Words";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2083BBAE11E02CD700C2577A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2083BBAF11E02CD700C2577A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2083BBF911E030BF00C2577A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Assignment of read-only location";
+		fRef = 08FB7796FE84155DC02AAC07 /* CountingWords.c */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 3;
+		rType = 1;
+	};
+	2083BC5611E03CE800C2577A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* CountingWords.c */;
+		name = "CountingWords.c: 4";
+		rLen = 0;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	8DD76FA90486AB0100D96B5E /* Counting Words */ = {
+		activeExec = 0;
+		executables = (
+			2083BBAA11E02CC900C2577A /* Counting Words */,
+		);
+	};
+}

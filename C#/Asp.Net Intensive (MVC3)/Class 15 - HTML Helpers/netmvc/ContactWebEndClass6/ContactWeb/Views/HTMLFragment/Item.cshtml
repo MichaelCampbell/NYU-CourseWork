@@ -1,0 +1,19 @@
+﻿@model ContactWeb.Models.HTMLFragment.HtmlFragmentItemModel
+
+@{
+    Layout = null;
+}
+
+<li @Model.CSSString(Model.Contact)>
+    @Html.ActionLink(Model.Contact.FullName, "Item", new {SelectedContactId = Model.Contact.Id})
+
+    @if(Model.IsSelected(Model.Contact))
+    {
+        <ul>
+            <li>First Name : @Model.Contact.FirstName</li>
+            <li>Last Name : @Model.Contact.LastName</li>
+            <li>Lucky Number : @Model.Contact.LuckyNumber</li>
+            <li>Email : @Model.Contact.Email</li>
+        </ul>
+    }
+</li>

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<ul class="menu">
+    <li @(ViewContext.Controller.GetType().Name == "HomeController" ? "class=selected": String.Empty)>
+        @Html.ActionLink("Home", "Index", "Home")
+     </li>
+    <li @(ViewContext.Controller.GetType().Name == "ContactController" ? "class=selected": String.Empty)>
+        @Html.ActionLink("Contact", "Index", "Contact", new { Prefix = "A" , Ascending = true}, null)
+    </li>
+</ul>
+<div style="clear:both;height:0px" />
+<div id="content">
+    @RenderBody()
+</div>
+</body>
+</html>

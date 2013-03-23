@@ -1,0 +1,5 @@
+C:\netmvc\ContactWeb\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\ContactWeb\ContactWeb\bin\ContactWeb.dll
+C:\netmvc\ContactWeb\ContactWeb\bin\ContactWeb.pdb
+C:\netmvc\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
+C:\netmvc\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb

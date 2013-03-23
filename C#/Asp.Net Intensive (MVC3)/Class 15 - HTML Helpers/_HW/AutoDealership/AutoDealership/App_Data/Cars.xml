@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <Year>2012</Year>
+    <Price>30000</Price>
+    <Color>Grey</Color>
+    <Vehicle_Identification_Number>ABCD1234</Vehicle_Identification_Number>
+    <Make>BMW</Make>
+    <Model>328</Model>
+  </Car>
+  <Car>
+    <Year>2011</Year>
+    <Price>25000</Price>
+    <Color>Red</Color>
+    <Vehicle_Identification_Number>EFGH5678</Vehicle_Identification_Number>
+    <Make>Toyota</Make>
+    <Model>Camry</Model>
+  </Car>
+  <Car>
+    <Year>2000</Year>
+    <Price>15000</Price>
+    <Color>White</Color>
+    <Vehicle_Identification_Number>ZZZZ0000</Vehicle_Identification_Number>
+    <Make>Audi</Make>
+    <Model>A5</Model>
+  </Car>
+  <Car>
+    <Year>1900</Year>
+    <Price>11</Price>
+    <Color>pink</Color>
+    <Vehicle_Identification_Number>test</Vehicle_Identification_Number>
+    <Make>test</Make>
+    <Model>test</Model>
+  </Car>
+  <Car>
+    <Year>2020</Year>
+    <Price>34</Price>
+    <Color>black</Color>
+    <Vehicle_Identification_Number>ZZZZ00000</Vehicle_Identification_Number>
+    <Make>zebra</Make>
+    <Model>toe</Model>
+  </Car>
+</Cars>

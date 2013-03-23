@@ -1,0 +1,32 @@
+C:\eric\solution\solution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\solution\DAL\bin\Debug\DAL.dll
+C:\eric\solution\solution\DAL\bin\Debug\DAL.pdb
+C:\eric\solution\solution\DAL\bin\Debug\BUS.dll
+C:\eric\solution\solution\DAL\bin\Debug\BUS.pdb
+C:\eric\solution\solution\DAL\obj\Debug\DAL.dll
+C:\eric\solution\solution\DAL\obj\Debug\DAL.pdb
+C:\eric\solution\solution\DAL\bin\Debug\DAL.dll.config
+C:\Users\ekatz\Desktop\solution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\solution\DAL\obj\Debug\DAL.dll
+C:\Users\ekatz\Desktop\solution\DAL\obj\Debug\DAL.pdb
+C:\Users\ekatz\Desktop\solution\DAL\bin\Debug\DAL.dll.config
+C:\Users\ekatz\Desktop\solution\DAL\bin\Debug\DAL.dll
+C:\Users\ekatz\Desktop\solution\DAL\bin\Debug\DAL.pdb
+C:\Users\ekatz\Desktop\solution\DAL\bin\Debug\BUS.dll
+C:\Users\ekatz\Desktop\solution\DAL\bin\Debug\BUS.pdb
+C:\eric\solution\DAL\bin\Debug\DAL.dll.config
+C:\eric\solution\DAL\bin\Debug\DAL.dll
+C:\eric\solution\DAL\bin\Debug\DAL.pdb
+C:\eric\solution\DAL\bin\Debug\BUS.dll
+C:\eric\solution\DAL\bin\Debug\BUS.pdb
+C:\eric\solution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\DAL\obj\Debug\DAL.dll
+C:\eric\solution\DAL\obj\Debug\DAL.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\obj\Debug\DAL.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\bin\Debug\DAL.dll.config
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\bin\Debug\DAL.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\bin\Debug\DAL.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\bin\Debug\BUS.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\bin\Debug\BUS.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\DAL\obj\Debug\DAL.pdb

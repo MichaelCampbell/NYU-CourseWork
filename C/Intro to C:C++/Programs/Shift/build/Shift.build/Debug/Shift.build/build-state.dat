@@ -1,0 +1,77 @@
+TShift
+v7
+r0
+t300044192.653265
+cCheck dependencies
+cCompileC build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.o /Users/Myko/Documents/Programs/Shift/Shift.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Myko/Documents/Programs/Shift/build/Debug/Shift normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Shift/Shift.c
+c000000004C32181E0000000000000121
+t1278351390
+s289
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Shift/build/Debug/Shift
+t1278351392
+s8968
+
+N/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.LinkFileList
+c000000004C3215CF0000000000000067
+t1278350799
+s103
+
+N/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.o
+t1278351392
+s2744
+
+N/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Shift/main.c
+c000000004C3211BD0000000000000089
+t1278349757
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300044192#300044192#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.o /Users/Myko/Documents/Programs/Shift/Shift.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300044192.617896
+e300044192.640524
+r1
+xCompileC
+xbuild/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.o
+x/Users/Myko/Documents/Programs/Shift/Shift.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Myko/Documents/Programs/Shift/Shift.c300044192#300044192#0(0"0(0#0#44"/Users/Myko/Documents/Programs/Shift/Shift.c4300911832#1214"    cd /Users/Myko/Documents/Programs/Shift    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Shift-generated-files.hmap -I/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Shift-own-target-headers.hmap -I/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Shift-all-target-headers.hmap -iquote /Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Shift-project-headers.hmap -F/Users/Myko/Documents/Programs/Shift/build/Debug -I/Users/Myko/Documents/Programs/Shift/build/Debug/include -I/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/DerivedSources/x86_64 -I/Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/DerivedSources -c /Users/Myko/Documents/Programs/Shift/Shift.c -o /Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.o0#
+
+CCompileC build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/main.o /Users/Myko/Documents/Programs/Shift/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Myko/Documents/Programs/Shift/build/Debug/Shift normal x86_64
+s300044192.640611
+e300044192.653201
+r1
+xLd
+x/Users/Myko/Documents/Programs/Shift/build/Debug/Shift
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/Myko/Documents/Programs/Shift/build/Debug/Shift300044192#300044192#0(0"0(0#0#0"4300911832#480"    cd /Users/Myko/Documents/Programs/Shift    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Myko/Documents/Programs/Shift/build/Debug -F/Users/Myko/Documents/Programs/Shift/build/Debug -filelist /Users/Myko/Documents/Programs/Shift/build/Shift.build/Debug/Shift.build/Objects-normal/x86_64/Shift.LinkFileList -mmacosx-version-min=10.6 -o /Users/Myko/Documents/Programs/Shift/build/Debug/Shift0#
+

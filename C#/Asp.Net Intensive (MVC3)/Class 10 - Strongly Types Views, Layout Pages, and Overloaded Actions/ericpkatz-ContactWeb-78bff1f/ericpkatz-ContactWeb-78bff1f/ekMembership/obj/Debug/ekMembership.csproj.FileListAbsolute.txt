@@ -1,0 +1,21 @@
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\bin\Debug\ekMembership.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\bin\Debug\ekMembership.pdb
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\bin\Debug\ekCommonLibs.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\bin\Debug\ekCommonLibs.pdb
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\obj\Debug\ekMembership.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\DatingSolution\ekMembership\obj\Debug\ekMembership.pdb
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\bin\Debug\ekMembership.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\bin\Debug\ekMembership.pdb
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\bin\Debug\ekCommonLibs.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\bin\Debug\ekCommonLibs.pdb
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\obj\Debug\ekMembership.dll
+C:\Users\ekatz\Documents\Magic Briefcase\nyu\9098\web\mvc\ContactWebFinal\ekMembership\obj\Debug\ekMembership.pdb
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\bin\Debug\ekMembership.dll
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\bin\Debug\ekMembership.pdb
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\bin\Debug\ekCommonLibs.dll
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\bin\Debug\ekCommonLibs.pdb
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\obj\Debug\ekMembership.dll
+C:\netmvc\ericpkatz-ContactWeb-78bff1f\ericpkatz-ContactWeb-78bff1f\ekMembership\obj\Debug\ekMembership.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Working with JavaScript objects</title>
+</head>
+<body>
+<script type="text/javascript">
+    var name = new Object();
+    name.first = "George";
+    name.middle = "T";
+    name.last = "Clooney";
+    name.salutation = "Actor";
+
+    var address = { street: "123 Beverly Hills Ave",
+        city: "Los Angeles",
+        state: "CA",
+        zip: "90210"
+    };
+
+    document.write("<h2>Name:</h2>");
+    document.write("first = " + name.first + "<br>");
+    document.write("middle = " + name.middle + "<br>");
+    document.write("last = " + name.last + "<br>");
+    document.write("salutation = " + name.salutation + "<br>");
+    
+    function printObj(myObj) {
+        for (myProperty in myObj) {
+            document.write(myProperty + " = " + myObj[myProperty] + "<br>");
+        }
+    }
+    
+    document.write("<h2>Address:</h2>");
+    printObj(address);
+    document.write("<h2>Navigator:</h2>");
+    printObj(navigator);
+    document.write("<h2>Location:</h2>");
+    printObj(location);
+    document.write("<h2>Document:</h2>");
+    printObj(document);
+</script>
+</body>
+</html>

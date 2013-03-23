@@ -1,0 +1,223 @@
+TPoint
+v7
+r0
+t321337718.519483
+cCheck dependencies
+cCompileC build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Point.build/Release/Point.build/Objects-normal/i386/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Point.build/Release/Point.build/Objects-normal/ppc/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point" normal ppc
+cLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point" normal x86_64
+cLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point" normal i386
+cCreateUniversalBinary "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point.dSYM" "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp
+c000000004D7701F50000000000000532
+t1299644917
+s1330
+i<iostream>
+i<cmath>
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point
+t1299644918
+s10904
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point.LinkFileList
+c000000004D76FC3E0000000000000078
+t1299643454
+s120
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point.o
+t1299644918
+s75696
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/main.o
+t1299643420
+s71648
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point
+t1299644918
+s10452
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point.LinkFileList
+c000000004D76FC3E0000000000000077
+t1299643454
+s119
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point.o
+t1299644918
+s76536
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/main.o
+t1299643420
+s72464
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point
+t1299644918
+s11240
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.LinkFileList
+c000000004D76FC3E000000000000007A
+t1299643454
+s122
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.o
+t1299644918
+s77676
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/main.o
+t1299643420
+s73540
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point
+t1299644918
+s39124
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point.dSYM
+t1299644918
+s102
+
+N/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+c000000004D76FC1A00000000000003BB
+t1299643418
+s955
+i<iostream>
+i<cmath>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321337717#321337717#0(0"0(0#1#0"8610559168#0"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/i386/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s321337717.691929
+e321337718.373655
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/i386/Point.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp321337717#321337718#0(0"0(0#0#63"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp8618371072#1474"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/i386" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point.o"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/i386/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s321336220.079060
+e321336220.777864
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/i386/main.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp321336220#321336220#0(0"0(0#0#62"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp8613101824#1472"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/i386" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/ppc/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s321337717.692989
+e321337718.358476
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/ppc/Point.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp321337717#321337718#0(0"0(0#0#63"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp8610527264#1481"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/ppc" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point.o"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/ppc/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s321336220.080067
+e321336220.925922
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/ppc/main.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp321336220#321336220#0(0"0(0#0#62"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp8612982784#1479"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/ppc" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/main.o"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s321337717.669024
+e321337718.359574
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/x86_64/Point.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp321337717#321337718#0(0"0(0#0#63"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp8614589600#1480"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/Point.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.o"0#
+
+CCompileC build/Point.build/Release/Point.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s321336220.077902
+e321336220.923748
+r1
+xCompileC
+xbuild/Point.build/Release/Point.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp321336220#321336220#0(0"0(0#0#62"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp8613200416#1478"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-generated-files.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-own-target-headers.hmap" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-all-target-headers.hmap" -iquote "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Point-project-headers.hmap" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/include" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/DerivedSources" -c "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/main.cpp" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/main.o"0#
+
+CCreateUniversalBinary "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point" normal "x86_64 i386 ppc"
+s321337718.408681
+e321337718.417367
+r1
+xCreateUniversalBinary
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@66"CreateUniversalBinary build/Release/Point normal "x86_64 i386 ppc"321337718#321337718#0(0"0(0#0#69"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/x86_64 i386 ppc8616249600#534"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    /usr/bin/lipo -create "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point" "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point" "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point" -output "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point"0#
+
+CGenerateDSYMFile "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point.dSYM" "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point"
+s321337718.417472
+e321337718.519439
+r1
+xGenerateDSYMFile
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point.dSYM
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point
+lSLF07#2@61"GenerateDSYMFile build/Release/Point.dSYM build/Release/Point321337718#321337718#0(0"0(0#0#73"/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point8613189984#255"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    /Developer/usr/bin/dsymutil "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point" -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release/Point.dSYM"0#
+
+CLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point" normal i386
+s321337718.373779
+e321337718.407232
+r1
+xLd
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point
+xnormal
+xi386
+lSLF07#2@122"Link /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point321337718#321337718#0(0"0(0#0#0"8618303424#623"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" -filelist "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/i386/Point"0#
+
+CLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point" normal ppc
+s321337718.358607
+e321337718.407861
+r1
+xLd
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point
+xnormal
+xppc
+lSLF07#2@121"Link /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point321337718#321337718#0(0"0(0#0#0"8619514464#620"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" -filelist "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/ppc/Point"0#
+
+CLd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point" normal x86_64
+s321337718.359631
+e321337718.408580
+r1
+xLd
+x/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point
+xnormal
+xx86_64
+lSLF07#2@124"Link /Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point321337718#321337718#0(0"0(0#0#0"8618483456#629"    cd "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" "-F/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Release" -filelist "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/NYU/2011/C++ (Part 2)/HW1/Point/build/Point.build/Release/Point.build/Objects-normal/x86_64/Point"0#
+

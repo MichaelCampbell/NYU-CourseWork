@@ -1,0 +1,35 @@
+﻿@using ContactWeb.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/reset.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/text.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/960.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container_12">
+        <div class="grid_12">
+            <h1>ContactWeb</h1>
+        </div>
+        <div class="grid_12">
+            <ul class="menu">
+                @Html.MenuItem(Html.ActionLink("Home", "Index", "Home"), "home")
+                @Html.MenuItem(Html.ActionLink("Contact", "Index", "Contact", new { Prefix = "A", Ascending = true }, null), "contact")
+                @Html.MenuItem(Html.ActionLink("Donut Hole", "Index", "DonutHole"), "donuthole")
+                @Html.MenuItem(Html.ActionLink("Html Fragment", "Index", "HtmlFragment"), "htmlfragment")
+                @Html.MenuItem(Html.ActionLink("Json Controller", "Index", "Json"), "json")
+                @Html.MenuItem(Html.ActionLink("Lucky Number", "Filter", "LuckyNumber", new { low=1, high=5}, null), "luckynumber")
+            </ul>
+        </div>
+        <div class="grid_12">
+            <div id="content">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

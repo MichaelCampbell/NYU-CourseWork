@@ -1,0 +1,51 @@
+TChange
+v7
+r0
+t307831321.266539
+cCheck dependencies
+cCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/Change.LinkFileList
+c000000004CA8EA990000000000000070
+t1286138521
+s112
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp
+c000000004CA8EA970000000000000154
+t1286138519
+s340
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307831321#307831321#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307831321.235988
+e307831321.266424
+r0
+xCompileC
+xbuild/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp307831321#307831321#0(274"/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp: In function 'int main()':/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp:14: error: 'cerr' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp:6: warning: unused variable 'total'2(4@37"'cerr' was not declared in this scope307831321#81#103#0(6@53"/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp307831319#14#0#14#0#34"'*' was not declared in this scope0(22@23"Unused variable 'total'307831321#184#90#0(6@53"/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp307831319#6#0#6#0#19"unused variable '*'0(0#0#53"/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp7020319295437486080#1361"    cd "/Users/Myko/Documents/C++ (Part1)/HW1/Change"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Change-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW1/Change/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Change.build/Debug/Change.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW1/Change/build/Debug/Change" normal x86_64
+r0
+

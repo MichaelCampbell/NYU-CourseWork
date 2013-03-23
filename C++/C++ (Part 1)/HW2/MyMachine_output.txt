@@ -1,0 +1,14 @@
+
+On my machine, an int can hold values in the range of
+-2147483648 to 2147483647 inclusive.
+
+On my machine, when you add 1 to an int that already holds the maximum value, you get "-2147483648"
+
+On my machine, an int occupies 4 bytes.
+
+On my machine, the value of an int when you have not put a value into it is "0"
+
+On my machine, when you divide an int, such as 5by zero, you get: "Floating point exception"
+
+On my machine, the value of the expression -38 / 5, is -7, and the value of -38 % 5, is -3
+

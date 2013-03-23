@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Working with DHTML</title>
+<script type="text/javascript">
+    function named() {
+        document.getElementById("lbl").innerHTML = "By Object Name: " + document.frmTest.txtFirst.value + " " + document.frmTest.txtLast.value;
+    }
+    function js() {
+        document.getElementById("lbl").innerHTML = "By JS: " + document.forms[0].elements[0].value + " " + document.forms[0].elements[1].value;
+    }
+    function dhtml() {
+        document.getElementById("lbl").innerHTML = "By DHTML: " + document.getElementById("txtFirst").value + " " + document.getElementById("txtLast").value;
+    }
+</script>
+</head>
+<body>
+<!--this dhtml sample shows the various different ways to 
+access an object's properties -->
+<form name="frmTest" id="frmTest">
+ First Name:<input type="text" id="txtFirst" name="txtFirst" /><br />
+ Last Name:<input type="text" id="txtLast" name="txtLast" /><br />
+ <input type="button" value="via named object" onclick="named();" />
+ <input type="button" value="via js" onclick="js();" />
+ <input type="button" value="via dhtml" onclick="dhtml();" />
+</form>
+<span id="lbl"></span>
+</body>
+</html>

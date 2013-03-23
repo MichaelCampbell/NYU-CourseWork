@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\computerlab\Desktop\test" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/21/2012 19:54:31" />
+    <file relUrl="bin/HelloWorld.pdb" publishTime="03/21/2012 19:52:47" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="03/21/2012 19:52:44" />
+    <file relUrl="bin/HelloWorld.dll" publishTime="03/21/2012 19:52:47" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Views/Web.config" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Content/Site.css" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Global.asax" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/21/2012 18:51:15" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="03/21/2012 18:51:15" />
+  </publishProfile>
+</publishData>

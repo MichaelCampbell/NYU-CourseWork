@@ -1,0 +1,89 @@
+Ttest
+v7
+r0
+t311890273.426638
+cCheck dependencies
+cCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test
+t1290197473
+s16920
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+t1290197473
+s75176
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/stack.o
+t1290197425
+s69740
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList
+c000000004CE6D9E1000000000000006A
+t1290197473
+s106
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp
+c000000004CE6D9E000000000000003E8
+t1290197472
+s1000
+i<iostream>
+i<iomanip>
+i<cstdlib>
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp
+c000000004CE6D9AF0000000000000292
+t1290197423
+s658
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.h
+c000000004CE6D98F000000000000019A
+t1290197391
+s410
+i<cstddef>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311890273#311890273#0(0"0(0#1#0"8604534976#0"0#
+
+CCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311890273.126982
+e311890273.411052
+r1
+xCompileC
+xbuild/test.build/Debug/test.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp311890273#311890273#0(0"0(0#0#51"/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp8603717984#1303"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW4/test/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/test.build/Debug/test.build/Objects-normal/x86_64/stack.o "/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311890224.545775
+e311890225.673982
+r1
+xCompileC
+xbuild/test.build/Debug/test.build/Objects-normal/x86_64/stack.o
+x/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp311890224#311890225#0(0"0(0#0#52"/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp3344876418469408768#1305"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/test-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW4/test/stack.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/stack.o"0#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test" normal x86_64
+s311890273.411139
+e311890273.426581
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test
+xnormal
+xx86_64
+lSLF07#2@64"Link /Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test311890273#311890273#0(0"0(0#0#0"8606056096#516"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/test.build/Debug/test.build/Objects-normal/x86_64/test.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW4/test/build/Debug/test"0#
+

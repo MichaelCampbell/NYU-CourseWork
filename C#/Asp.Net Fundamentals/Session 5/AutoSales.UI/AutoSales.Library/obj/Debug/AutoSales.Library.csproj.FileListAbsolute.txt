@@ -1,0 +1,15 @@
+C:\Users\NYUSCPS\Desktop\Session 4\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.dll
+C:\Users\NYUSCPS\Desktop\Session 4\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.pdb
+C:\Users\NYUSCPS\Desktop\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NYUSCPS\Desktop\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.dll
+C:\Users\NYUSCPS\Desktop\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.pdb
+F:\Session 4\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.dll
+F:\Session 4\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.pdb
+F:\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.dll
+F:\Session 4\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.pdb
+F:\Session 5\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.dll
+F:\Session 5\AutoSales.UI\AutoSales.Library\bin\Debug\AutoSales.Library.pdb
+F:\Session 5\AutoSales.UI\AutoSales.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\Session 5\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.dll
+F:\Session 5\AutoSales.UI\AutoSales.Library\obj\Debug\AutoSales.Library.pdb

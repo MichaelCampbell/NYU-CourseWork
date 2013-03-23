@@ -1,0 +1,141 @@
+TMacedonia_Flag
+v7
+r0
+t309041144.579465
+cCheck dependencies
+cCompileC build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp
+c000000004CBC38A40000000000000CEC
+t1287403684
+s3308
+i<iostream>
+i<cstdlib>
+i<cmath>
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag
+t1287348344
+s14784
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.LinkFileList
+c000000004CBB44200000000000000093
+t1287341088
+s147
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o
+t1287348344
+s70808
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp
+c000000004CAB9AA000000000000006C1
+t1286314656
+s1729
+i<iostream>
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp
+c000000004CB8B6110000000000000735
+t1287173649
+s1845
+i<iostream>
+i<cstdlib>
+i<cmath>
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag
+t1287173649
+s10712
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.LinkFileList
+c000000004CAB9C1100000000000000A1
+t1286315025
+s161
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.o
+t1286314656
+s70244
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o
+t1287173649
+s68744
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/main.cpp
+c000000004CAB4380000000000000008F
+t1286292352
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309041144#309041144#0(0"0(0#1#0"8611654784#0"0#
+
+CCompileC build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308007456.823656
+e308007456.824393
+r1
+xCompileC
+xbuild/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.o
+x/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp308007456#308007456#0(0"0(0#0#85"/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp8613791040#1767"    cd "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-generated-files.hmap" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-own-target-headers.hmap" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-all-target-headers.hmap" -iquote "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-project-headers.hmap" "-F/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/include" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources/x86_64" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources" -c "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonia_Flag.cpp" -o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.o"0#
+
+CCompileC build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309041144.280638
+e309041144.561885
+r1
+xCompileC
+xbuild/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o
+x/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp309041144#309041144#0(0"0(0#0#72"/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp8610825728#1615"    cd "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o"0#
+
+CCompileC build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308866449.929660
+e308866449.930365
+r1
+xCompileC
+xbuild/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o
+x/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp308866449#308866449#0(0"0(0#0#86"/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp8612558144#1769"    cd "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-generated-files.hmap" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-own-target-headers.hmap" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-all-target-headers.hmap" -iquote "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Macedonia_Flag-project-headers.hmap" "-F/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/include" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources/x86_64" "-I/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/DerivedSources" -c "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/Macedonian_Flag.cpp" -o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonian_Flag.o"0#
+
+CCompileC build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/main.o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag" normal x86_64
+s309041144.561976
+e309041144.579418
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag309041144#309041144#0(0"0(0#0#0"8612044544#606"    cd "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag"0#
+
+CLd "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag" normal x86_64
+s308866449.930405
+e308866449.943239
+r1
+xLd
+x/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag308866449#308866449#0(0"0(0#0#0"8612202560#676"    cd "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug" "-F/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug" -filelist "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Macedonia_Flag.build/Debug/Macedonia_Flag.build/Objects-normal/x86_64/Macedonia_Flag.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/michaelc/Documents/Programs/C++ (Part 1)/HW2/Macedonia_Flag/build/Debug/Macedonia_Flag"0#
+

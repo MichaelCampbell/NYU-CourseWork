@@ -1,0 +1,78 @@
+TArray Sum
+v7
+r0
+t299989519.864626
+cCheck dependencies
+cCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Array Sum/ArraySum.c
+c000000004C31428D000000000000015D
+t1278296717
+s349
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/Array Sum.LinkFileList
+c000000004C31428F0000000000000076
+t1278296719
+s118
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Array Sum/main.c
+c000000004C3141C20000000000000089
+t1278296514
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299989519#299989519#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o" "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299989519.843817
+e299989519.864556
+r0
+xCompileC
+xbuild/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o
+x/Users/Myko/Documents/Programs/Array Sum/ArraySum.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c: In function 'arraySum':
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: 'n' undeclared (first use in this function)
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: (Each undeclared identifier is reported only once
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: for each function it appears in.)
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:13: error: 'x' undeclared (first use in this function)
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c: In function 'main':
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:22: error: conflicting types for 'arraySum'
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:5: error: previous definition of 'arraySum' was here
+o/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:24: warning: passing argument 1 of 'arraySum' makes integer from pointer without a cast
+lSLF07#2@59"Compile /Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989519#299989519#0(915"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c: In function 'arraySum':/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: 'n' undeclared (first use in this function)/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: (Each undeclared identifier is reported only once/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:12: error: for each function it appears in.)/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:13: error: 'x' undeclared (first use in this function)/Users/Myko/Documents/Programs/Array Sum/ArraySum.c: In function 'main':/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:22: error: conflicting types for 'arraySum'/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:5: error: previous definition of 'arraySum' was here/Users/Myko/Documents/Programs/Array Sum/ArraySum.c:24: warning: passing argument 1 of 'arraySum' makes integer from pointer without a cast5(4@43"'n' undeclared (first use in this function)299989519#77#107#0(6@51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989517#12#0#12#0#43"'*' undeclared (first use in this function)0(4@43"'x' undeclared (first use in this function)299989519#394#107#0(6@51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989517#13#0#13#0#43"'*' undeclared (first use in this function)0(4@32"Conflicting types for 'arraySum'299989519#574#96#0(6@51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989517#22#0#22#0#25"conflicting types for '*'0(13@42"Previous definition of 'arraySum' was here299989519#670#105#0(6@51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989517#5#0#5#0#35"previous definition of '*' was here0(22@74"Passing argument 1 of 'arraySum' makes integer from pointer without a cast299989519#775#140#0(6@51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c299989517#24#0#24#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#51"/Users/Myko/Documents/Programs/Array Sum/ArraySum.c4300911832#1358"    cd "/Users/Myko/Documents/Programs/Array Sum"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Array Sum-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Array Sum/build/Debug" "-I/Users/Myko/Documents/Programs/Array Sum/build/Debug/include" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Array Sum/ArraySum.c" -o "/Users/Myko/Documents/Programs/Array Sum/build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/ArraySum.o"1#
+
+CCompileC "build/Array Sum.build/Debug/Array Sum.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Array Sum/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Programs/Array Sum/build/Debug/Array Sum" normal x86_64
+r0
+

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        .red
+        {
+            color: #f00;
+            font-weight: bold;
+        }
+        .z
+        {
+            position: absolute;
+            left: 200px;
+            top: 200px;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/
+jquery.js"></script>
+    <script>
+        $(function () {
+            console.log($("div#b"));
+        });
+    </script>
+</head>
+<body>
+    <div id="a">
+        <h1>
+            H1</h1>
+        <ul class="top">
+            <li _x="y">A</li>
+            <li class="c">B</li>
+            <li>C
+                <ul>
+                    <li>C 1</li>
+                    <li>C 2</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <h1>
+        H1</h1>
+    <div id="b" class="z">
+        D
+        <input type="text" id="myTextBox" value="xyz" />
+        <input type="button" value="go" />
+        <input type="checkbox" checked="checked" id="cb1" />
+        <input type="checkbox" id="cb2" />
+    </div>
+</body>
+</html>

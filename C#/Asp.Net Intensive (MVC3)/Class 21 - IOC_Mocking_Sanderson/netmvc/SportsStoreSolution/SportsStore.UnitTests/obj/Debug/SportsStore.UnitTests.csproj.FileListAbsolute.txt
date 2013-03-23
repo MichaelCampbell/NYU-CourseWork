@@ -1,0 +1,17 @@
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Moq.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Ninject.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Moq.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Moq.xml
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Ninject.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\Ninject.xml
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\netmvc\SportsStoreSolution\SportsStore.UnitTests\bin\Debug\EntityFramework.xml

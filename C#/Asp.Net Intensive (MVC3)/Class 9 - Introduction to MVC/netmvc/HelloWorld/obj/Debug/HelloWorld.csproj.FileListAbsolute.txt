@@ -1,0 +1,10 @@
+C:\netmvc\HelloWorld\bin\HelloWorld.dll
+C:\netmvc\HelloWorld\bin\HelloWorld.pdb
+C:\netmvc\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\HelloWorld\obj\Debug\HelloWorld.dll
+C:\netmvc\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\netmvc\HelloWorld\bin\HelloWorld.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\netmvc\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\netmvc\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\netmvc\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\netmvc\HelloWorld\obj\Debug\HelloWorld.pdb

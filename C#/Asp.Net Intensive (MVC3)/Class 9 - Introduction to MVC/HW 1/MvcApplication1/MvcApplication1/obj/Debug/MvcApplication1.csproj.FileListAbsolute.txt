@@ -1,0 +1,5 @@
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\HW\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\HW\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\HW\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\HW\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 9\HW\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb

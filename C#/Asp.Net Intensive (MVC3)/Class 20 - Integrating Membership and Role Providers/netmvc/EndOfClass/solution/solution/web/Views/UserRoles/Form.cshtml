@@ -1,0 +1,39 @@
+﻿@model MembershipApp.Models.UserRoles.EditUserRolesViewModel
+
+@{
+    ViewBag.Title = "EditRoles";
+    Layout = null;
+}
+
+@using (Html.BeginForm("EditUserRoles", "UserRoles"))
+{
+    @TempData["message"]
+<fieldset>
+    <legend> Edit Roles for @Model.Username</legend>
+    <input type="hidden" name="UseAjax" value="@Model.UseAjax" />
+
+    @Model.UseAjax
+
+    @Html.HiddenFor(m => m.Username)
+    <br />
+    <ul>
+        @{int counter = 0;}
+        @foreach (var role in Model.Roles)
+        {
+        <li>
+            @Html.HiddenFor(m => m.Roles[counter])
+            @role @Html.ActionLink("Remove", "Remove", new{index = counter}, new{@class=String.Format("postLink{0}", Model.UseAjax ? " ajax" : String.Empty)})
+        </li>
+            counter++;
+        }
+            @if(Model.MoreRoles()){
+            <li>
+                @Html.DropDownList(String.Format("Roles[{0}]", counter), Model.AvailableRoles(), "choose a role", new {@class = String.Format("postLink{0}", Model.UseAjax ? " ajax" : String.Empty), href = Url.Action("Add") })
+
+            </li>
+            }
+    </ul>
+</fieldset>
+    <input type="submit" value="save" />
+}
+

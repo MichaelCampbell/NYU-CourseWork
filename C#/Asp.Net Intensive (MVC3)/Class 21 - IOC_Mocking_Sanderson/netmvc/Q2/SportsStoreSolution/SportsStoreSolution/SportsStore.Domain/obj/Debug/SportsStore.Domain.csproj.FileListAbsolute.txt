@@ -1,0 +1,16 @@
+c:\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\netmvc\Q2\SportsStoreSolution\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

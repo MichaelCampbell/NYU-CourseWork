@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{DC3C2565-4F8A-4CCD-9498-55D5533891BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneEntryTest", "PhoneEntryTest\PhoneEntryTest.csproj", "{1371BEC6-49EF-4EDD-BD01-7ABDDCB9D878}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5254630-3285-4A69-B76D-3DA95751D93E}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PhoneEntrySolution.vsmdi = PhoneEntrySolution.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PhoneEntrySolution.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3C2565-4F8A-4CCD-9498-55D5533891BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3C2565-4F8A-4CCD-9498-55D5533891BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3C2565-4F8A-4CCD-9498-55D5533891BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3C2565-4F8A-4CCD-9498-55D5533891BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1371BEC6-49EF-4EDD-BD01-7ABDDCB9D878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1371BEC6-49EF-4EDD-BD01-7ABDDCB9D878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1371BEC6-49EF-4EDD-BD01-7ABDDCB9D878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1371BEC6-49EF-4EDD-BD01-7ABDDCB9D878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

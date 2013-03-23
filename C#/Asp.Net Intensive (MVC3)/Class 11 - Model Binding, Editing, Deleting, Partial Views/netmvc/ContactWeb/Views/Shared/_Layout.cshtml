@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<ul id="menu">
+    <li>
+        @Html.ActionLink("Home", "Index", "Home")
+        </li>
+    <li>
+        @Html.ActionLink("Contact", "List", "Contact", new { prefix = String.Empty }, null)
+        </li>
+</ul>
+
+<br clear="all" />
+
+    @RenderBody()
+
+</body>
+</html>

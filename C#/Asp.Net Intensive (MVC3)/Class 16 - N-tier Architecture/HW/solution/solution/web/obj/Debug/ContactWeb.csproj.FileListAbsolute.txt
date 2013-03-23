@@ -1,0 +1,61 @@
+C:\Users\Eric\Documents\ContactWeb\bin\ContactWeb.dll
+C:\Users\Eric\Documents\ContactWeb\bin\ContactWeb.pdb
+C:\Users\Eric\Documents\ContactWeb\bin\EntityFramework.dll
+C:\Users\Eric\Documents\ContactWeb\bin\EntityFramework.xml
+C:\Users\Eric\Documents\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Documents\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\Eric\Documents\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\Eric\Desktop\ContactWeb\bin\ContactWeb.dll
+C:\Users\Eric\Desktop\ContactWeb\bin\ContactWeb.pdb
+C:\Users\Eric\Desktop\ContactWeb\bin\EntityFramework.xml
+C:\Users\Eric\Desktop\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\Eric\Desktop\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\Eric\Desktop\ContactWebCurrent\bin\ContactWeb.dll
+C:\Users\Eric\Desktop\ContactWebCurrent\bin\ContactWeb.pdb
+C:\Users\Eric\Desktop\ContactWebCurrent\bin\EntityFramework.xml
+C:\Users\Eric\Desktop\ContactWebCurrent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\ContactWebCurrent\obj\Debug\ContactWeb.dll
+C:\Users\Eric\Desktop\ContactWebCurrent\obj\Debug\ContactWeb.pdb
+C:\Users\ekatz\Desktop\ContactWeb\bin\ContactWeb.dll
+C:\Users\ekatz\Desktop\ContactWeb\bin\ContactWeb.pdb
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ContactWeb.dll
+C:\Users\ekatz\Desktop\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\eric\ContactWeb\bin\ContactWeb.dll
+C:\eric\ContactWeb\bin\ContactWeb.pdb
+C:\eric\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\ContactWeb\obj\Debug\ContactWeb.dll
+C:\eric\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\ekatz\ContactWeb\bin\ContactWeb.dll
+C:\ekatz\ContactWeb\bin\ContactWeb.pdb
+C:\ekatz\ContactWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\ekatz\ContactWeb\obj\Debug\ContactWeb.dll
+C:\ekatz\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\eric\solution\solution\web\bin\ContactWeb.dll
+C:\eric\solution\solution\web\bin\ContactWeb.pdb
+C:\eric\solution\solution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\solution\web\obj\Debug\ContactWeb.dll
+C:\eric\solution\solution\web\obj\Debug\ContactWeb.pdb
+C:\eric\solution\solution\web\bin\BUS.dll
+C:\eric\solution\solution\web\bin\BUS.pdb
+C:\eric\solution\solution\web\bin\DAL.dll
+C:\eric\solution\solution\web\bin\DAL.pdb
+C:\Users\ekatz\Desktop\solution\web\bin\ContactWeb.dll
+C:\Users\ekatz\Desktop\solution\web\bin\ContactWeb.pdb
+C:\Users\ekatz\Desktop\solution\web\bin\BUS.dll
+C:\Users\ekatz\Desktop\solution\web\bin\DAL.dll
+C:\Users\ekatz\Desktop\solution\web\bin\BUS.pdb
+C:\Users\ekatz\Desktop\solution\web\bin\DAL.pdb
+C:\Users\ekatz\Desktop\solution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\solution\web\obj\Debug\ContactWeb.dll
+C:\Users\ekatz\Desktop\solution\web\obj\Debug\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\ContactWeb.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\BUS.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\DAL.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\BUS.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\bin\DAL.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\obj\Debug\ContactWeb.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 16\HW\solution\solution\web\obj\Debug\ContactWeb.pdb

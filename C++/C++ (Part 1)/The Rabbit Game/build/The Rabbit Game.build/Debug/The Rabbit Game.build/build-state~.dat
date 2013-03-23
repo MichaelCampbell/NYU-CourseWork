@@ -1,0 +1,99 @@
+TThe Rabbit Game
+v7
+r0
+t313208743.442453
+cCheck dependencies
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/The Rabbit Game
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/The Rabbit Game.LinkFileList
+c000000004CFAF8270000000000000110
+t1291515943
+s272
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp
+c000000004CFAF82700000000000002F6
+t1291515943
+s758
+i<iostream>
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp
+c000000004CFAF82700000000000006AB
+t1291515943
+s1707
+i<iostream>
+i<cstdlib>
+i"rabbit.h"
+
+N/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h
+c000000004CFAF82700000000000000DE
+t1291515943
+s222
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313208743#313208743#0(0"0(0#1#0"8609423712#0"0#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313208743.122911
+e313208743.125079
+r0
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#313208743#0(1426"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:4:22: error: terminal.h: No such file or directory/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:5:18: error: wolf.h: No such file or directory/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:6:20: error: rabbit.h: No such file or directory/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp: In function 'int main()':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:13: error: 'terminal' does not name a type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:15: error: 'term' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:18: error: 'wolf' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:18: error: expected `;' before 'w'/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:19: error: 'rabbit' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:19: error: expected `;' before 'r'/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:22: error: 'w' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:25: error: 'r' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:15: warning: unused variable 'xmax'/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp:16: warning: unused variable 'ymax'13(4@37"Terminal.h: No such file or directory313208743#0#110#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#4#0#4#0#28"*: No such file or directory0(4@33"Wolf.h: No such file or directory313208743#110#106#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#5#0#5#0#28"*: No such file or directory0(4@35"Rabbit.h: No such file or directory313208743#216#108#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#6#0#6#0#28"*: No such file or directory0(4@31"'terminal' does not name a type313208743#410#102#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#13#0#13#0#24"'*' does not name a type0(4@37"'term' was not declared in this scope313208743#512#108#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#15#0#15#0#34"'*' was not declared in this scope0(4@37"'wolf' was not declared in this scope313208743#620#108#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#18#0#18#0#34"'*' was not declared in this scope0(4@23"Expected `;' before 'w'313208743#728#94#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#18#0#18#0#19"expected * before *0(4@39"'rabbit' was not declared in this scope313208743#822#110#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#19#0#19#0#34"'*' was not declared in this scope0(4@23"Expected `;' before 'r'313208743#932#94#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#19#0#19#0#19"expected * before *0(4@34"'w' was not declared in this scope313208743#1026#105#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#22#0#22#0#34"'*' was not declared in this scope0(4@34"'r' was not declared in this scope313208743#1131#105#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#25#0#25#0#34"'*' was not declared in this scope0(22@22"Unused variable 'xmax'313208743#1236#95#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#15#0#15#0#19"unused variable '*'0(22@22"Unused variable 'ymax'313208743#1331#95#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp313208743#16#0#16#0#19"unused variable '*'0(0#0#58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp8612076480#1578"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/main.o"1#
+
+CCompileC "build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o" "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313208743.125202
+e313208743.442375
+r0
+xCompileC
+xbuild/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o
+x/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:3:
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:3:22: error: terminal.h: No such file or directory
+oIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:3:
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:6: error: ISO C++ forbids declaration of 'terminal' with no type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:6: error: expected ';' before '*' token
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:10: error: expected ',' or '...' before '&' token
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:10: error: ISO C++ forbids declaration of 'terminal' with no type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:6: error: expected ',' or '...' before '&' token
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:6: error: ISO C++ forbids declaration of 'terminal' with no type
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp: In constructor 'rabbit::rabbit(int)':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:8: error: 't' was not declared in this scope
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:8: error: 'initial_t' was not declared in this scope
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:9: error: 'initial_x' was not declared in this scope
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:10: error: 'initial_y' was not declared in this scope
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp: In member function 'bool rabbit::move()':
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:53: error: 't' was not declared in this scope
+o/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:57: error: 't' was not declared in this scope
+lSLF07#2@68"Compile /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#313208743#0(1842"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:3:/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:3:22: error: terminal.h: No such file or directoryIn file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:3:/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:6: error: ISO C++ forbids declaration of 'terminal' with no type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:6: error: expected ';' before '*' token/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:10: error: expected ',' or '...' before '&' token/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h:10: error: ISO C++ forbids declaration of 'terminal' with no type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:6: error: expected ',' or '...' before '&' token/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:6: error: ISO C++ forbids declaration of 'terminal' with no type/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp: In constructor 'rabbit::rabbit(int)':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:8: error: 't' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:8: error: 'initial_t' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:9: error: 'initial_x' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:10: error: 'initial_y' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp: In member function 'bool rabbit::move()':/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:53: error: 't' was not declared in this scope/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp:57: error: 't' was not declared in this scope13(4@37"Terminal.h: No such file or directory313208743#86#110#2(7@82"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#18446744073709551615#0#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#3#0#3#0#0"0(13@99"Terminal.h: No such file or directory in /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#18446744073709551615#0#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#3#0#3#0#0"0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#3#0#3#0#28"*: No such file or directory0(4@54"ISO C++ forbids declaration of 'terminal' with no type313208743#282#124#2(7@82"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#18446744073709551615#0#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#3#0#3#0#0"0(13@116"ISO C++ forbids declaration of 'terminal' with no type in /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#18446744073709551615#0#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#6#0#6#0#0"0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#6#0#6#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token313208743#406#99#2(7@82"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#18446744073709551615#0#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#3#0#3#0#0"0(13@91"Expected ';' before '*' token in /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#18446744073709551615#0#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#6#0#6#0#0"0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#6#0#6#0#19"expected * before *0(4@38"Expected ',' or '...' before '&' token313208743#505#109#2(7@82"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#18446744073709551615#0#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#3#0#3#0#0"0(13@100"Expected ',' or '...' before '&' token in /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#18446744073709551615#0#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#10#0#10#0#0"0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#10#0#10#0#19"expected * before *0(4@54"ISO C++ forbids declaration of 'terminal' with no type313208743#614#125#2(7@82"In file included from /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#18446744073709551615#0#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#3#0#3#0#0"0(13@116"ISO C++ forbids declaration of 'terminal' with no type in /Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#18446744073709551615#0#0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#10#0#10#0#0"0(6@58"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.h313208743#10#0#10#0#47"ISO C++ forbids declaration of '*' with no type0(4@38"Expected ',' or '...' before '&' token313208743#739#110#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#6#0#6#0#19"expected * before *0(4@54"ISO C++ forbids declaration of 'terminal' with no type313208743#849#126#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#6#0#6#0#47"ISO C++ forbids declaration of '*' with no type0(4@34"'t' was not declared in this scope313208743#1075#106#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#8#0#8#0#34"'*' was not declared in this scope0(4@42"'initial_t' was not declared in this scope313208743#1181#114#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#8#0#8#0#34"'*' was not declared in this scope0(4@42"'initial_x' was not declared in this scope313208743#1295#114#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#9#0#9#0#34"'*' was not declared in this scope0(4@42"'initial_y' was not declared in this scope313208743#1409#115#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#10#0#10#0#34"'*' was not declared in this scope0(4@34"'t' was not declared in this scope313208743#1628#107#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#53#0#53#0#34"'*' was not declared in this scope0(4@34"'t' was not declared in this scope313208743#1735#107#0(6@60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp313208743#57#0#57#0#34"'*' was not declared in this scope0(0#0#60"/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp8608877920#1582"    cd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/The Rabbit Game-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/rabbit.cpp" -o "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/The Rabbit Game.build/Debug/The Rabbit Game.build/Objects-normal/x86_64/rabbit.o"1#
+
+CLd "/Users/Myko/Documents/C++ (Part1)/The Rabbit Game/build/Debug/The Rabbit Game" normal x86_64
+r0
+

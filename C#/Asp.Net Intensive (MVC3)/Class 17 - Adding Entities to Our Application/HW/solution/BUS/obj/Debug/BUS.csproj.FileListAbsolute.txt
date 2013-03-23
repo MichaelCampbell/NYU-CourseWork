@@ -1,0 +1,20 @@
+C:\eric\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\BUS\bin\Debug\BUS.dll
+C:\eric\solution\BUS\bin\Debug\BUS.pdb
+C:\eric\solution\BUS\obj\Debug\BUS.dll
+C:\eric\solution\BUS\obj\Debug\BUS.pdb
+C:\eric\solution\solution\BUS\bin\Debug\BUS.dll
+C:\eric\solution\solution\BUS\bin\Debug\BUS.pdb
+C:\eric\solution\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\eric\solution\solution\BUS\obj\Debug\BUS.dll
+C:\eric\solution\solution\BUS\obj\Debug\BUS.pdb
+C:\Users\ekatz\Desktop\solution\BUS\bin\Debug\BUS.dll
+C:\Users\ekatz\Desktop\solution\BUS\bin\Debug\BUS.pdb
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\BUS.dll
+C:\Users\ekatz\Desktop\solution\BUS\obj\Debug\BUS.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\BUS\bin\Debug\BUS.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\BUS\bin\Debug\BUS.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\BUS\obj\Debug\BUS.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 17\HW\solution\BUS\obj\Debug\BUS.pdb

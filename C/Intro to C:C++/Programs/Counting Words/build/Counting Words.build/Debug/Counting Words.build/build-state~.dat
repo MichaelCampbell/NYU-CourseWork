@@ -1,0 +1,77 @@
+TCounting Words
+v7
+r0
+t299904227.693691
+cCheck dependencies
+cCompileC "build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/CountingWords.o" "/Users/Myko/Documents/Programs/Counting Words/CountingWords.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Counting Words/CountingWords.c
+c000000004C2FF5490000000000000089
+t1278211401
+s137
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/Counting Words.LinkFileList
+c000000004C2FF563000000000000008A
+t1278211427
+s138
+
+N/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/CountingWords.o
+t1278211427
+s2692
+
+N/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words
+t1278211427
+s9008
+
+N/Users/Myko/Documents/Programs/Counting Words/main.c
+c000000004C2FF5490000000000000089
+t1278211401
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299904227#299904227#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC "build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/CountingWords.o" "/Users/Myko/Documents/Programs/Counting Words/CountingWords.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299904227.042551
+e299904227.374459
+r1
+xCompileC
+xbuild/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/CountingWords.o
+x/Users/Myko/Documents/Programs/Counting Words/CountingWords.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Myko/Documents/Programs/Counting Words/CountingWords.c299904227#299904227#0(0"0(0#0#61"/Users/Myko/Documents/Programs/Counting Words/CountingWords.c7236274654156846080#1513"    cd "/Users/Myko/Documents/Programs/Counting Words"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Counting Words-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Counting Words-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Counting Words-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Counting Words-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Counting Words/build/Debug" "-I/Users/Myko/Documents/Programs/Counting Words/build/Debug/include" "-I/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Counting Words/CountingWords.c" -o "/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/CountingWords.o"0#
+
+CCompileC "build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Counting Words/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words" normal x86_64
+s299904227.383096
+e299904227.693617
+r1
+xLd
+x/Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words299904227#299904227#0(0"0(0#0#0"4300911832#571"    cd "/Users/Myko/Documents/Programs/Counting Words"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/Counting Words/build/Debug" "-F/Users/Myko/Documents/Programs/Counting Words/build/Debug" -filelist "/Users/Myko/Documents/Programs/Counting Words/build/Counting Words.build/Debug/Counting Words.build/Objects-normal/x86_64/Counting Words.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/Counting Words/build/Debug/Counting Words"0#
+

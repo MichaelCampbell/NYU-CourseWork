@@ -1,0 +1,66 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2076788D13273957005765C3 /* Fraction */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Fraction */;
+		codeSenseManager = 2076789213273961005765C3 /* Code sense */;
+		executables = (
+			2076788D13273957005765C3 /* Fraction */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 321337687;
+			PBXWorkspaceStateSaveDate = 321337687;
+		};
+		sourceControlManager = 2076789113273961005765C3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2076788D13273957005765C3 /* Fraction */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fraction;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2076789113273961005765C3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2076789213273961005765C3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* Fraction */ = {
+		activeExec = 0;
+		executables = (
+			2076788D13273957005765C3 /* Fraction */,
+		);
+	};
+}

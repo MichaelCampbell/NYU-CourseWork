@@ -1,0 +1,8 @@
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\netmvc\SportsStoreSolution\SportsStore.Domain\bin\Debug\EntityFramework.xml

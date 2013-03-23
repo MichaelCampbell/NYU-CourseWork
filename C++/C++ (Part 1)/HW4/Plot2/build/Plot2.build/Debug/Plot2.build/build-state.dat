@@ -1,0 +1,90 @@
+TPlot2
+v7
+r0
+t310269485.417462
+cCheck dependencies
+cCompileC build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2
+t1288576685
+s44264
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/Plot2.LinkFileList
+c000000004CCE1C98000000000000006D
+t1288576152
+s109
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o
+t1288576685
+s108244
+
+N/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp
+c000000004CCE1EAC0000000000001E75
+t1288576684
+s7797
+i<iostream>
+i<cstdlib>
+i<ctime>
+i<string>
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/build/Debug/Plot2
+t1288576685
+s44264
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/Plot2.LinkFileList
+c000000004CCE1C98000000000000006D
+t1288576152
+s109
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o
+t1288576685
+s108244
+
+N/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/main.cpp
+c000000004CCE1EAC0000000000001E75
+t1288576684
+s7797
+i<iostream>
+i<cstdlib>
+i<ctime>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310269485#310269485#0(0"0(0#1#0"8598808896#0"0#
+
+CCompileC build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310269485.059936
+e310269485.401209
+r1
+xCompileC
+xbuild/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o
+x/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp310269485#310269485#0(0"0(0#0#52"/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp8602868448#1332"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Plot2-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Plot2-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Plot2-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Plot2-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/main.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2" normal x86_64
+s310269485.401300
+e310269485.417411
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2310269485#310269485#0(0"0(0#0#0"8604731040#525"    cd "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Plot2.build/Debug/Plot2.build/Objects-normal/x86_64/Plot2.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW4/Plot2/build/Debug/Plot2"0#
+
+CLd "/Users/Myko/Documents/NYU/2010/C++ (Part1)/HW4/Plot2/build/Debug/Plot2" normal x86_64
+r0
+

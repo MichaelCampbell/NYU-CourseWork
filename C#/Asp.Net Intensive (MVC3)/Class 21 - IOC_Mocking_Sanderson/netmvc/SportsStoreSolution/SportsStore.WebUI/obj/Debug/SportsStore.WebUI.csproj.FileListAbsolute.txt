@@ -1,0 +1,15 @@
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.xml
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Moq.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Moq.pdb
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\Moq.xml
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\EntityFramework.dll
+C:\netmvc\SportsStoreSolution\SportsStore.WebUI\bin\EntityFramework.xml

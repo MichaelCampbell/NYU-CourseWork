@@ -1,0 +1,83 @@
+﻿@model MembershipApp.Models.Contact.ContactListViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @if (!Model.FirstPage)
+    {
+        @Html.ActionLink("PREV", "Index", new{page = Model.Page -1})}
+        else{
+            <span>PREV </span>
+        }
+    
+    @if (!Model.LastPage)
+    {
+        @Html.ActionLink("NEXT", "Index", new { page = Model.Page + 1 })
+    }
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            LuckyNumber
+        </th>
+        <th>
+            FullName
+        </th>
+        <th>
+            Prefix
+        </th>
+    </tr>
+
+@foreach (var item in Model.Contacts)
+{
+    <tr>
+        <td>
+            @if (Membership.GetUser(item.Email) == null)
+            {
+                @Html.ActionLink("Create Account", "Create", new { email = item.Email, page = Model.Page })
+            }
+            else
+            {
+                @Html.ActionLink("Remove Account", "Remove", new { email = item.Email, page = Model.Page })                
+            }
+                |
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+        <td>
+            @item.FirstName
+        </td>
+        <td>
+            @item.LastName
+        </td>
+        <td>
+            @item.Email
+        </td>
+        <td>
+            @item.LuckyNumber
+        </td>
+        <td>
+            @item.FullName
+        </td>
+        <td>
+            @item.Prefix
+        </td>
+    </tr>
+}
+
+</table>
+

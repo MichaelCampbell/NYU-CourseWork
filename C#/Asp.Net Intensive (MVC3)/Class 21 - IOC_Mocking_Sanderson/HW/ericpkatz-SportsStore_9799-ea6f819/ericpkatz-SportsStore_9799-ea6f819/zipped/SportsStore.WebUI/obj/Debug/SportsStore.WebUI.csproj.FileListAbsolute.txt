@@ -1,0 +1,10 @@
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+c:\SportsStoreSolution\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.dll
+c:\SportsStoreSolution\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.pdb
+c:\SportsStoreSolution\SportsStore.WebUI\bin\Ninject.xml

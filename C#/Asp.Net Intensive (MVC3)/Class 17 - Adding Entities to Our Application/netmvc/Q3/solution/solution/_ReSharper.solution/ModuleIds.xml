@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="8BDA57BD-E8B4-4BC4-AE3F-6F4ABED5D254" ModuleId="BUS" />
+  <Module PersistentId="C6C4428A-69AF-4208-8C93-A4D5A267B054" ModuleId="DAL" />
+  <Module PersistentId="24BE1F9C-15CC-4982-8C35-C5807E59C48D" ModuleId="ContactWeb" />
+</Modules>

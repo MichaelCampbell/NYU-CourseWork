@@ -1,0 +1,101 @@
+TMyMachine
+v7
+r0
+t308437577.079286
+cCheck dependencies
+cCompileC build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp
+c000000004CB22B5D0000000000000551
+t1286744925
+s1361
+i<iostream>
+i<cstdlib>
+i<climits>
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/MyMachine.cpp
+c000000004CB226AA00000000000004C5
+t1286743722
+s1221
+i<iostream>
+i<cstdlib>
+i<climits>
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/build/Debug/MyMachine
+t1286743723
+s10712
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.LinkFileList
+c000000004CB222FE000000000000007E
+t1286742782
+s126
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o
+t1286743723
+s68536
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine
+t1286744777
+s10712
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.LinkFileList
+c000000004CB222FE000000000000007E
+t1286742782
+s126
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o
+t1286744777
+s68536
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/main.cpp
+c000000004CB22181000000000000008F
+t1286742401
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308437576#308437576#0(0"0(0#1#0"8602489856#0"0#
+
+CCompileC build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308437576.807792
+e308437577.061391
+r1
+xCompileC
+xbuild/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o
+x/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp308437576#308437577#0(0"0(0#0#61"/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp8599082752#1458"    cd "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/MyMachine-generated-files.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/MyMachine-own-target-headers.hmap" "-I/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/MyMachine-all-target-headers.hmap" -iquote "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/MyMachine-project-headers.hmap" "-F/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug" "-I/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/include" "-I/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/DerivedSources" -c "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine.cpp" -o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o"0#
+
+CCompileC build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/MyMachine.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/main.o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/MyMachine/build/Debug/MyMachine" normal x86_64
+r0
+
+CLd "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine" normal x86_64
+s308437577.061469
+e308437577.079238
+r1
+xLd
+x/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine308437577#308437577#0(0"0(0#0#0"8593522944#561"    cd "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug" "-F/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug" -filelist "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/MyMachine.build/Debug/MyMachine.build/Objects-normal/x86_64/MyMachine.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/C++ (Part1)/HW2/MyMachine/build/Debug/MyMachine"0#
+

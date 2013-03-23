@@ -1,0 +1,121 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2083BECE11E19CA200C2577A /* MAX3 */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* MAX3 */;
+		codeSenseManager = 2083BED311E19CB000C2577A /* Code sense */;
+		executables = (
+			2083BECE11E19CA200C2577A /* MAX3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					495,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299998370;
+			PBXWorkspaceStateSaveDate = 299998370;
+		};
+		perUserProjectItems = {
+			2083BF1111E1A22B00C2577A /* XCBuildMessageTextBookmark */ = 2083BF1111E1A22B00C2577A /* XCBuildMessageTextBookmark */;
+			2083C02511E299F000C2577A /* PBXTextBookmark */ = 2083C02511E299F000C2577A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2083BED211E19CB000C2577A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* MAX3.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {673, 280}}";
+			sepNavSelRange = "{0, 244}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	2083BECE11E19CA200C2577A /* MAX3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MAX3;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2083BED211E19CB000C2577A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2083BED311E19CB000C2577A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2083BF1111E1A22B00C2577A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ')' before ':' token";
+		fRef = 08FB7796FE84155DC02AAC07 /* MAX3.c */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	2083C02511E299F000C2577A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* MAX3.c */;
+		name = "MAX3.c: 1";
+		rLen = 244;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	8DD76FA90486AB0100D96B5E /* MAX3 */ = {
+		activeExec = 0;
+		executables = (
+			2083BECE11E19CA200C2577A /* MAX3 */,
+		);
+	};
+}

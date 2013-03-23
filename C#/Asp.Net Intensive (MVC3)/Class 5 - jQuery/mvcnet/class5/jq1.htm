@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Working with jQuery</title>
+<script type="text/javascript" src="../jquery-1.7.1.min.js"></script>
+</head>
+<body>
+<a href="http://jquery.com/">jQuery Site for library</a><br />
+<div class="contentToChange">
+  <p class="para1">Hello from paragraph 1. Welcome to jQuery.<em>Where have you been my whole life.</em></p>
+  <p class="para2">Hello from paragraph 2. Welcome to jQuery.Where have you been my whole life.</p>
+  <p class="para3">Hello from paragraph 3. Welcome to jQuery.Where have you been my whole life.</p>
+  <p class="para4">Hello from paragraph 4. Welcome to jQuery.<em>Where have you been my whole life.</em></p>
+  <p class="para5">Hello from paragraph 5. Welcome to jQuery.Where have you been my whole life.</p>
+</div>
+
+<input type="button" value="number of <p> on page"
+onclick="alert($('p').size())" /><br />
+<input type="button" value="number of <div> on page"
+onclick="alert($('div').size())" /><br />  
+<input type="button" value="fade out the 3rd <p>"
+onclick="$('div.contentToChange p.para3').hide('slow')" /><br />
+<input type="button" value="fade out everything"
+onclick="$('div.contentToChange').hide('slow')" /><br />
+<input type="button" value="unfade out everything"
+onclick="$('div.contentToChange').show('slow')" /><br />    
+<input type="button" value="modify text with css"
+onclick="$('div.contentToChange em').css({color:'#959808',fontWeight:'bold'})" /><br />
+<input type="button" value="Collapse"
+onclick="$('div.contentToChange p.para1').hide('slow'), $('div.contentToChange p.para2').hide('slow'), $('div.contentToChange p.para3').hide('slow'), $('div.contentToChange p.para4').hide('slow')" /><br />
+
+<!--
+jQuery is a fast and concise JavaScript Library that 
+simplifies HTML document traversing, event handling, 
+animating, and Ajax interactions for rapid web 
+development. jQuery is designed to change the way 
+that you write JavaScript.
+
+Benefits:
+Lightweight Footprint
+CSS3 Compliant
+Supports CSS 1-3 selectors and more!
+Cross-browser
+
+<em> renders emphasized text
+-->
+</body>
+</html>

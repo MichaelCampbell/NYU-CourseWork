@@ -1,0 +1,37 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="C6CBCE1F-0C35-496A-B0A2-33A57E562D7B/f:UnitTest1.cs" caret="0" fromTop="0" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Controllers/f:HomeController.cs" caret="452" fromTop="21" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:Global.asax.cs" caret="915" fromTop="8" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:HTMLPage1.htm" caret="234" fromTop="9" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Concrete/f:EFDbContext.cs" caret="295" fromTop="11" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Concrete/f:EFProductsRepository.cs" caret="181" fromTop="8" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:Web.config" caret="389" fromTop="10" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Abstract/f:IProductRepository.cs" caret="275" fromTop="13" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="725" fromTop="17" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Controllers/f:ProductController.cs" caret="508" fromTop="19" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Entities/f:Product.cs" caret="307" fromTop="14" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Views/d:Product/f:List.cshtml" caret="82" fromTop="5" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Controllers/f:HomeController.cs" caret="461" fromTop="21" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="1216" fromTop="15" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:Global.asax.cs" caret="1308" fromTop="20" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:HTMLPage1.htm" caret="243" fromTop="9" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="1240" fromTop="24" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="1182" fromTop="19" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:Global.asax.cs" caret="915" fromTop="8" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Controllers/f:ProductController.cs" caret="494" fromTop="26" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Concrete/f:EFDbContext.cs" caret="304" fromTop="11" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Concrete/f:EFProductsRepository.cs" caret="396" fromTop="14" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="481" fromTop="13" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="943" fromTop="19" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Infrastructure/f:NinjectControllerFactory.cs" caret="233" fromTop="4" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Concrete/f:EFProductsRepository.cs" caret="181" fromTop="8" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/f:Web.config" caret="389" fromTop="10" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Controllers/f:ProductController.cs" caret="529" fromTop="19" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Abstract/f:IProductRepository.cs" caret="253" fromTop="10" />
+    <File id="CCF0F59A-2DE4-4E2E-A495-E45370DFCAA5/d:Entities/f:Product.cs" caret="307" fromTop="14" />
+    <File id="B00CD885-562B-403C-A39C-EC2C43812CF0/d:Views/d:Product/f:List.cshtml" caret="131" fromTop="8" />
+  </RecentEdits>
+</RecentFiles>

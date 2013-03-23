@@ -1,0 +1,7 @@
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\bin\AutoDealership.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\bin\AutoDealership.pdb
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\bin\EntityFramework.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\bin\EntityFramework.xml
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\obj\Debug\AutoDealership.dll
+C:\Users\Myko\Dropbox\Classes\2012\Spring 2012\Asp.Net Intensive (MVC3)\Class 15\HW\AutoDealership\AutoDealership\obj\Debug\AutoDealership.pdb

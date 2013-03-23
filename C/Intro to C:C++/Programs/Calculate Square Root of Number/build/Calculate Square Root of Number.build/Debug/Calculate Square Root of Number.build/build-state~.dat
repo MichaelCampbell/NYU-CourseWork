@@ -1,0 +1,77 @@
+TCalculate Square Root of Number
+v7
+r0
+t299986714.646538
+cCheck dependencies
+cCompileC "build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/SquareRoot.o" "/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c
+c000000004C3137980000000000000254
+t1278293912
+s596
+i<stdio.h>
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/Calculate Square Root of Number.LinkFileList
+c000000004C31379900000000000000BA
+t1278293913
+s186
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/SquareRoot.o
+t1278293914
+s4148
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number
+t1278293914
+s9336
+
+N/Users/Myko/Documents/Programs/Calculate Square Root of Number/main.c
+c000000004C3136350000000000000089
+t1278293557
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299986713#299986713#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/SquareRoot.o" "/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s299986713.851182
+e299986714.592490
+r1
+xCompileC
+xbuild/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/SquareRoot.o
+x/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c299986713#299986714#0(0"0(0#0#75"/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c4300911832#2000"    cd "/Users/Myko/Documents/Programs/Calculate Square Root of Number"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Calculate Square Root of Number-generated-files.hmap" "-I/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Calculate Square Root of Number-own-target-headers.hmap" "-I/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Calculate Square Root of Number-all-target-headers.hmap" -iquote "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Calculate Square Root of Number-project-headers.hmap" "-F/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug" "-I/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/include" "-I/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/DerivedSources/x86_64" "-I/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/DerivedSources" -c "/Users/Myko/Documents/Programs/Calculate Square Root of Number/SquareRoot.c" -o "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/SquareRoot.o"0#
+
+CCompileC "build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/main.o" "/Users/Myko/Documents/Programs/Calculate Square Root of Number/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number" normal x86_64
+s299986714.592579
+e299986714.646434
+r1
+xLd
+x/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number
+xnormal
+xx86_64
+lSLF07#2@111"Link /Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number299986714#299986714#0(0"0(0#0#0"4300911832#724"    cd "/Users/Myko/Documents/Programs/Calculate Square Root of Number"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug" "-F/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug" -filelist "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Calculate Square Root of Number.build/Debug/Calculate Square Root of Number.build/Objects-normal/x86_64/Calculate Square Root of Number.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Myko/Documents/Programs/Calculate Square Root of Number/build/Debug/Calculate Square Root of Number"0#
+
